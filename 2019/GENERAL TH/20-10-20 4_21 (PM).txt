@@ -1,0 +1,1693 @@
+Documento
+
+Voces:
+AMBIENTE ~ CONSTITUCIONALIDAD ~ DERECHO A LA SALUD ~ DERECHO AMBIENTAL ~
+FACULTADES DE LA MUNICIPALIDAD ~ FEDERALISMO ~ MUNICIPALIDAD ~ ORDENANZA
+MUNICIPAL ~ PODER DE POLICIA ~ SERVICIO PUBLICO ~ TELEFONIA CELULAR
+Tribunal: Corte Suprema de Justicia de la Nación(CS)
+Fecha: 02/07/2019
+Partes: Telefónica Móviles Argentina SA - Telefónica Argentina SA c. Municipalidad de Gral. Güemes s/
+acción meramente declarativa de inconstitucionalidad
+Publicado en: LA LEY 05/08/2019 , 4, con nota de Andrés Gil Domínguez; LA LEY 2019-D , 234, con nota de
+Andrés Gil Domínguez; Sup. Adm. 2019 (agosto), con nota de Nicolás Diana; LA LEY 28/08/2019 , 12,
+P.m.-S; SJA 06/11/2019, 06/11/2019, 25 - RDA 2019-126 , 1139, con nota de Alfredo M. Vítolo; RDAmb 63 ,
+128, Con nota de Daniela Pahor;
+Cita Online: AR/JUR/20503/2019
+Sumarios:
+1 . La ordenanza 299/2010 del municipio de Güemes –Salta–, en cuanto ordena la remoción de antenas de
+telefonía celular ya instaladas –con fundamento principal en la salud de la población– y altera el diseño de la
+red, es inconstitucional, porque se entromete en un aspecto regulatorio de competencia nacional exclusiva,
+como lo es el de ampliar, modificar y trasladar los distintos medios o sistemas de telecomunicaciones, facultad
+que fue delegada por las provincias a la Nación.
+2 . La autonomía municipal constitucionalizada no puede ser entendida como una franquicia para que los
+municipios interfieran en el desarrollo de los servicios nacionales –en el caso, el servicio de telefonía móvil–
+sino que, en todo caso, debe ser concebida como el fundamento para que los municipios ejerzan aquellas
+competencias regulatorias que les resultan propias, siempre que ese ejercicio sea armónico con las atribuciones
+constitucionales del gobierno federal.
+3 . Cuando se encuentran involucrados servicios públicos nacionales –en el caso, el servicio de telefonía móvil–,
+las provincias y los municipios deben ejercer sus competencias sin alterar las condiciones materiales,
+económicas, jurídicas establecidas por la legislación nacional; y esto se justifica aun en mayor medida respecto
+de las competencias de las comunas, pues estas no tienen un poder más extenso que las provincias.
+4 . La ordenanza 299/2010 del municipio de Güemes –Salta–, en cuanto ordena la remoción de antenas de
+telefonía celular –con fundamento en la salud de la población–, es inconstitucional, porque, dado el diseño y
+estructura del sistema de telecomunicaciones, una antena no puede ser trasladada sin la autorización de la
+autoridad nacional de aplicación, pues la ubicación de las antenas resulta determinante a fin de constituir la red
+interjurisdiccional necesaria para la adecuada prestación del servicio de telefonía móvil. (Del voto de la Dra.
+Highton de Nolasco).
+5 . El carácter interjurisdiccional del servicio de telecomunicaciones móviles justifica y determina la
+competencia regulatoria federal y, por tanto, la imposibilidad de los municipios de adoptar medidas que
+interfieran u obstaculicen esa competencia. (Del voto de la Dra. Highton de Nolasco).
+6 . Sin perjuicio de la autonomía municipal y la consecuente facultad para ejercer el poder de policía ambiental,
+la cuestión del emplazamiento de antenas de telefonía móvil no puede quedar sujeta a una excesiva
+descentralización, si ello constituye una interferencia incompatible con las facultades del Estado nacional y no
+se ha acreditado la afectación en materia ambiental. (Del voto del Dr. Lorenzetti).
+7 . La ordenanza 299/2010 del municipio de Güemes –Salta–, en tanto dispone la relocalización de antenas de
+telefonía celular alegando la protección del ambiente, no entra en conflicto con la regulación federal, porque no
+tiene por objeto regular aspectos técnicos que se vinculen con el núcleo del servicio de telecomunicaciones; y
+porque dicho precepto hace expreso mérito de la resolución federal 202/95; y, además, sujeta la habilitación
+municipal de tales instalaciones al cumplimiento de la normativa nacional y provincial. (Del voto en disidencia
+de los Dres. Maqueda y Rosatti).
+8 . La instancia de decisión municipal es la que mejor conoce las modalidades de la convivencia vecinal, como
+así también las fortalezas, carencias y potencialidades de su territorio; por lo tanto, es lógico que tenga una
+competencia primaria para diseñar la política pública sobre preservación y mejoramiento del ambiente, la tutela
+de la estética urbana y del paisaje, en coordinación con las autoridades provinciales. (Del voto en disidencia de
+los Dres. Maqueda y Rosatti).
+Texto Completo:
+Suprema Corte:
+-I© Thomson Reuters Información Legal
+
+1
+
+Documento
+
+A fs. 1255/1259 del expediente principal (al que me referiré en adelante, salvo que se indiquen otras
+actuaciones), la Cámara Federal de Apelaciones de Salta, al confirmar la resolución de primera instancia,
+desestimó el proceso iniciado por Telefónica Móviles Argentina SA (TMA) y Telefónica Argentina SA (TASA)
+contra la Municipalidad de General Güemes (Provincia de Salta) para que se declare la inconstitucionalidad e
+inaplicabilidad de la ordenanza de ese municipio 299/10, por la cual se dispuso la erradicación en un plazo de
+60 días de estructuras y antenas de telefonía móvil de la zona urbana, cuyo emplazamiento incumpla la distancia
+mínima de 500 metros respecto de esa zona o en las proximidades de lugares donde se desarrollen actividades
+educativas, deportivas, sociales o de cualquier tipo que implique la exposición continua de personas a sus
+emisiones.
+Para así resolver, los magistrados remitieron a los precedentes anteriores de la cámara, “Telecom Argentina
+SA - Telecom Personal SA c. Municipalidad de General Güemes s/ acción meramente declarativa de derecho
+(Expte. FSA 11000499/2010/CA1)” y “AMX Argentina SA c. Municipalidad de General Güemes s/ acción
+meramente declarativa de inconstitucionalidad ordinario” (Expte. FSA 11000130/2011/CA1”, sentencias del 31
+de marzo de 2015 y 7 de abril de 2015, respectivamente, por considerarlos análogos a este. Agregaron a lo
+expuesto en dichas causas que el informe del perito, obrante a fs. 1031/1105 de este expediente, no modificaba
+su decisión. En efecto, dijeron que la conclusión del experto —en el sentido de que la antena ubicada en la calle
+... de aquel municipio no superaba el límite de exposición más restrictivo y que, en consecuencia, cumplía con
+la resolución 202/95 del Ministerio de Salud Pública y Acción Social de la Nación (MSPyAS)— no implicaba
+negar terminantemente la posibilidad de que pudiera existir, de modo eventual, una relación entre las emisiones
+de la antena de telefonía móvil y los padecimientos en la salud de los pobladores de las zonas aledañas, todo lo
+cual los llevaba a un estado de incerteza que convalidaba la aplicación del principio precautorio, ante la
+posibilidad que se irrogara un daño grave e irreversible a la población de la ciudad de General Güemes.
+Los argumentos que esgrimieron los jueces en tales causas pueden resumirse del siguiente modo: (i) la
+Comisión Nacional de Comunicaciones (CNC) es competente para regular lo atinente al servicio de
+comunicaciones por imperio de los arts. 6°, 39 y concordantes de la ley 19.798; (ii) la Municipalidad de General
+Güemes se encuentra habilitada para el dictado de normas referidas a las estructuras de soporte de antenas de
+acuerdo con el art. 176 de la Constitución de la Provincia de Salta, porque se trata de facultades propias del
+ejercicio del poder de policía en materia de urbanismo, higiene, salubridad y moralidad, y de propender al
+desarrollo sostenible, la protección del ambiente, del paisaje, del equilibrio ecológico y a fin de evitar la
+polución ambiental; (iii) la Nación tiene a su cargo el dictado de los presupuestos mínimos de protección
+ambiental, mientras que las provincias pueden reglamentarlos o complementarlos, sin alterar el piso de la ley
+nacional, e incluso pueden establecer criterios más estrictos; (iv) es de público y notorio conocimiento que el
+servicio de telecomunicaciones puede prestarse eficazmente no solo en el casco urbano; (v) el desmantelamiento
+de las antenas de telefonía móvil ordenado por la municipalidad no importa una intromisión en la competencia
+de la CNC, pues el municipio tiene facultades constitucionales para efectuar regulaciones tendientes al
+ordenamiento del territorio, máxime cuando la resolución CNC 3690/2004 exige a los operadores de estaciones
+radioeléctricas demostrar que las radiaciones generadas por las antenas no afectan a la población en el espacio
+circundante; (vi) es aplicable al sub lite el principio precautorio, ya que no hay evidencia científica de que las
+radiaciones de telefonía celular dañen la salud ni de que sean inocuas; (vii) las secuelas o costos de la aplicación
+del principio precautorio no son excesivos, pues no se ha acreditado que el gasto de traslado de las antenas fuera
+del ejido urbano sea complicado o imposible de afrontar, ni que genere pérdida de puestos de trabajo o
+provoque alguna conmoción o costo social negativo; (viii) las autorizaciones para la instalación de las antenas
+se otorgan con carácter precario y (ix) nadie tiene el derecho al mantenimiento de las leyes o reglamentaciones,
+por este motivo, la autorización que se otorgó a la empresa no implicó que adquiriera derecho alguno al
+mantenimiento de la ubicación de las antenas.
+Por último, recomendaron a las partes, a fin de no descuidar el derecho de los ciudadanos al uso del servicio
+de interés público en telecomunicaciones móviles —según la ley 27.708— y evitar especulaciones sobre la
+posibilidad de justificar futuras deficiencias del servicio, que adopten las medidas necesarias para que el nuevo
+lugar de emplazamiento de las antenas resulte apto para la prestación del servicio en condiciones de calidad
+equiparable a las que existían a la fecha de la decisión.
+- II Contra tal pronunciamiento, Telefónica Móviles Argentina SA Telefónica Argentina SA interpuso el recurso
+extraordinario de fs. 23/37 (del cuaderno de queja) el que, denegado a fs. 1294/1295, da lugar a esta
+presentación directa.
+Sostiene que la ordenanza 299/10 transgrede el art. 75, inc. 13 de la Constitución Nacional, al igual que
+© Thomson Reuters Información Legal
+
+2
+
+Documento
+
+principios y garantías constitucionales como el derecho de propiedad, a ejercer una industria lícita y el principio
+de razonabilidad, además de que afecta la prestación del servicio de telefonía móvil, en violación de las
+disposiciones de los arts. 3°, 4° y 6° de la Ley Nacional de Telecomunicaciones (19.798) y su complementaria,
+la Ley Argentina Digital (27.078).
+Expone que la inminente aplicación de la ordenanza cuestionada importa una afectación actual y futura, así
+como sustancial y directa, a la prestación de los mencionados servicios, al impedir instalar más componentes a
+la red de soporte de antenas y al intimarla para que, en un exiguo plazo de sesenta días, readecue las estructuras
+de soporte de antenas instaladas, sobre la base de requerimientos que no se adecuan a las normas federales que
+rigen en dicha jurisdicción.
+Considera que se afectan derechos adquiridos, ya que tanto TMA como TASA tienen permisos y licencias
+otorgados por la Secretaría de Comunicaciones de la Nación para prestar el servicio e instalar la red pertinente
+en la jurisdicción del Municipio de General Güemes. Además, alega que periódicamente se realizan
+relevamientos del servicio para obtener los parámetros aceptables de radiaciones no ionizantes establecidos en
+las normas federales que se halla obligada a observar.
+Se agravia de que el a quo haya remitido, para decidir la presente causa, a los precedentes que se mencionan
+en la sentencia, en los cuales se afirmó que “solo puede aseverarse que no hay evidencia científica inequívoca
+respecto a que las radiaciones de la telefonía celular dañen la salud humana, pero tampoco que sean inocuas”,
+toda vez que con tal argumento se prescinde de considerar que en esta causa se ha probado fehacientemente, con
+evidencia científica, que no se encuentra afectado el principio precautorio.
+En ese orden, manifiesta que no se ha tomado en cuenta que, según el informe pericial de fs. 1031/1105, la
+exposición a las emisiones no ionizantes es casi la misma en el supuesto de que la antena se encuentre
+encendida o apagada, lo cual exime de la aplicación del principio precautorio, pues se tiene la “certeza” de que
+no se provocará daño ambiental ni a la salud.
+También alega que la sentencia soslaya la falta de razonabilidad de la ordenanza 299/10, pues con su
+aplicación se obtendrá el efecto inverso a lo que se intenta evitar, en la medida que el traslado de las antenas
+fuera de la zona donde están ubicadas generará la necesidad de aumentar los niveles de radiación a fin de
+abarcar el mayor radio de cobertura, sin que ello garantice, tampoco, el buen funcionamiento del servicio.
+Por último, afirma —con cita de otros precedentes judiciales en los cuales se ha interpretado cuándo procede
+la aplicación del principio precautorio—, que se ha efectuado una errónea y excesiva aplicación de él, toda vez
+que no se acreditó en la causa que haya riesgo grave de daño, ni incertidumbre científica acerca de los efectos de
+las emisiones de las antenas de servicios móviles.
+- III Previo a examinar el fondo de la cuestión, procede recordar que, como lo ha establecido el Tribunal, cuando
+el recurso extraordinario se funda, como ocurre en el caso, por un lado, en agravios de naturaleza federal y, por
+el otro, en la arbitrariedad del pronunciamiento, corresponde considerar en primer término esta última, pues de
+existir arbitrariedad, deviene insustancial el tratamiento de los demás argumentos, ya que no habría sentencia
+propiamente dicha (conf. doctrina de Fallos: 321:407 y 326:4123).
+- IV Liminarmente, advierto que análogos planteos referidos a la ordenanza municipal aquí cuestionada fueron
+ya estudiados por esta Procuración General el 11 de abril de 2017 en la causa “AMX Argentina SA c.
+Municipalidad de General Güemes s/ acción meramente declarativa de inconstitucionalidad - ordinario” (Expte.
+ESA 11000130/2011/CA1).
+Sin embargo, y a diferencia de lo que ocurría en tal causa, en la sentencia aquí recurrida el a quo fundó
+también su decisión en que la conclusión a la que arriba el informe pericial obrante a fs. 1031/1105 no
+implicaba negar terminantemente la posibilidad de que pudiera existir, de modo eventual, una relación entre las
+emisiones de la antena de telefonía móvil y los padecimientos en la salud de los pobladores de las zonas
+aledañas, lo cual hacía aplicable al sub lite el principio precautorio de carácter ambiental.
+La recurrente denuncia que el a quo ha efectuado una apreciación parcial y sesgada de la prueba producida
+en autos. No obstante que tales agravios remiten a cuestiones de hecho y prueba, materia ajena —como regla y
+por su naturaleza— a la instancia del art. 14 de la ley 48, cabe recordar que V.E. tiene dicho que ello no resulta
+óbice para abrir el recurso, cuando como ocurre en este caso— la resolución se funda en afirmaciones
+dogmáticas y en valoraciones fragmentadas de las constancias de la causa, incurriendo en omisiones respecto de
+© Thomson Reuters Información Legal
+
+3
+
+Documento
+
+la ponderación de hechos conducentes para la correcta decisión del litigio (Fallos: 319:1878).
+Entiendo que ello es así, pues vale recordar que la cámara se limitó a considerar, del informe pericial
+obrante a fs. 1031/1105, el aspecto referido a que la antena ubicada en la calle ... de aquel municipio no
+superaba el límite de exposición más restrictivo, cumpliendo, en consecuencia, con la resolución 202/1995 del
+Ministerio de Salud Pública y Acción Social de la Nación (MSPyAS). Sobre la base de esta única circunstancia,
+reitero, el tribunal concluyó que lo expuesto no implicaba negar terminantemente la posibilidad de que pudiera
+existir, de modo eventual, una relación entre las emisiones de la antena de telefonía móvil y los padecimientos
+en la salud de los pobladores de las zonas aledañas, lo cual hacía aplicable al sub lite el principio precautorio de
+carácter ambiental.
+En efecto, de acuerdo con lo que dice la cámara, de aquel informe surge con relación a los niveles de
+radiación de las antenas instaladas en General Güemes, que “del análisis de los resultados del Informe
+CAERCEM N° 4780 (ver Anexo IV)”... sobre las antenas en funcionamiento, “los niveles de radiación
+electromagnética en los 32 puntos relevados no superan el 6,2% del límite de exposición poblacional más
+restrictivo dado por la Resolución N° 202/1995 del MSyAS de la Nación para exposiciones de 24 horas los 365
+días del año. Esto significa que el sitio cumple con las condiciones de exposición a radiación no ionizante de
+alta frecuencia establecidas por la normativa argentina para el público en general” (v. fs. 1102).
+Empero, considero que asiste razón a la recurrente en el sentido de que el pronunciamiento apelado no tuvo
+en cuenta otras conclusiones de relevancia que surgen también de dicho informe y que hacen procedente la
+aplicación al sub lite de la doctrina de la arbitrariedad, toda vez que con ella se tiende a resguardar la garantía de
+la defensa en juicio y el debido proceso.
+Así pues, el a quo omitió reparar, en primer lugar, en que el perito concluyó, en cuanto a la incidencia de las
+RNI sobre la salud y el medio ambiente que, cuando se trata de “exposiciones menores a los límites
+determinados por la Resolución N° 202/1995 del MSyAS se consideran seguras para la salud” (fs. 1104) y que
+dichos niveles coinciden con lo sugerido por la Organización Mundial de la Salud (OMS), a cuyo fin citó la
+Nota Descriptiva N° 304 de mayo de 2006 de dicha Organización en la cual se puntualizó que “considerando los
+niveles muy bajos de exposición y los resultados de las investigaciones obtenidos a la fecha, no existen pruebas
+científicas convincentes de que las débiles señales de radiofrecuencia emitidas por estaciones base y redes
+inalámbricas causen efectos adversos a la salud” (fs. 1104).
+En segundo lugar, el tribunal, al pronunciarse, también soslayó otro aspecto de suma trascendencia para la
+dilucidación del sub lite, cual es el impacto que podría ocasionar, en el medio ambiente y a la salud de la
+población, instalar la antena a una distancia de 500 metros de la zona urbana, pues podría resultar
+paradójicamente que el efecto que quiere prevenirse (evitar posibles danos en la salud y en el ambiente)
+terminaría de modo eventual provocándolo, al tener que elevarse la densidad de potencia para cubrir el servicio,
+con el riesgo de traspasar el límite de nivel de emisión de radiación tolerable.
+En efecto, a fs. 1101, el perito expuso que “es importante dejar en claro que quitar o remover una antena
+solo reduce el impacto visual. No reduce los niveles de exposición de quienes habitan o circulen por el área que
+cubría la antena removida. Esto se debe a que se necesita un nivel determinado de campo electromagnético para
+la operatividad de la telefonía móvil y es este nivel el que normalmente genera la antena removida en su área de
+cobertura”, y de modo contundente, añadió “más aún, quienes usen su celular en esta área, una vez removida la
+antena, se verán expuestos a un mayor nivel de radiación de su propio celular, ya que el mismo deberá
+incrementar su potencia para poder comunicarse con otra antena de la red que reemplaza a la removida y que se
+encuentra más distante”.
+En definitiva, a mi modo de ver, al efectuar una consideración parcial de las conclusiones del perito, el
+tribunal apelado omite evaluar algunas de aquellas vinculadas con el loable propósito del cuidado de la salud y
+del ambiente.
+En particular, respecto de la prueba pericial, es doctrina de V.E. que cabe reconocer validez a las
+conclusiones del experto para la decisión de aspectos que requieren apreciaciones específicas de su saber
+técnico, de las que solo cabría apartarse ante la evidencia de errores manifiestos o insuficiencia de
+conocimientos científicos (Fallos: 319:469; 320:326).
+En efecto, a pesar de que los dictámenes periciales están sujetos —como todo otro elemento probatorio— a
+la valoración por parte de los jueces (Fallos: 315:2774), si no se observan razones que desmerezcan las
+conclusiones del informe pericial, corresponde asignarles suficiente valor probatorio (Fallos: 329:5157).
+En tales condiciones, pienso que el silencio de la cámara en este punto tiñe de arbitraria a su sentencia pues,
+© Thomson Reuters Información Legal
+
+4
+
+Documento
+
+según reiterados precedentes del Tribunal, son descalificables los pronunciamientos que omiten expedirse sobre
+cuestiones oportunamente propuestas y conducentes para la correcta decisión del litigio (Fallos: 270:149;
+275:207; 299:101; 312:1150, entre otros).
+-VPor ello, considero que cabe hacer lugar a la queja, revocar la sentencia apelada y devolver las actuaciones
+al tribunal de origen para que, por quien corresponda, se dicte un nuevo pronunciamiento con arreglo a derecho.
+Buenos Aires, abril 16 de 2019. — Laura M. Monti.
+Buenos Aires, julio 2 de 2019.
+Considerando:
+1°) A fs. 262/285, Telefónica Móviles Argentina SA y Telefónica de Argentina SA (en adelante, las
+“actoras”) iniciaron una acción declarativa de inconstitucionalidad en los términos del artículo 322 del Cód.
+Proc. Civ. y Com. de la Nación contra la Municipalidad de General Güemes de la Provincia de Salta (en
+adelante, la “Municipalidad”). En dicha acción solicitaron que se declarara la inconstitucionalidad de la
+ordenanza municipal 299/2010 (en adelante, la “Ordenanza”) que dispone, entre otras medidas, la erradicación
+en un plazo de 60 días de estructuras y antenas de la zona urbana, cuyo emplazamiento incumpla la distancia
+mínima de 500 metros respecto de esa zona o que se encuentren en las proximidades de lugares donde se
+desarrollen actividades educativas, deportivas, sociales o de cualquier tipo que signifique la posibilidad de
+exposición continua de personas a las emisiones de dichas antenas (cfr. artículos 6° y 17).
+Las actoras sostuvieron —que la Municipalidad se arrogó lisa y llanamente potestades ambientales
+vinculadas con materias interjurisdiccionales de competencia federal que se encuentran bajo la órbita de la
+Comisión Nacional de Comunicaciones (en adelante, la “CNC”, actualmente el Ente Nacional de
+Comunicaciones o “ENACOM”) y de la Secretaría de Comunicaciones de la Nación (en adelante, la “SC”).
+Alegaron que la normativa impugnada violaba los principios constitucionales de supremacía nacional,
+solidaridad, comercio interprovincial, igualdad, derecho de ejercer una industria lícita y razonabilidad.
+En relación con el principio de supremacía nacional, las actoras indicaron que, al sancionar la Ordenanza, la
+Municipalidad afectó notoriamente la prestación del servicio esencial de telefonía móvil, contraviniendo lo
+establecido en los artículos 3°, 4° y 6° de la Ley Nacional de Telecomunicaciones, 19.798 (en adelante, la “LT”)
+y la regulación del espectro radioeléctrico reservado a la CNC y a la SC en calidad de autoridades de aplicación
+mediante decretos 764/2000 y 1185/1990, comprometiendo los niveles de calidad y eficacia exigidos por las
+resoluciones 903/1987, 60/1997 y 575/1993, como así también por la resolución 490/1997, entre otras. Todas
+ellas son, según sostuvieron las actoras, normas jerárquicamente superiores a la Ordenanza.
+En lo que respecta a la razonabilidad, afirmaron que, desde el momento en que quedó demostrado que las
+antenas de telefonía móvil no tenían efectos nocivos sobre la salud de las personas y que los absurdos límites
+fijados por ella al emplazamiento de las antenas no harían más que provocar el efecto contrario al que se quería
+evitar, la Ordenanza se volvía irrazonable pues dejaba de estar motivada en las circunstancias y hechos que
+supuestamente la impulsaron y sobre la base de los cuales se la pretendía justificar. Las actoras agregaron que,
+en ningún momento, la Municipalidad intentó justificar con datos técnicos y con regulación vigente el dictado
+de la norma cuestionada. Las actoras plantearon, además, la afectación de derechos adquiridos, ya que ellas
+—afirmaron— cuentan con autorizaciones, permisos y licencias otorgadas por las autoridades nacionales para
+prestar el servicio e instalar la red pertinente en la jurisdicción de la Municipalidad, como también con la debida
+habilitación municipal para instalar la antena ubicada en la calle ...
+2°) A fs. 1255/1259, la Cámara Federal de Apelaciones de Salta confirmó la sentencia de primera instancia
+que había desestimado la acción declarativa de inconstitucionalidad deducida por las actoras. No obstante ello,
+encomendó a ambas partes que coordinasen acciones a fin de que el reemplazamiento de las antenas que no
+respetasen la distancia mínima estipulada en la Ordenanza se efectuase en un predio apto para la prestación
+eficiente del servicio.
+Para así resolver, el tribunal a quo remitió a sus sentencias en los autos “Telecom Argentina SA - Telecom
+Personal. SA c. Municipalidad de General Güemes s/ acción meramente declarativa de derecho”, expte. FSA
+11000499/2010/CA1, del 31 de marzo de 2015 y “AMX Argentina SA c. Municipalidad de General Güemes s/
+acción meramente declarativa de inconstitucionalidad - ordinario”, expte. FSA 11000130/2011/CA1, del 7 de
+abril de 2015 en las que, ante un cuestionamiento similar realizado por otras prestatarias del servicio de
+telecomunicaciones, concluyó que la Ordenanza era constitucional.
+© Thomson Reuters Información Legal
+
+5
+
+Documento
+
+Añadió que el sentido de la decisión en el presente caso no cambiaba por el informe pericial agregado a fs.
+1031/1105. Reconoció que la antena sita en la calle Gorriti no superaba el límite de exposición a las emisiones
+no ionizantes más restrictivo y que cumplía por ello con la resolución 202/95 del Ministerio de Salud Pública y
+Acción Social de la Nación. Sin embargo, afirmó que “ello no significa negar de manera terminante la
+posibilidad de que eventualmente exista una relación entre la antena de telefonía móvil y sus emisiones y los
+graves padecimientos en la salud de algunos de los pobladores de las zonas aledañas”, por lo que concluyó que
+se evidenciaba “un estado de incerteza que convalida la aplicación del principio precautorio ante la posibilidad
+de que se irrogue un daño grave e irreversible a la población de la ciudad de General Güemes, permanentemente
+expuesta a las radiaciones no ionizantes de las antenas instaladas en el ejido urbano”.
+En las sentencias a las cuales remitió, la Cámara Federal de Apelaciones de Salta sostuvo que así como la
+CNC tiene competencia para regular lo atinente al servicio de comunicaciones por imperio de los artículos 6°,
+39 y concordantes de la LT, la Municipalidad se encuentra habilitada para el dictado de normas concernientes a
+estructuras de soporte de antenas, de acuerdo con las atribuciones previstas en el artículo 176 de la Constitución
+provincial, propias del poder de policía en materia de “urbanismo, higiene, salubridad y moralidad, como así
+también a la protección y promoción del medio ambiente, paisaje, equilibrio ecológico y polución ambiental,
+tendiendo al desarrollo sostenible”. Recordó que, según el reparto de competencias que emerge del artículo 41
+de la Constitución Nacional, el Congreso tiene a su cargo el dictado de leyes de presupuestos mínimos de
+protección del medioambiente; mientras que las provincias pueden reglamentar o complementar los
+presupuestos mínimos sin alterar “el piso” de la ley nacional, pudiendo establecer criterios más estrictos. En
+dichos pronunciamientos afirmó que no era válido sostener que el desmantelamiento de las antenas de telefonía
+móvil dispuesto por la Ordenanza importaba una intromisión en la competencia de la ex CNC, pues la
+Municipalidad se encuentra constitucionalmente investida de potestades para efectuar este tipo de regulaciones
+tendientes al ordenamiento del territorio. Luego sostuvo que aun cuando no fueran categóricas las conclusiones
+respecto de los efectos de las radiaciones no ionizantes sobre la salud, y más allá de la procedencia del principio
+precautorio, la posibilidad de que ellas tuvieran lugar generaba una honda preocupación en los habitantes de la
+localidad, lo que constituía un caso de “afectación concreta y actual”.
+En relación con el principio precautorio, en las sentencias a las cuales remitió la Cámara Federal, el tribunal
+a quo sostuvo que no había evidencia científica inequívoca respecto de que las radiaciones de telefonía celular
+dañasen la salud humana, pero tampoco de que fueran inocuas. Por ello,
+según el referido tribunal, el principio precautorio resultaba aplicable. En cuanto a la evaluación de los
+costos, la cámara indicó que no había elementos de prueba acompañados por las actoras que permitieran
+aseverar que el gasto del traslado fuese imposible o difícil de afrontar o generara la pérdida de puestos de
+trabajo o alguna conmoción social. Tampoco, afirmó la cámara, podía predicarse irrazonabilidad alguna
+respecto de la distancia que la Ordenanza impone resguardar, pues se trata de 500 metros que, por otra parte, era
+la medida estándar adoptada por similares ordenanzas de Venado Tuerto, Paraná y Unquillo, entre otras. Por
+último, la cámara indicó que las actoras no tenían un derecho adquirido a la ubicación definitiva de la antena en
+el lugar donde se encontraba emplazada por cuanto su instalación fue autorizada con carácter precario y por un
+plazo determinado (diez años).
+3°) Contra tal pronunciamiento, a fs. 1265/1283, las actoras interpusieron recurso extraordinario federal que,
+denegado, dio lugar a la queja bajo examen.
+4°) Las recurrentes sostienen que dar prevalencia a la Ordenanza viola el principio de supremacía nacional
+establecido en el artículo 31 de la Constitución Nacional. Reconocen el poder de policía de las municipalidades
+para legislar sobre los asuntos que enumera el tribunal a quo en su sentencia, pero únicamente en los casos en
+que ello no interfiera en las materias y finalidades desarrolladas a nivel federal, condición que —aseveran— no
+se cumple en el caso. En esta inteligencia, expresan que la Municipalidad se arroga potestades regulatorias
+vinculadas con materias interjurisdiccionales que, como las referentes a las telecomunicaciones, son de
+competencia federal y se encuentran reservadas a la ex CNC y a la SC, en virtud de su especialidad técnica.
+Las recurrentes indican, a su vez, que la antena en cuestión no solo cuenta con la habilitación pertinente y
+cumple con el estándar aprobado por la Organización Mundial de la Salud (en adelante, la “OMS”) y receptado
+como límite nacional para las radiaciones no ionizantes sino que, además, no puede ser removida del lugar
+donde se encuentra por pertenecer a un sistema celular previamente estudiado para poder prestar un servicio
+eficiente a sus clientes, así como a los usuarios que eventualmente quieran comunicarse en la localidad.
+Las recurrentes también se agravian por la aplicación del principio precautorio que realizó el tribunal a quo
+puesto que, según dicen, en el caso mediante el informe del perito especializado que trabajó en la antena de la
+© Thomson Reuters Información Legal
+
+6
+
+Documento
+
+calle ..., se comprobó que “no hay riesgo en la salud por parte de la población del municipio de Gral. Güemes
+porque la antena (...) cumple acabadamente con los estándares internacionales de emisiones de Radiaciones No
+Ionizantes”.
+Asimismo, sostienen que no es correcta la remisión a lo decidido en otras causas que, como justificación de
+su decisión, realiza la cámara federal en su sentencia, pues ello no toma debidamente en cuenta la prueba
+producida en autos. En tal sentido, afirman que en el presente caso se comprobó que no existe peligro de daño a
+la salud ni al medio ambiente. La prueba fundamental en autos, remarcan las recurrentes, es el informe del
+perito oficial donde se asegura que “el sitio cumple lo establecido en cuanto a exposición segura para la salud
+según resolución 202/1995 del Ministerio de Salud de la Nación”.
+Las recurrentes agregan que, por otro lado, conforme lo acreditado por dicho informe (fs. 1030/1105), si se
+ejecutara la Ordenanza y se trasladaran las antenas fuera de la zona urbana, se lograría el efecto inverso al
+perseguido, ya que se generaría la necesidad de aumentar el nivel de emisión de radiaciones a fin de abarcar un
+mayor radio de cobertura, sin que ello siquiera garantice que el servicio funcione. Por ello, según las
+recurrentes, la Ordenanza implica una medida irrazonable, de cumplimiento imposible y contraria a la
+normativa federal en materia de radiaciones no ionizantes.
+Por último, alegan la violación de derechos adquiridos. Sobre este punto mencionan la habilitación otorgada
+oportunamente por la Municipalidad en el año 2009 para la localización de la estructura portante de las antenas
+que ahora se ordena remover e indican que el respeto de los derechos adquiridos se relaciona con la seguridad
+jurídica que debe ponderar el derecho administrativo en todas sus áreas, no correspondiendo revocar
+intempestivamente derechos otorgados a los administrados.
+5°) A juicio de esta Corte el recurso extraordinario federal es admisible, toda vez que la validez de la
+Ordenanza dictada con fundamento en atribuciones provinciales fue controvertida bajo la pretensión de ser
+repugnante a los artículos 31 y 75, incisos 13 y 18, de la Constitución Nacional y a los artículos 3°, 4° y 6° de la
+LT y su complementaria, la ley 27.078, y la decisión del a quo fue en favor de la validez de la norma local
+(artículo 14, inciso 2°, ley 48).
+6°) Antes de identificar el thema decidendum es necesario describir las principales disposiciones de la
+Ordenanza objeto de la presente acción declarativa de inconstitucionalidad.
+La Ordenanza regula el “registro, localización, emplazamiento, factibilidad, habilitación, instalación,
+mantenimiento y desmantelamiento de antenas, soportes de antenas y equipos e instalaciones complementarios,
+destinados a la transmisión de datos, comunicaciones, telefonía celular y prestaciones de servicios por
+radiofrecuencias, en el Municipio de General Güemes” (artículo 1°). Asimismo, crea el Registro Municipal de
+Antenas de Telefonía (en adelante, “REMUAN”) y dispone que se inscriban en él todos los titulares de las
+instalaciones o del servicio a prestar (artículo 4°). El artículo 5° de. la Ordenanza establece que los titulares de
+instalaciones existentes o de servicios en prestación deberán inscribirse en el REMUAN y cumplimentar lo
+establecido en las disposiciones de la Ordenanza en el plazo máximo de 90 días hábiles, a partir de la creación
+de dicho registro y el artículo 6° dispone “restricciones o condicionantes en función de parámetros
+arquitectónicos, infraestructurales, tecnológicos, paisajísticos, patrimoniales, morfológicos, urbanísticos, y
+ambientales, a fin de minimizar efectos negativos, atenuar al máximo el impacto visual, y lograr una adecuada
+integración con el entorno”.
+Las restricciones y condicionantes que el artículo 6° establece son las siguientes: a) las antenas no podrán
+ser instaladas a una distancia inferior a 500 metros de la zona urbana definida por la respectiva Ordenanza ni en
+las proximidades de lugares donde se desarrollen actividades educativas, deportivas, sociales o de cualquier tipo
+que signifique la posibilidad de exposición continua de personas a las emisiones de dichas antenas; b) la altura
+entre el nivel del suelo y el extremo de soporte de antenas no debe superar los 50 metros; y c) la altura del
+soporte de antenas no debe superar el 30% de la altura de la masa edificada, cuando dicha antena se encuentre
+localizada sobre edificaciones.
+Según el artículo 17 “las antenas ya instaladas en las zonas restringidas deberán ser erradicadas por sus
+titulares en el plazo de sesenta (60) días a partir de la promulgación” de la Ordenanza.
+En la motivación de la Ordenanza se consigna “el deber esencial” del Concejo Deliberante de “velar por el
+cuidado y bienestar de la población” y se indica que la OMS, en 2001, a través de la Agencia Internacional de
+Investigación sobre el cáncer, ha afirmado que las “radiaciones no ionizantes emitidas por las antenas de
+telefonía móvil son probablemente cancerígenas”. Asimismo, se indica que parece ser que el país se “encuentra
+en mora en cuanto a las exigencias que deben cumplir las empresas que utilizan las referidas antenas y sobre
+© Thomson Reuters Información Legal
+
+7
+
+Documento
+
+todo en la determinación precisa y eficaz de los niveles de radiación que resultan perjudicables (sic) para la
+salud de la población”. Por ello, se sostiene que la Municipalidad “hasta tanto los organismos nacionales
+modifiquen los parámetros” debe “dictar normas que protejan la salud de los ciudadanos (...) pues la existencia
+de diversas antenas en todo el radio urbano y los lamentables casos de cáncer en pobladores de General Güemes
+sin explicación alguna hacen presumir una causalidad entre las emisiones y las afectaciones a la salud”. Por
+último, el Concejo Deliberante afirma que —a su entender— la regulación que aprueba tiene un propósito
+múltiple pues “no se agota en la protección de la salud sino también en el negativo impacto visual o
+arquitectónico, por lo que estos fundamentos, no constituyen sino una porción del cúmulo de razones que
+aconsejan la aprobación del proyecto, el cual podrá ser enriquecido con el aporte intelectual de los vecinos, de
+especialistas, técnicos, Centros de Estudios, Organizaciones No Gubernamentales (ONG)” aunque reconoce que
+“el propósito principal [de la Ordenanza] es conjugar la prevención de enfermedades con la prestación de
+servicios, todo lo cual requiere el tratamiento y la oportuna aprobación del presente proyecto de Ordenanza”.
+7°) Tal como se señaló en el considerando 4°, al relatar los agravios expresados en el recurso interpuesto, las
+recurrentes reconocen que la Municipalidad cuenta con el poder de policía para regular cuestiones edilicias,
+ambientales y relativas a la salud pública (fs. 1274) que, por lo demás, encuentra fundamento en los artículos
+176 de la Constitución de Salta y en los artículos 5° y 123 de la Constitución Nacional.
+No obstante ello, las recurrentes sostienen que la Ordenanza debe ser declarada inconstitucional en tanto
+interfiere con la prestación de un servicio sujeto a jurisdicción nacional y que, además, es irrazonable.
+8°) Lo que esta Corte debe decidir es si la alegada interferencia de la Ordenanza se encuentra amparada
+constitucionalmente por ser consecuencia del legítimo ejercicio del poder de policía municipal o si, por el
+contrario, implica una intromisión en aspectos regulatorios que son propios de la competencia de las autoridades
+federales en la materia y, por lo tanto, debe ser declarada inconstitucional en virtud de lo dispuesto por el
+artículo 75, inciso 13, de la Constitución Nacional.
+Al respecto, con anterioridad a la reforma constitucional de 1994, este Tribunal ha afirmado que el vocablo
+“comercio” utilizado en el artículo 75, inciso 13, de. la Constitución Nacional comprende “la transmisión por
+telégrafo, teléfono u otro medio de ideas, órdenes y convenios” (Fallos: 154:104). En virtud de ello esta Corte
+ha decidido que “las comunicaciones telefónicas interestatales están sujetas a la jurisdicción nacional, pues (...)
+tienden a promover la prosperidad, adelanto y bienestar general del país” (Fallos: 188:247; 213:467; 257:159;
+299:149; 304:1186, entre muchos otros). Esta Corte también ha afirmado que no cabe “admitir una escisión que
+implique la subsistencia de una parte aislada del servicio local, de modo que la reglamentación del servicio debe
+ser general y emanar del Congreso” (Fallos: 257:159).
+Ni la reforma constitucional de 1994 ni el reconocimiento constitucional del estatus autónomo de los
+municipios en el artículo 123 de la Constitución ha modificado la distribución constitucional de competencias
+en materia de telecomunicaciones. En efecto, en distintos precedentes posteriores al año 1994, esta Corte ha
+reafirmado la doctrina según la cual la regulación de las telecomunicaciones es competencia de las autoridades
+nacionales (“Telefónica de Argentina SA c. Municipalidad de General Pico”, Fallos: 320:162; “Telefónica de
+Argentina c. Municipalidad de Chascomús”, Fallos: 320:619; “Telefónica de Argentina SA s/ acción de
+inconstitucionalidad ley 2813”, Fallos: 321:1074; “Telefónica de Argentina SA c. Provincia de Mendoza”,
+Fallos: 326:4718; “Telefónica de Argentina SA c. Provincia de Mendoza”, Fallos: 327:5781 y “Telefónica de
+Argentina SA s/ acción de inconstitucionalidad”, Fallos: 330:3098).
+Por otro lado, esta Corte ha afirmado, en Fallos: 321:1074, que el artículo 42 del nuevo texto constitucional
+ha ratificado que la legislación establecerá los marcos regulatorios de los servicios públicos de competencia
+nacional. De tal modo, y tal como lo sostenía ya con anterioridad a la reforma constitucional, no puede caber
+duda de que “la reglamentación del servicio telefónico es facultad delegada por las provincias a la Nación, que a
+aquéllas les está vedado ejercer, ni siquiera so pretexto de una supuesta demora en el dictado de normas que
+pongan en ejercicio cláusulas programáticas de la Constitución, ya que la facultad transitoria de sancionar
+códigos no se extiende a otras materias de jurisdicción federal (art. 126)”.
+9°) De los precedentes referidos en el considerando anterior se desprende que es un principio reconocido por
+este Tribunal que las provincias y los municipios deben ejercer sus competencias sin alterar las condiciones
+materiales, económicas, jurídicas o de cualquier orden establecidas por la legislación nacional que posibilitan el
+cumplimiento de los fines del gobierno federal, lo cual incluye las actividades realizadas directamente por las
+autoridades nacionales y otras que son llevadas a cabo por actores privados designados mediante el
+otorgamiento de la correspondiente concesión o licencia. Este principio es de fundamental importancia en
+nuestra tradición pues es el que, desde los albores de la organización nacional, ha permitido el desenvolvimiento
+© Thomson Reuters Información Legal
+
+8
+
+Documento
+
+sostenido en el tiempo de los cometidos que la Constitución, en su artículo 75, pone a cargo del gobierno de la
+Nación para ser cumplidos en todo el territorio de la República.
+Por lo tanto, las diversas leyes del Congreso que regulan los servicios nacionales son las únicas que pueden
+establecer qué aspectos se encontrarán fuera del alcance de las jurisdicciones locales y cuáles no y son dichas
+leyes las únicas que pueden darle un contenido preciso al principio de no interferencia de las autoridades
+provinciales y municipales en las atribuciones federales.
+Es de destacar que la propia Constitución en el artículo 75, inciso 30, ha consagrado una aplicación del
+principio según el cual las provincias y los municipios deben ejercer sus competencias sin alterar las
+condiciones materiales, económicas, jurídicas o de cualquier orden establecidas por la legislación nacional
+cuando dispone que las autoridades provinciales y municipales conservarán los poderes de policía e imposición
+sobre los establecimientos de utilidad nacional pero solo en tanto no interfieran en el cumplimiento de sus fines
+nacionales. El texto del actual artículo 75, inciso 30, (anterior artículo 67, inciso 27) ha sido incorporado a la
+Constitución por la reforma de 1994, por lo que no puede dudarse de que dicha reforma no quiso alterar ni
+alteró en modo alguno el reparto de competencias entre el gobierno nacional y las demás jurisdicciones en lo
+que se refiere a la regulación de los servicios nacionales. El convencional Hernández fue quien lo puso de
+manifiesto con mayor claridad al hacer su intervención en la sesión del 9 de agosto de 1994 cuando dijo que “el
+inciso 27 del artículo 67 [actual 75, inciso 30] acusa para nosotros especial trascendencia (...) pero lo que
+importa resaltar es que se establece que las provincias y los municipios van a tener poderes de policía e
+imposición, en tanto no alteren las finalidades de la utilidad nacional, o sea que corregimos alguna legislación
+unitarizante y, sobre todo, alguna jurisprudencia de tal carácter que estableció la Corte Suprema de Justicia en el
+caso Marconetti. Tenemos que establecer, por el contrario, una tesis federal, como lo hizo la Corte Suprema en
+los casos Brizuela [Fallos: 296:432] y Vialco [Fallos: 301:1122].” (Obra de la Convención Nacional
+Constituyente. 1994. Tomo VI, p. 5596. cfr., asimismo, p. 5488, intervención del convencional Natale y p.
+5641, intervención del convencional Guinle).
+En virtud de lo dicho, la autonomía municipal ahora constitucionalizada no puede ser entendida como una
+franquicia para que los municipios interfieran en el desarrollo de los servicios nacionales sino que, en todo caso,
+debe ser concebida como el fundamento para que los municipios ejerzan aquellas competencias regulatorias que
+les resultan propias siempre que dicho ejercicio sea armónico con las atribuciones que la Constitución le ha
+concedido al gobierno federal.
+Esta Corte ha establecido con claridad el límite de las atribuciones provinciales. Así, decidió en Fallos:
+257:159 que “por importantes y respetables que sean las facultades conservadas por la Provincia, no alcanzan a
+sustentar la prescindencia de la solidaridad requerida por el destino común de los demás estados autónomos y de
+la Nación toda, ni permiten el aislamiento y la segregación de ellos, en la empresa de su realización conjunta. La
+necesaria subsistencia y la debida preservación de la autonomía estatal y el carácter indestructible de las
+provincias no puede ser obstáculo a la unidad nacional, también indestructible, que requiere, en el intercambio y
+tránsito de bienes, personas e ideas, como esta Corte ha tenido ocasión de señalarlo 'un solo país para un solo
+pueblo' Fallos: 178:9 y otros”. Esta doctrina también se ha mantenido con posterioridad a la reforma
+constitucional de 1994 en las decisiones de esta Corte Suprema. En Fallos: 322:2862 esta Corte ha dicho que “la
+regla y no la excepción consiste en la existencia de jurisdicciones compartidas entre la Nación y las provincias,
+por lo que las normas constitucionales que rigen el caso deben ser interpretadas de modo tal que se
+desenvuelvan armoniosamente evitando interferencias o roces susceptibles de acrecentar los poderes del
+gobierno central en detrimento de las facultades provinciales y viceversa (Fallos: 271:186; 293:287; 296:432),
+pero sin perder de vista que las provincias, dada la posición que ocupan dentro del régimen constitucional,
+deben observar una conducta que no interfiera ni directa ni indirectamente con la satisfacción de servicios de
+interés público nacional. Las facultades provinciales, por importantes y respetables que sean, no justifican la
+prescindencia de la solidaridad requerida por el destino común de los demás estados autónomos y de la Nación
+toda (Fallos: 257:159; 263:437; 270:11, entre otros)”.
+Las razones que subyacen a los elevados ideales que se desprenden de la doctrina según la cual cuando se
+encuentran involucrados servicios públicos nacionales, las provincias y los municipios deben ejercer sus
+competencias sin alterar las condiciones materiales, económicas, jurídicas o de cualquier orden establecidas por
+la legislación nacional, se justifican aun en mayor medida respecto de las competencias municipales. Los
+municipios no tienen un poder más extenso que las provincias pues son entidades políticas con atribuciones
+cuyo contenido y alcance depende de las constituciones provinciales (artículo 123 de la Constitución Nacional)
+y estas últimas no pueden conceder derechos ni atribuciones que las provincias no tienen. Por otra parte, si el
+constituyente ha entendido que la interferencia de un número relativamente limitado de provincias supone un
+© Thomson Reuters Información Legal
+
+9
+
+Documento
+
+riesgo para la ejecución de servicios en los que existe un interés nacional, mucho más elevado sería ese riesgo si
+se reconociera a la gran cantidad de municipios existentes atribuciones tan extensas que, en los hechos, tuvieran
+la consecuencia de impedir el desarrollo de las políticas de alcance nacional.
+10) Sobre las bases mencionadas en los párrafos anteriores, esta Corte ha establecido que el Estado Nacional
+tiene las atribuciones necesarias para la reglamentación de los servicios que excedan el ámbito local incluyendo
+aquellos “aspectos de las actividades interiores” susceptibles de menoscabar u obstruir dichos servicios (Fallos:
+320:162 y sus citas, entre otros).
+Esta Corte, por otro lado, ha puntualizado que el poder de policía local no debe extenderse a “los aspectos
+regulatorios de competencia de la Nación” (Fallos: 326:4718; 330:3098, citados), tal como lo ha decidido en
+casos de colocación de medidores domiciliarios de pulsos, modalidad de prestación del servicio telefónico,
+regulación de la facturación de estos servicios y fijación de tarifas (ver Fallos: 257:159; 268:306; 299:149;
+321:1074; 326:4718 y 330:3098).
+De acuerdo con estos principios, por ejemplo, la competencia municipal relativa a la autorización de la obra
+civil que sirve de estructura de soporte de antenas encuentra límite en el hecho de que dicha competencia no
+puede extenderse al punto de regular los aspectos técnicos del servicio de telefonía. La regulación de estos
+aspectos es de competencia propia de las autoridades federales y, por ello, se encuentra, de manera principal, en
+la LT. Entre ellos cabe destacar el diseño por parte de las autoridades nacionales de la red interjurisdiccional de
+telecomunicaciones que permite la prestación eficaz del servicio en cuestión.
+11) Corresponde ahora tratar el thema decidendum y resolver si la Ordenanza, en tanto exige erradicar en un
+plazo de 60 días, las estructuras y antenas de la zona urbana —con fundamento principal en la salud de la
+población— importa una intromisión por parte de la Municipalidad en una competencia exclusiva de las
+autoridades federales.
+12) En lo que respecta a la organización y funcionamiento de las telecomunicaciones, las competencias
+nacionales están básicamente regidas por la Ley de Tecnologías de la Información y las Comunicaciones,
+27.078 (en adelante, la “Ley de TIC”) y por la LT con el alcance determinado por el artículo 89 de la Ley de
+TIC.
+La Ley de TIC contiene disposiciones que responden a la ya señalada necesidad de que las políticas
+nacionales en materia de telecomunicaciones sean uniformes en todo el territorio de la Nación a los efectos de
+posibilitar el acceso de la totalidad de los habitantes de la República Argentina a los servicios de la información
+y las comunicaciones en condiciones sociales y geográficas equitativas con los más altos parámetros de calidad
+(artículo 1°). En el artículo 7° se define a las tecnologías de la información y las comunicaciones (en adelante,
+“TIC”) como “el conjunto de recursos, herramientas, equipos, programas informáticos, aplicaciones, redes y
+medios que permitan la compilación, procesamiento, almacenamiento y transmisión de información, como por
+ejemplo, voz, datos, texto, video, imágenes, entre otros”.
+Luego de declarar que la ley es de aplicación en todo el país (artículo 3°), la Ley de TIC dispone que las
+autoridades nacionales, provinciales, de la Ciudad Autónoma de Buenos Aires y municipales, coordinarán las
+acciones necesarias para lograr el despliegue de las redes de telecomunicaciones utilizadas en los servicios de
+TIC (artículo 17). Asimismo, establece que, a los efectos de resguardar el servicio de TIC, “éste deberá ser
+brindado en todo el territorio nacional considerado a tales efectos como una única área de explotación y
+prestación” (artículo 55).
+Por su parte, la LT contiene disposiciones específicas sobre la cuestión debatida en estas actuaciones que
+han mantenido vigencia en virtud de lo dispuesto en el artículo 89 de la Ley de TIC. Entre ellas cabe mencionar,
+en primer término, la jurisdicción nacional sobre los servicios de una provincia interconectados con otra
+jurisdicción o con un Estado extranjero (artículo 3°, inciso c) y la asignación de competencias al Poder
+Ejecutivo Nacional para fiscalizar toda actividad o servicio de telecomunicaciones (artículo 4°, inciso c).
+Además, la LT establece que no se podrán instalar ni ampliar medios ni sistemas de telecomunicaciones sin
+la previa autorización nacional pertinente (artículo 6°) y dispone que, a fin de poder prestar el servicio de
+telecomunicaciones, las instalaciones deben ser habilitadas por la autoridad de aplicación nacional antes de
+entrar en funcionamiento (artículo 27).
+La LT también dispone que los respectivos titulares de la jurisdicción territorial son competentes para
+autorizar la ubicación de las instalaciones y redes (artículo 39).
+En lo que es particularmente importante para decidir la cuestión debatida, la LT asigna competencias
+© Thomson Reuters Información Legal
+
+10
+
+Documento
+
+específicas a las autoridades federales en relación con la modificación o traslado de las instalaciones en
+funcionamiento. La importancia radica en el hecho que este traslado es, justamente, lo que la Ordenanza
+pretende regular por sí. En especial, el artículo 27 de la LT dispone que las instalaciones no podrán ser
+modificadas sin previa autorización de la autoridad federal y el artículo 9, inciso “1”, faculta a la autoridad de
+aplicación federal para participar en el otorgamiento y cancelación de permisos, autorizaciones y licencias así
+como en la instalación, explotación, uso, ampliación, modificación y traslado de los distintos medios o sistemas
+de telecomunicaciones.
+13) Tal como ha quedado acreditado en autos con el dictamen pericial de fs. 1031/1105, en el diseño de una
+red de telecomunicaciones, la ubicación de las antenas responde a criterios técnicos que contemplan las
+necesidades geográficas de cobertura, la factibilidad de prestar el servicio a un número determinado de usuarios
+así como la posibilidad de interconexión con otras estaciones. Por ello, toda orden de traslado de una antena ya
+instalada necesariamente afecta el diseño y la estructura del sistema de telecomunicaciones.
+En el dictamen mencionado, el perito oficial explicó que “la telefonía celular se basa en la reutilización de
+frecuencias”, lo que requiere “dividir el área de cobertura en zonas a las que se les asignan distintos grupos de
+frecuencias cumpliendo con la condición de que zonas linderas nunca coincidan con el mismo grupo de
+frecuencias”. El perito oficial también afirmó que lo anterior determina “que la ubicación de las antenas en las
+zonas en las que fuera dividida el área de cobertura quede determinada con muy poco margen de reubicación”
+ya que “el número de zonas en que se divide el área a cubrir con el servicio de telefonía móvil, depende
+fundamentalmente de la cantidad de usuarios a los que se les debe prestar el servicio al mismo tiempo” (fs.
+1099/1100).
+Asimismo, el perito sostuvo que “en el caso de la antena de la calle ..., la ubicación se debe
+fundamentalmente a 2 factores: 1. Asegurar la cobertura del servicio de telefonía celular a la zona centro de la
+ciudad de Gral. Güemes. 2. Servir de nodo a las estaciones: GAN50, que presta el servicio de telefonía móvil en
+la zona noroeste de la ciudad de Gral. Güemes y GAN002, ubicada en la localidad de Campo Santo, que brinda
+telefonía celular 2G y 3G a los habitantes de dicha localidad” (fs. 1099/1100).
+En relación con el impacto del traslado de una antena ya instalada, el perito oficial sostuvo que “la remoción
+o relocalización de una antena implica en general una reestructuración de la arquitectura de la red. Esto hace que
+sea necesario efectuar cambios sobre el resto de las antenas que forman parte de la red a los efectos de que siga
+operativa y no afecte a los servicios que se prestan a través de ella”. Además, según el perito, “toda
+relocalización implica un período durante el cual los servicios en el área cubierta por la antena a reubicar, en
+este caso el servicio de telefonía móvil de Gral. Güemes y Campo Santo, se vean afectados sea por un servicio
+de mala calidad o directamente por la falta del mismo” (fs. 1101).
+Como quedo dicho en el considerando 6°, la Ordenanza dispone de manera unilateral la reubicación de las
+antenas que se encuentran operando, entre ellas las de las actoras y, por ello, modifica la red de telefonía celular
+ya instalada, y en tanto lo hace, se arroga una atribución que la LT otorga a la autoridad federal de aplicación en
+sus artículos 9, inciso “1”, y 27.
+14) Es muy importante destacar, por lo demás, que de acuerdo con el protocolo aprobado por la resolución
+CNC 3690/2004 (que, vale la pena mencionar, fue aplicado por el perito para efectuar las mediciones de
+radiación —fs. 1101—) las antenas de telefonía móvil cumplen con los estándares de seguridad en materia de
+radiaciones no ionizantes. Al respecto cabe también mencionar que el Ministerio de Salud, mediante la
+resolución 202/1995, aprobó el Estándar Nacional de Seguridad para la exposición a radiofrecuencias
+comprendidas entre 100 KHz y 300 GHz que fue luego adoptado por la SC en la resolución 530/2000 para todos
+los sistemas de telecomunicaciones. A su vez, la CNC dictó la resolución 3690/2004 que, tomando como punto
+de partida los valores máximos establecidos en la referida resolución 202/1995, unificó criterios en el orden
+nacional con especial énfasis en jurisdicciones municipales, a efectos de concretar un procedimiento uniforme
+para el control de las radiaciones no ionizantes.
+15) Por los motivos antes expresados, cabe concluir que la Ordenanza, en cuanto ordena la remoción de
+antenas ya instaladas y altera por esa vía el diseño de la red de telefonía celular (artículos 6° y 17), se entromete
+en un aspecto regulatorio de competencia nacional exclusiva, como lo es, inequívocamente, el de ampliar,
+modificar y trasladar los distintos medios o sistemas de telecomunicaciones (artículos 9°, inciso “1” y 27 de la
+LT). La Municipalidad, al sancionar la Ordenanza, ha invadido indebidamente facultades que fueron delegadas
+por las provincias a la Nación (artículo 75, incisos 13 y 18 de la Constitución Nacional). Por ello, el artículo 17
+de la Ordenanza en la medida en que ordena el traslado dentro del plazo de 60 días de las antenas de las actoras
+ya instaladas en zonas restringidas, es decir, a una distancia menor a los 500 metros del ejido urbano (conf.
+© Thomson Reuters Información Legal
+
+11
+
+Documento
+
+surge del artículo 6°) resulta inconstitucional.
+16) Sin perjuicio de que lo dicho hasta aquí resulta suficiente para fundar el pronunciamiento al que se
+arriba, cabe agregar que la decisión de reubicar las antenas dispuesta en la Ordenanza es una medida que
+produciría el efecto exactamente contrario al fin buscado de manera principal, es decir, proteger la salud de la
+población.
+Al respecto, el perito oficial interviniente en estas actuaciones sostuvo que las antenas de las recurrentes
+cumplen con las condiciones de exposición a radiación no ionizante de alta frecuencia para el público en general
+establecidas en la resolución 202/95 del Ministerio de Salud de la Nación (fs. 1102). También, informó, que una
+eventual relocalización de la antena “no reduce los niveles de exposición de quienes habitan o circulen por el
+área que cubría la antena removida”. Según el perito, ello “se debe a que se necesita un nivel determinado de
+campo electromagnético para la operatividad de la telefonía móvil y es este nivel el que normalmente genera la
+antena removida en su área de cobertura”. El perito aclaró que “quienes usen su celular en esta área, una vez
+removida la antena, se verían expuestos a un mayor nivel de radiación de su propio celular, ya que el mismo
+deberá incrementar su potencia para poder comunicarse con otra antena de la red que reemplaza a la removida y
+que se encuentra más distante” (fs. 1101).
+Por lo tanto, el fundamento central de la Ordenanza —que a pesar de varias invocaciones no es sino el de
+proteger la salud de la población— no guarda ningún vínculo racional con el traslado de las antenas que ella
+dispone, lo que afecta su validez.
+La conclusión anterior no se ve modificada en modo alguno por la referencia que hizo el tribunal a quo del
+principio precautorio pues dicho principio únicamente rige en la interpretación y aplicación de la ley 25.675 que
+regula la Política Ambiental Nacional y de “toda otra norma a través de la cual se ejecute la política ambiental”,
+mas no cuando se trata de cuestiones de salud pública como son aquellas en las que la Ordenanza, tal como se
+dijo, se fundamentó primordialmente.
+De ello se desprende que la Ordenanza aquí impugnada no cumple con la pauta establecida por esta Corte
+según la cual la reglamentación legislativa no debe ser infundada o arbitraria sino razonable, es decir, justificada
+por los hechos y las circunstancias que le han dado origen y por la necesidad de salvaguardar el interés público
+comprometido, y proporcionada a los fines que se procura alcanzar con ella (doctrina de Fallos: 199:483;
+249:252; 250:418; 253:478; 290:245; 306:1560; 307:862 y 906).
+Como se desprende de los precedentes citados en el párrafo anterior, todo acto gubernamental que se
+traduzca en una limitación de las libertades económicas establecidas como derechos en el artículo 14 de la
+Constitución ha de ser, por la sola circunstancia de constituir una limitación, un acto razonable. En otros
+términos, para mantenerse dentro de los límites trazados por el artículo 28 de la Constitución, una limitación a
+las libertades económicas, cuanto menos, tiene que contar con alguna probabilidad de generar el efecto que se
+dice buscar. Por otro lado, cuando las actividades económicas afectadas son un servicio público, o de interés
+público, de carácter nacional, el deber de cuidado que pesa sobre las autoridades municipales al evaluar las
+razones que justifican su actuación debe ser considerablemente más estricto. Al encontrarse en juego bienes o
+servicios que hacen al bienestar de toda la población de la República, no corresponde actuar con tolerancia hacia
+medidas escasamente ponderadas por las autoridades municipales y que se revelan, al menor análisis,
+irrelevantes o contradictorias para la consecución de las finalidades que declaran perseguir.
+Por ello, habiendo dictaminado la señora Procuradora Fiscal, se hace lugar a la queja, se declara procedente
+el recurso extraordinario interpuesto y se revoca la sentencia apelada, con el alcance indicado precedentemente.
+Con costas (artículo 68, Cód. Proc. Civ. y Comercial de la, Nación). Vuelvan los autos al tribunal de origen para
+que, por quien corresponda, se dicte un nuevo pronunciamiento con arreglo a lo resuelto. Agréguese la queja al
+principal. Reintégrese el depósito de fs. 2. Notifíquese y, oportunamente, devuélvase. — Carlos F. Rosenkrantz.
+— Ricardo L. Lorenzetti (por su voto). — Elena I. Highton de Nolasco (por su voto). — Juan C. Maqueda (en
+disidencia). — Horacio Rosatti (en disidencia).
+Voto de la doctora Highton de Nolasco
+Considerando:
+1°) Que los antecedentes de la causa y los agravios de las recurrentes se encuentran debidamente reseñados
+en los acápites I y II del dictamen de la señora Procuradora Fiscal a los que se remite por razón de brevedad.
+2°) Que el recurso extraordinario federal es admisible, toda vez que la Ordenanza 299/2010 de la
+Municipalidad de General Güemes (Provincia de Salta), dictada con fundamento en atribuciones locales, fue
+© Thomson Reuters Información Legal
+
+12
+
+Documento
+
+controvertida bajo la pretensión de ser repugnante a los artículos 31 y 75, incisos 13 y 18 de la Constitución
+Nacional y 3°, 4° y 6° de la Ley Nacional de Telecomunicaciones 19.798 y su complementaria Ley de
+Tecnologías de la Información y las Comunicaciones 27.078, y la decisión del a quo fue en favor de la validez
+de la norma local (artículo 14, inciso 2°, ley 48).
+3°) Que tal como han quedado configurados los agravios de las recurrentes, en el presente caso esta Corte
+debe decidir si la Ordenanza 299/2010, que dispone la erradicación en un plazo de 60 días de estructuras y
+antenas de telefonía móvil de la zona urbana, implica una intromisión indebida del municipio en aspectos
+regulatorios de competencia de las autoridades federales en materia de telecomunicaciones, o si, por el
+contrario, se trata de una medida comprendida dentro del poder de policía municipal que surge de los artículos
+5° y 123 de la Constitución Nacional y 176 de la Constitución de la Provincia de Salta.
+Los artículos de la norma municipal que ordenan el traslado en cuestión disponen la reubicación de las
+estructuras y antenas cuando su emplazamiento incumpla la distancia mínima de 500 metros respecto de la zona
+urbana o se encuentren ubicadas en las proximidades de lugares donde se desarrollen actividades educativas,
+deportivas, sociales o de cualquier tipo (zonas restringidas) que implique la exposición continua de personas a
+sus emisiones (ver artículos 17 y 6°).
+4°) Que esta cuestión ya se encuentra resuelta por doctrina desarrollada en varios precedentes de este
+Tribunal, la que se halla consolidada al haber sido reiterada en innumerables oportunidades.
+En este sentido, resulta necesario recordar las sentencias en las que esta Corte decidió planteos similares al
+del sub lite en los que, por un lado, estaba en juego la competencia exclusiva que, por imperio de la “cláusula
+comercial”, tiene el Congreso de la Nación para regular los servicios de naturaleza interjurisdiccional —como lo
+es el servicio de telecomunicaciones— (artículo 75, inciso 13 de la Constitución Nacional) y, por el otro, el
+alcance del poder de policía local y la forma cómo este último poder debe articularse con el federal.
+En una extensa línea de fallos anteriores a la reforma constitucional de 1994, este Tribunal interpretó la
+extensión de la expresión “reglar el comercio” contenida en el citado artículo 75, inciso 13 y afirmó dos
+conclusiones que resultan relevantes para la solución de la presente contienda:
+a) que el término “comercio” comprende las comunicaciones telefónicas interjurisdiccionales y que, por esta
+razón, tales comunicaciones están sujetas a la jurisdicción del Congreso de la Nación (conf. doctrina de Fallos:
+154:104; 192:234; 198:438; 213:467; 257:159, ver, además, “Obras Completas de Joaquín V. González. Edición
+ordenada por el Congreso de la Nación Argentina”, volumen V, p. 36, último párrafo, Universidad Nacional de
+La Plata, 1935);
+b) que la expresión “reglar” contenida en el artículo 75, inciso 13, de la Constitución Nacional debe ser
+interpretada de un modo amplio y reconoce en el Congreso la facultad de disponer todo lo relativo a la
+iniciación, funcionamiento y organización de una actividad (Fallos: 154:104; 188:247; 307:360, 374; 321:1074,
+voto de los jueces Petracchi y López, entre otros).
+También la Corte Suprema de los Estados Unidos ha interpretado de forma extensa el alcance de la palabra
+“regular”, en términos de la commerce clause prevista en el Art. I, Sección 8a. de la constitución de ese país.
+Así, por ejemplo, resulta ilustrativa la opinión del juez Marshall en la sentencia “Gibbons v. Ogden” (1824):
+“[...] El poder de regular, es el poder de establecer las normas a las que debe ajustarse el comercio
+[interjurisdiccional]. Este poder [...] es completo; puede ser ejercido con gran amplitud; y no existe ningún otro
+límite, excepto aquellos establecidos en la constitución” (22 U.S. 1, párrafo 244).
+Estos principios han sido confirmados luego de la reforma constitucional de 1994, por cuanto el artículo 42
+del nuevo texto, en la parte pertinente de su tercer párrafo, dispone —en consonancia con todo lo expuesto—
+que la legislación establecerá los marcos regulatorios de los servicios públicos de competencia nacional.
+Como ha expresado esta Corte, la legislación a. la cual se refiere dicha disposición “no puede ser otra que la
+emanada del Congreso de la Nación en ejercicio de los poderes implícitos conferidos por el art. 75, inc. 32, de la
+Carta Magna. De tal modo, la reglamentación del servicio telefónico es facultad delegada por las provincias a la
+Nación, que a aquéllas les está vedado ejercer, ni siquiera so pretexto de una supuesta demora en el dictado de
+normas que pongan en ejercicio cláusulas programáticas de la Constitución, ya que la facultad transitoria de
+sancionar códigos no se extiende a otras materias de jurisdicción federal (art. 126)” (Fallos: 321:1074;
+326:4718; 330:3098).
+5°) Que a los efectos de articular estos principios referidos al alcance de las atribuciones de la autoridad
+federal en materia de regulación de servicios de competencia nacional con el poder de policía local (provincial o
+© Thomson Reuters Información Legal
+
+13
+
+Documento
+
+municipal) —aún después de la reforma constitucional de 1994 que reconoció de manera explícita en el artículo
+123 de la Constitución Nacional la autonomía de los municipios— este Tribunal ha utilizado el criterio de no
+interferencia u obstaculización a la hora de resolver casos en los que se cuestionaban normas locales con
+fundamento en que se inmiscuían en aspectos de competencia federal (Fallos: 192:350; 198:438; 332:66;
+335:1739, entre otros).
+Resulta importante señalar que este criterio ha sido reconocido expresamente por el constituyente de 1994
+en el artículo 75, inciso 30, como una forma de armonizar las facultades federales y las locales en los
+establecimientos de utilidad nacional. Dicha disposición establece que “las autoridades provinciales y
+municipios conservarán los poderes de policía e imposición sobre estos establecimientos, en tanto no
+interfieran” en el cumplimiento de sus fines específicos (énfasis agregado). Es decir, ha sido el propio
+constituyente de 1994 el que consideró que esta forma de armonizar las atribuciones federales y las locales
+—que, como se puntualizó, ya se venía utilizando en la jurisprudencia de esta Corte— es compatible con el
+régimen de autonomía municipal que el mismo consagró, a su vez, en el artículo 123.
+Cabe recordar, que a fin de fijar este criterio de armonización este Tribunal tomó como punto de partida las
+características del diseño de nuestro sistema federal, que reconoce la preexistencia de las provincias y la reserva
+de todos los poderes que estas no hubiesen expresamente delegado en el gobierno central, a la vez que exige
+aplicar estrictamente la preeminencia de los poderes federales en las áreas en que la Ley Fundamental así lo
+estableció. En el marco de estos principios esta Corte, al examinar el modo en que se realizan ambos plexos de
+potestades, ha sostenido que los poderes de las provincias son originarios e indefinidos y los delegados a la
+Nación son definidos y expresos, pero precisó que dichas potestades provinciales no pueden enervar el ejercicio
+razonable de los poderes delegados al gobierno federal, so pena de convertir en ilusorios los propósitos y
+objetivos de las citadas facultades que fincan en la necesidad de procurar eficazmente el bien común de la
+Nación toda, en el que necesariamente se encuentran engarzadas y del cual participan todas las provincias
+(Fallos: 304:1186; 312:1437; 332:66, entre otros).
+Desde esta perspectiva, la teoría de la no interferencia procura evitar que las actividades económicas
+interjurisdiccionales —como es la de prestar el servicio de telecomunicaciones— puedan ser entorpecidas,
+complicadas o impedidas por el ejercicio del poder de policía local, lo cual conspiraría contra la unidad del
+sistema federal y su regular funcionamiento según ha sido concebido por el constituyente (Fallos: 321:658;
+332:66).
+Es por esta razón que cuando se trata de interpretar el alcance de las atribuciones locales en el área abarcada
+por la llamada “cláusula comercial” debe acudirse a esa noción integradora de la actividad económica en el
+territorio nacional, que fue el fundamento no solo de la exclusividad de los poderes del Congreso en la
+regulación del comercio interprovincial (artículo 75, inciso 13, de la Constitución Nacional), sino también de los
+que le competen en forma exclusiva en el dictado de la legislación común a ser aplicada dentro de los territorios
+provinciales por las autoridades locales, de conformidad con lo previsto en el artículo 75, inciso 12, de nuestra
+Ley Fundamental (conf. Fallos: 304:1186; 312:1437; 324:3048).
+Sobre estas bases, se ha afirmado la existencia de las necesarias atribuciones nacionales para la
+reglamentación de los servicios que excedan el ámbito local (Fallos: 257:159) e, incluso, de aquellos “aspectos
+de las actividades interiores” de las autoridades locales susceptibles de menoscabar u obstruir dichos servicios
+(Fallos: 213:467; 257:159; 299:149; 320:162; 326:4718; 331:1243, entre otros).
+En lo que a este caso interesa, y con especial referencia al servicio de telecomunicaciones, este Tribunal ha
+establecido que el poder de policía local no puede extenderse a los aspectos regulatorios de competencia de la
+Nación (Fallos: 326:4718; 330:3098), como lo son, por ejemplo, cuestiones vinculadas a las guías telefónicas, a
+la colocación de medidores domiciliarios de pulsos, a la adopción de medidas técnicas y administrativas
+tendientes a la emisión de facturas con discriminación de llamadas, al ofrecimiento de facturación detallada de
+los consumos efectuados por el usuario (ver, respectivamente, Fallos: 192:350; 321:1074; 326:4718 y 330:3098)
+y a la fijación del régimen tarifario (Fallos: 257:159; 268: 306; 299:149; entre otros).
+6°) Que delineados entonces los principios y el criterio bajo los cuales corresponde analizar casos como el
+presente, se debe determinar, como ya se adelantó en el considerando 3°, si la medida dispuesta por el artículo
+17 de la Ordenanza de erradicar las antenas instaladas en un plazo de 60 días cuando se encuentren a una
+distancia menor a los 500 metros del ejido urbano (conf. artículo 6°) —con fundamento principal en la salud de
+la población y en razones arquitectónicas, infraestructurales, tecnológicas, paisajísticas, patrimoniales,
+morfológicas, urbanísticas y ambientales—, se entromete en aspectos regulatorios de competencia de la Nación.
+La respuesta afirmativa es indudable.
+© Thomson Reuters Información Legal
+
+14
+
+Documento
+
+En efecto, el servicio federal de telecomunicaciones se encuentra regulado por la ley de “Tecnologías de la
+Información y las Comunicaciones” 27.078 (TIC) y por la “Ley Nacional de Telecomunicaciones” 19.798,
+cuyas disposiciones mantienen vigencia siempre que no se opongan a las previsiones de la primera (artículo 89
+de la ley 27.078).
+Ambas normas consagran la jurisdicción nacional sobre los servicios de comunicaciones (artículos 3°, inciso
+c, y 4°, inciso c, de la ley 19.798, y artículos 1° y 3° de la ley 27.078). La ley 27.078, a su vez, establece el claro
+objetivo de posibilitar el acceso de la totalidad de los habitantes de la República Argentina a los servicios de la
+información y las comunicaciones en condiciones sociales y geográficas equitativas, con los más altos
+parámetros de calidad (artículo 1°). El artículo 55 de esta ley describe al servicio de TIC como comprensivo de
+la confluencia de las redes tanto fijas como móviles que, mediante diversas funcionalidades, proporciona a los
+usuarios la. capacidad de recibir y transmitir información de voz, audio, imágenes fijas o en movimiento y datos
+en general; y en su segunda parte indica que a los efectos de resguardar la funcionalidad del servicio, “éste
+deberá ser brindado en todo el territorio nacional considerado a tales efectos como una única área de explotación
+y prestación”.
+En lo que se refiere a los requisitos para la instalación de antenas, la ley 19.798 establece que ello no se
+podrá llevar a cabo sin la previa autorización pertinente (artículo 6°). En cuanto a las autorizaciones en cuestión,
+dispone que las instalaciones deben ser habilitadas por la autoridad nacional de aplicación antes de entrar en
+funcionamiento y que la autoridad nacional, provincial o municipal deberá dar la respectiva autorización para el
+uso del suelo, subsuelo y espacio aéreo del dominio público (artículo 39).
+A su vez, la ley 19.798 establece que los medios y sistema de comunicación no podrán ser modificados sin
+previa autorización de la autoridad nacional de aplicación (artículo 27), la que tiene competencia para participar
+en el otorgamiento y cancelación de permisos, autorizaciones y licencias para la instalación, explotación, uso,
+ampliación, modificación y traslado de los distintos medios o sistemas de telecomunicaciones (artículo 9°,
+inciso 1).
+Queda claro entonces que, tal como está diseñado y estructurado el sistema de telecomunicaciones en
+nuestro país, una antena no puede ser trasladada sin la autorización de la autoridad nacional de aplicación. Esta
+conclusión, además de desprenderse claramente del texto de la normativa que regula el servicio, se impone
+dadas las características físicas requeridas para el funcionamiento del sistema, pues la ubicación de las antenas
+resulta determinante a fin de constituir la red interjurisdiccional necesaria para la adecuada prestación del
+servicio de telefonía móvil.
+Al respecto, el perito oficial designado en estas actuaciones explicó que “la telefonía celular se basa en la
+reutilización de frecuencias, lo que significa dividir el área de cobertura en zonas a las que se les asignan
+distintos grupos de frecuencias cumpliendo con la condición de que zonas linderas nunca coincidan con el
+mismo grupo de frecuencias. Esto hace que la ubicación de las antenas en las zonas en las que fuera dividida el
+área de cobertura quede determinada con muy poco margen de reubicación. El número de zonas en que se
+divide el área a cubrir con el servicio de telefonía móvil, depende fundamentalmente de la cantidad de usuarios
+a los que se les debe prestar el servicio al mismo tiempo” (fs. 1099/1100, énfasis agregado).
+Si se reconociera a los municipios la facultad de regular lo atinente a la relocalización de las antenas ya
+instaladas y debidamente autorizadas, la prestación del servicio resultaría imposible o muy dificultosa, pues toda
+decisión relativa a la reubicación de una antena afecta el diseño y la estructura de todo el sistema de
+telecomunicaciones. Ello es así porque, como lo señaló el perito oficial, la remoción o relocalización de una
+antena implica en general una reestructuración de la arquitectura de la red, de modo que torna necesario efectuar
+cambios sobre el resto de las antenas, a los efectos de que la red siga operativa y no afecte a los servicios que se
+prestan a través de ella (fs. 1101).
+En síntesis, el carácter interjurisdiccional del servicio justifica y determina la competencia regulatoria
+federal y, por tanto, la imposibilidad de los municipios de adoptar medidas que interfieran u obstaculicen dicha
+competencia. Se trata de un sistema interconectado en el que cada antena ayuda a conformar una celda que
+determina un área de cobertura, de modo que el traslado de una antena podría obligar a la relocalización de otras
+a los efectos de no impactar en la estructura de la red. No resulta difícil imaginar las consecuencias que se
+podrían generar para el funcionamiento del servicio si se permitiese a cada municipio del país tomar
+unilateralmente decisiones relacionadas con la reubicación de las antenas ya instaladas. En la medida en que
+—como lo señaló el perito experto— las antenas integran un sistema interconectado, la modificación en la
+ubicación de una de ellas impactará en las demás y, como consecuencia, en la debida prestación del servicio. En
+consonancia con estas esenciales características del servicio, la nueva ley 27.078 subraya que “éste deberá ser
+© Thomson Reuters Información Legal
+
+15
+
+Documento
+
+brindado en todo el territorio nacional considerado a tales efectos como una única área de explotación y
+prestación” (artículo 55, ya citado).
+7°) Que, por las razones expuestas, cabe concluir que el artículo 17 de la norma municipal en cuanto ordena
+el traslado dentro del plazo de 60 días de las antenas de las actoras ya instaladas en zonas restringidas, es decir,
+a una distancia menor a los 500 metros del ejido urbano (conf. surge del artículo 6°) resulta inconstitucional, por
+cuanto invade un aspecto regulatorio que hace al funcionamiento y organización del servicio, competencias que,
+según surge de la Constitución Nacional, son propias de la autoridad federal, en tanto han sido delegadas por las
+provincias a la Nación (artículos 75, inciso 13 y 121 de la Constitución Nacional).
+Finalmente, cabe señalar que la decisión que aquí se adopta resulta coherente con otros pronunciamientos de
+este Tribunal que trataron cuestiones similares a las debatidas en el sub lite. En efecto, si, como se señaló, esta
+Corte invalidó normas locales como las examinadas en los casos “Laboratorios Suarry SA” (Fallos: 192:350);
+“Telefónica de Argentina” (Fallos: 321:1074); “Telefónica de Argentina c. Provincia de Mendoza” (Fallos:
+326:4718) y “Telefónica de Argentina s/ acción de inconstitucionalidad” (Fallos: 330:3098), que se referían a
+aspectos vinculados a las guías telefónicas, a la colocación de medidores domiciliarios de pulsos, a la adopción
+de medidas técnicas y administrativas tendientes a la emisión de facturas con discriminación de llamadas y a la
+regulación de la facturación de estos servicios, con más razón debe también invalidar la ordenanza atacada en
+autos que se entromete con mayor evidencia en un aspecto directamente relacionado con el funcionamiento y
+organización del servicio de telecomunicaciones: el traslado de las antenas que configuran la red
+interjurisdiccional necesaria para su debida prestación en todo el territorio nacional. En otras palabras, la norma
+impugnada en esta causa es claramente más intrusiva en un aspecto regulatorio esencial del servicio que las
+invalidadas por este Tribunal en los pronunciamientos enunciados precedentemente.
+Dada la forma como se resuelve resulta innecesario que este Tribunal se pronuncie sobre los agravios de las
+recurrentes referidos a la irrazonabilidad de la ordenanza, con fundamento en que las medidas que instrumenta
+no resultan razonables con el fin primordial de protección de la salud, sino que, además de cumplir las antenas
+instaladas con las condiciones de exposición a radiación no ionizarte establecidas por la resolución 202/1995 del
+Ministerio de Salud de la Nación, su alejamiento —según dicen y, también, afirma el perito oficial—, generará
+el efecto contrario, por cuanto requerirá un aumento del nivel de radiación para permitir el funcionamiento de
+comunicaciones móviles.
+Por las razones expuestas, habiendo dictaminado la señora Procuradora Fiscal, se hace lugar a la queja, se
+declara procedente el recurso extraordinario interpuesto y se revoca la sentencia apelada, con el alcance
+indicado precedentemente. Con costas (artículo 68, Cód. Proc. Civ. y Com. de la Nación). Vuelvan los autos al
+tribunal de origen para que, por quien corresponda, se dicte un nuevo pronunciamiento con arreglo a lo resuelto.
+Agréguese la queja al principal. Reintégrese el depósito de fs. 2. Notifíquese y, oportunamente, devuélvase. —
+Elena I. Highton de Nolasco.
+Voto del doctor Lorenzetti
+Considerando:
+1°) Que Telefónica Móviles Argentina SA y Telefónica Argentina SA interpusieron una acción declarativa
+de inconstitucionalidad contra la ordenanza 299/10 de la Municipalidad de General Güemes de la Provincia de
+Salta porque, a su entender, interfiere en el servicio de telecomunicaciones cuya regulación corresponde a la
+órbita de competencia exclusiva del Estado Federal. La Cámara Federal de Apelaciones de Salta confirmó la
+sentencia de primera instancia que rechazó la demanda. Contra esta decisión, las recurrentes interpusieron un
+recurso extraordinario que, denegado, suscitó la presente queja invocando la arbitrariedad de la decisión y la
+existencia de cuestión federal.
+2°) Que los planteos respecto de la arbitrariedad de la sentencia apelada resultan inadmisibles, toda vez que
+dicha doctrina no tiene por objeto convertir a la Corte Suprema en un tribunal de tercera instancia ordinaria.
+Por el contrario, debe probarse un supuesto excepcional en el que graves deficiencias de fundamentación
+impidan considerar el pronunciamiento de los jueces de la causa como una sentencia fundada en ley, con directa
+lesión a la garantía del debido proceso (“Estrada, Eugenio”, Fallos: 247:713 y “Othaz”, Fallos: 324:3494, entre
+otros). En este caso, la sentencia impugnada no efectuó una interpretación irrazonable de los hechos y del
+derecho sometido a su consideración, lo que impide su descalificación por esta vía.
+3°) Que la queja es admisible en cuanto a la cuestión federal articulada en el recurso extraordinario, toda vez
+que la validez de una ordenanza municipal dictada con fundamento en atribuciones provinciales fue
+controvertida bajo la pretensión de ser repugnante a la Constitución Nacional y a la ley federal 19.798, y la
+© Thomson Reuters Información Legal
+
+16
+
+Documento
+
+decisión del a quo fue en favor de la validez de la norma local (artículo 14, inciso 2°, de la ley 48).
+4°) Que el primer paso para adoptar una decisión consiste en delimitar el conflicto de normas.
+La ordenanza 299/10 impugnada regula, entre otros aspectos, la localización y habilitación de las antenas de
+telecomunicaciones a través de radiaciones electromagnéticas no ionizantes (artículos 1° y 2°). El acto
+normativo invoca las atribuciones de la carta orgánica de la Municipalidad de General Güemes y busca
+minimizar los efectos negativos de las antenas según diferentes parámetros como los urbanísticos, patrimoniales
+y ambientales. En concreto, el Concejo Deliberante dispuso que... “a) las antenas descriptas (...) no podrán ser
+instaladas en una distancia inferior a 500 metros de la zona urbana definida por la respectiva ordenanza o en las
+proximidades de lugares donde se desarrollen actividades educativas, deportivas, sociales o de cualquier tipo
+que signifique la posibilidad de exposición continua de personas a las emisiones de dichas antenas; b) en todos
+los casos las alturas entre el nivel del suelo y el extremo de soporte de antenas, no superará los 50 metros; c) en
+los casos de localización sobre edificaciones, las alturas de los soportes de antenas no superarán el 30% de la
+altura de la masa edificada (art. 6). A su vez, ordenó que aquellas antenas ya instaladas con anterioridad a su
+sanción debían ser erradicadas en el plazo de 60 días desde su publicación (art. 17) ...”.
+Después de dictada la ordenanza aquí objetada, la cuestión continuó debatiéndose en la comunidad de la
+Municipalidad de General Güemes. Así, el 11 de noviembre de 2016 se realizó una audiencia pública y el 27 de
+septiembre de 2017 se dispuso que ciertos prestatarios de servicios de antenas y sus soportes debían presentar
+alternativas de relocalización (artículos 1° y 2° de la ordenanza 540/2017).
+Por otra parte, la Ley Nacional de Telecomunicaciones 19.798, dispone que “no se podrán instalar ni
+ampliar medios ni sistemas de telecomunicaciones sin la previa autorización pertinente” y que “las provincias o
+municipalidades no podrán expropiar las instalaciones de telecomunicaciones, ni suspender, obstaculizar o
+paralizar las obras o los servicios de jurisdicción nacional” (artículo 6°).
+5°) Que, de conformidad con lo expuesto, la decisión consiste en determinar si la ordenanza 299/10 dictada
+por la Municipalidad de la ciudad de General Güemes, invocando el ejercicio del poder de policía ambiental,
+interfirió en la adecuada prestación del servicio interjurisdiccional de telefonía móvil regulado por la ley 19.798
+y, por ende, invadió atribuciones del Estado Nacional.
+Esta decisión exige la ponderación de dos principios constitucionales.
+Por un lado, la competencia del municipio para dictar normas sobre la protección ambiental y del poder de
+policía en la materia, bajo el amparo de los artículos 41, 123 y 75, inciso 30, de la Constitución Nacional, que
+invoca la demandada.
+Por el otro, la potestad de la Nación de regular las telecomunicaciones (artículo 75, inciso 14, Constitución
+Nacional) y el comercio interprovincial conforme con la denominada “cláusula de comercio” (artículo 75, inciso
+13, de la Constitución Nacional), que fueron invocadas por la compañía telefónica.
+6°) Que esta ponderación de principios debe efectuarse examinando la pluralidad de fuentes de derecho,
+toda vez que debe interpretarse la Constitución Nacional, la Constitución de la Provincia de Salta (en especial,
+los artículos 170 y 176), la Ley Nacional de Telecomunicaciones 19.798, los marcos regulatorios del servicio
+público telefónico y la Ley General del Ambiente.
+Asimismo, se trata de un caso de relevancia institucional, toda vez que los efectos de la decisión que se
+adopte en este caso, pueden tener consecuencias importantes en el desarrollo del servicio de telecomunicaciones
+en general y en el comercio interprovincial, así como en la salud del pueblo de la Nación.
+7°) Que, cuando se plantea un caso de conflicto de normas constitucionales y de pluralidad de fuentes, debe
+aplicarse la regla de la interpretación coherente y armónica (Fallos: 186:170; 296:432).
+La determinación del referido estándar exige: a) delimitar con precisión el conflicto de normas y fuentes a
+fin de reducirlo al mínimo posible, para buscar una coherencia que el intérprete debe presumir en el
+ordenamiento normativo; b) proceder a una armonización ponderando los principios jurídicos aplicables; c)
+considerar las consecuencias de la decisión en los valores constitucionalmente protegidos (Fallos: 330:3098,
+disidencia de los jueces Lorenzetti y Zaffaroni).
+8°) Que, en primer lugar, y para reducir el conflicto, es necesario decidir si hay competencias exclusivas y,
+por lo tanto, excluyentes, en esta materia.
+Al respecto, la Constitución de la Provincia de Salta reconoce la existencia del municipio como una
+comunidad natural fundada en las relaciones de vecindad y arraigo, asegura el régimen municipal basado en su
+© Thomson Reuters Información Legal
+
+17
+
+Documento
+
+autonomía política, administrativa, económica, financiera e institucional y declara su independencia de todo otro
+poder (artículo 170 de la Constitución provincial). Más específicamente, la Provincia de Salta establece entre las
+competencias municipales lo relativo a urbanismo y promoción del medio ambiente, paisaje, equilibrio
+ecológico y polución ambiental, tendiendo al desarrollo sostenible como también la cooperación con la
+Provincia o la Nación en la preservación del medio ambiente y recursos naturales, (artículo 176 de la
+Constitución provincial).
+En este sentido, es principio consolidado en la jurisprudencia del Tribunal que, según el artículo 121 de la
+Constitución Nacional, las provincias conservan su soberanía absoluta en todo lo relativo a los poderes no
+delegados a la Nación, principio del cual se deduce que “a ellas corresponde exclusivamente darse leyes
+de...policía y en general, todas las que juzguen conducentes a su bienestar y prosperidad sin más limitaciones
+que las enumeradas en el art. 108 (actual art. 126) de la Constitución Nacional” (Fallos: 7:373; 9:277; 150:419 y
+320:619, considerando 7°, entre otros) y la razonabilidad, que es requisito de todo acto legítimo (Fallos:
+288:240). Esta orientación fue promovida por el artículo 31 de la ley 24.309, que convocó a la reforma
+constitucional de 1994 con el fin de “fortalecer el federalismo” y se plasmó en los artículos 5° y 123 de la
+Constitución Nacional.
+Estas normas permiten identificar un principio general de descentralización institucional, inspirado en el
+objetivo de lograr una sociedad más abierta y participativa.
+Como todo principio, constituye un mandato para lograr su máxima satisfacción de un modo compatible con
+otros que resulten aplicables al caso mediante un juicio de ponderación judicial.
+9°) Que la Constitución Nacional también confiere competencias específicas al gobierno federal en estas
+materias.
+La “cláusula de comercio” (artículo 75, inciso 13, de la Constitución Nacional) otorga al Congreso Nacional
+la facultad de “Reglar el comercio”, que resulta aplicable a los servicios telefónicos interprovinciales (Fallos:
+330:3098, disidencia citada). La doctrina de los precedentes de esta Corte ha respaldado dicha regla, en el
+entendimiento de que la expresión “comercio” comprende las comunicaciones telefónicas interprovinciales. Por
+esta razón, tales comunicaciones telefónicas se encuentran sujetas a la jurisdicción del Congreso Nacional
+(casos: “The United River Plate Telephone”, Fallos: 154:104, p. 112, primer párrafo, año 1929; “Laboratorios
+Suarry SA”, Fallos: 192:234, p. 238, cuarto párrafo, año 1942; “Balbi”, Fallos: 198:438, p. 445, segundo
+párrafo, año 1944; “Provincia de Buenos Aires v. Cía. Unión Telefónica”, Fallos: 213:467, p. 486, último
+párrafo, año 1949; “S.A. Compañía Argentina de Teléfonos v. Provincia de Mendoza”, Fallos: 257:159, p. 170,
+primer párrafo, año 1963; ver, además, “Obras Completas de Joaquín V. González, Edición ordenada por el
+Congreso de la Nación Argentina”, volumen V, p. 36, último párrafo, Universidad Nacional de La Plata, 1935).
+Los referidos precedentes establecieron que la regulación del servicio telefónico interprovincial es una
+competencia del gobierno federal y que son inconstitucionales las normas provinciales que violan “la cláusula
+de comercio” porque afectan la necesaria uniformidad de la legislación, lo que se verifica cuando dicho
+comercio es obstruido a raíz de restricciones locales, en materias relativas a la fijación de tarifas (Fallos:
+257:159; 268:306; 299:149) y tributos (Fallos: 189:272). Esta regla alcanza a las disposiciones que constituyen
+una afectación indirecta, como ocurre cuando se ordena la instalación de contadores de pulsos domiciliarios,
+que producen un incremento de costos que luego influirá en las tarifas (Fallos: 330:3098, cit.).
+10) Que, de conformidad con lo expuesto, no cabe duda de que la interpretación de ambas competencias
+debe ser armónica y que es necesario determinar qué criterios deben ser definitorios de los límites de cada una
+de ellas.
+Cabe recordar que, según jurisprudencia del Tribunal, el correcto ejercicio de las competencias de las
+distintas jurisdicciones debe basarse en la coordinación, con un fin de ayuda y no de destrucción y que, ante la
+alegación de un conflicto entre ellas, deberá evaluarse si se enervan mutuamente o si interfieren de forma tal que
+se obstaculicen. Se ha dicho en tal sentido que la regulación local debe encontrar como límite la imposibilidad
+de desvirtuar el objetivo que tiene la legislación federal o la obstaculización del comercio, el servicio o la
+comunicación interjurisdiccional (Fallos: 329:3459).
+De ello se deduce que, en el marco del federalismo y el reconocimiento de la competencia local, las
+atribuciones nacionales y locales no se excluyen, sino que son concurrentes, en tanto estas no desvirtúen los
+objetivos federales o impidan el comercio interjurisdiccional.
+11) Que estas competencias concurrentes se armonizan de distinto modo en diferentes aspectos legislativos.
+© Thomson Reuters Información Legal
+
+18
+
+Documento
+
+Como regla general, los poderes de las provincias son originarios e indefinidos (artículo 121), en tanto que
+los delegados a la Nación son definidos y expresos (artículo 75) (Fallos: 304:1186, entre muchos otros). Dentro
+de ese contexto, cabe entender que las prerrogativas de los municipios derivan de las correspondientes a las
+provincias a las que pertenecen (artículos 5° y 123).
+12) Que las provincias, y, por lo tanto, los municipios, han delegado la regulación de presupuestos mínimos
+tanto en materia de telecomunicaciones como en la legislación ambiental.
+En materia de telecomunicaciones rige la citada ley 19.798. Con doctrina de esta Corte, las comunicaciones
+interestatales están sujetas a la jurisdicción nacional, pues ellas constituyen el ejercicio del comercio, forman
+parte del sistema de correos y tienden a promover la prosperidad, adelanto y bienestar general del país, en tanto
+conforman un esencial “instrumento de progreso y de vida para toda la Nación” (Fallos: 188:247; 213:467;
+257:159 y sus citas; 299:149 y sus citas; 304:1186, sus citas, entre otros).
+En el campo ambiental, la ley 25.675, General del Ambiente, dispone que “se entiende por presupuesto
+mínimo, establecido en el artículo 41 de la Constitución Nacional, a toda norma que concede una tutela
+ambiental uniforme o común para todo el territorio nacional, y tiene por objeto imponer condiciones necesarias
+para asegurar la protección ambiental” (artículo 6°).
+Estos mínimos limitan la competencia de los municipios.
+En el área de telecomunicaciones permiten que ejerzan su facultad regulatoria en tanto no impidan el
+comercio interprovincial. La regulación municipal es legítima si no interfiere, como lo ha señalado esta Corte,
+en el caso de servicios administrativos vinculados con el empleo de un inmueble (Fallos: 320:619).
+En el campo ambiental, si se reconociera una competencia excluyente a los municipios, habría que admitir
+que también pueden dictar regulaciones lesivas del ambiente, violando el principio de no regresión o los
+presupuestos mínimos establecidos en la legislación federal. Pero no lo pueden hacer porque sus disposiciones
+deben ser armonizadas con la Ley General del Ambiente.
+Por lo tanto, hay competencias ambientales concurrentes que la Constitución Nacional consagra en los
+artículos 41, 42, 75, incisos 17, 18, 19 y 30 y 125, entre otros, y ello importa “la interrelación, cooperación y
+funcionalidad en una materia común de incumbencia compartida, como es el caso de la protección del
+medioambiente, sin perjuicio del poder de policía que, en primer término, está en cabeza de las provincias”
+(Fallos: 338:1183).
+13) Que las obligaciones que incumben a la Nación en la tutela ambiental no son exclusivas ni excluyentes
+de las que competen a sus unidades políticas en sus esferas de actuación sino que, en estados de estructura
+federal, pesan sobre ellas responsabilidades semejantes, que también se proyectan sobre realidades públicas y
+privadas que se desenvuelven en este ámbito, ya que de lo contrario, las leyes sancionadas en la materia no
+dejarían de ser sino enfáticas enumeraciones programáticas vacías de operatividad (Fallos: 338:1183).
+Los estados provinciales y el Estado Nacional están facultados por la Constitución Nacional para legislar en
+materia ambiental; y el ejercicio de ambos poderes de policía, en tanto potestad reguladora de los derechos y del
+cumplimiento de los deberes constitucionales del individuo, para asumir validez constitucional debe reconocer
+el principio de razonabilidad, que relacione los medios legales con los propósitos perseguidos y de acuerdo con
+los principios especiales que rigen la materia ambiental (Fallos: 338:1183).
+En materia ambiental, existe un claro reconocimiento del federalismo, de la propiedad de las provincias
+sobre los recursos naturales, pero es necesario el reconocimiento de presupuestos mínimos. Si no existiera este
+límite, podría ocurrir, como se dice en considerandos anteriores, que un municipio decidiera legislar contra la
+protección ambiental, lo que no sería admisible (confr. doctrina de Fallos: 335:1213).
+De la misma manera, los municipios tienen una competencia limitada, que, en la mayoría de los casos no
+coincide con la extensión de los problemas ambientales y es por esa razón que esta Corte ha establecido criterios
+ampliados en materia de competencias (Fallos: 340:1695, “La Pampa, Provincia de c. Mendoza, Provincia de s/
+uso de aguas”; Fallos: 329:2316; 331:1622, “Mendoza, Beatriz Silvia y otros c. Estado Nacional y otros s/ daños
+y perjuicios (derivados de la contaminación ambiental del Río Matanza - Riachuelo)”; y sentencias en las causas
+CSJ 116/2011 (47-A)/CS1 “ACUMAR s/ ordenamiento territorial”; CSJ 356/2011 (47-M)/CS1 “Mendoza,
+Beatriz S. y otros c. Estado Nacional y otros s/ daños y perjuicios derivados de la contaminación ambiental”,
+ambas del 27 de diciembre de 2012; y CSJ 841/2012 (48-A)/CS1 “Acumar s/ expansión de red de agua potable
+y saneamiento cloacal en la cuenca alta y partido de Merlo”, del 2 de julio de 2013).
+14) Que, en lo que al caso interesa, sin perjuicio de que se reconozca la autonomía municipal y la
+© Thomson Reuters Información Legal
+
+19
+
+Documento
+
+consecuente facultad para ejercer el poder de policía ambiental, la cuestión del emplazamiento de antenas de
+celulares no puede quedar sujeta a una excesiva descentralización si ello constituye una interferencia
+incompatible con las facultades del Estado Nacional y no se ha acreditado la afectación en materia ambiental.
+En el sub lite se advierte que la normativa nacional vigente establece estándares de protección de la salud y
+el ambiente; la necesidad de demostrar que las radiaciones que emiten los equipos no generan daños a la salud
+de la población; la incorporación de estándares internacionales y protocolos de medición; la necesidad de
+continuar con las investigaciones con relación a los efectos de las radiaciones no ionizantes para las personas y
+el ambiente; admiten la falta de certidumbre científica con relación a los posibles efectos adversos de las
+radiaciones no ionizantes; reconocen la necesidad de aplicación del principio precautorio; y recomiendan la
+comunicación e información a la población de las características y posibles efectos de las radiaciones no
+ionizantes. Que estos aspectos están contemplados en las resoluciones 202/1995 del Ministerio de Salud y
+Acción Social; 530/2000 y 11/2014 de la Secretaría de Comunicaciones; 269/2002; 117/2003 y 3690/2004 de la
+Comisión Nacional de Comunicaciones; en la resolución 674/2009, del Ministerio de Salud, que conforma la
+Comisión Intersectorial para el Estudio de las Radiaciones no Ionizantes (CIPERNI); y en la resolución
+1994/2015, del Ministerio de Salud, que fija límites para las emisiones de campos electromagnéticos.
+En ese marco, no debe perderse de vista que la autoridad nacional aprobó la instalación de las antenas y no
+puede presumirse que ello haya sido en contravención con la normativa apuntada.
+15) Que la interferencia es clara si se examinan las consecuencias de una regulación municipal excesiva.
+El servicio de telefonía es ampliamente utilizado por la población, incluidos los habitantes del municipio
+demandado. Para que ello sea posible es necesaria la instalación de antenas. Para que la instalación de antenas
+sea viable es imprescindible una economía de escala, es decir, invertir en regiones amplias. Que la posibilidad
+de que, en una región, la empresa tenga que negociar municipio por municipio las condiciones de instalación, no
+solo incrementaría los costos de transacción, sino que sería imposible la prestación de un servicio regional con
+diferentes regulaciones locales. Esta regla examinada en sus consecuencias perjudicaría a los consumidores, que
+no tendrían acceso a la telefonía o pagarían servicios más caros.
+Este criterio es generalizado en todos los servicios que requieren economías de escala y grandes inversiones
+y es lo que sucede en el derecho comparado.
+Esta doctrina judicial ha sido aplicada por esta Corte con cita de Joaquín V. González que criticaba que una
+línea ferroviaria que sale de Buenos Aires y recorre cinco provincias, fuese gobernada, inspeccionada, gravada y
+regida por cada uno de los gobiernos por cuyos territorios atraviesa (Fallos: 324:3048).
+Esta Corte ha señalado que entre los poderes delegados por las provincias al gobierno federal se encuentra la
+denominada “cláusula comercial”, y que el derecho de la Nación o del Congreso para reglamentar las
+comunicaciones entre las provincias asegura la existencia de un mercado único de bienes y servicios en todo el
+territorio nacional (arg. de Fallos: 332:66, considerandos 7°, 8° y 11).
+16) Que el principio de no interferencia se aplica en tanto no exista una afectación del ambiente o de los
+habitantes, lo que también está previsto en la legislación federal.
+La aplicación del principio precautorio, aun existiendo una incertidumbre científica respecto al riesgo,
+requiere un mínimo de demostración de la posible concreción del daño, circunstancia que no se verifica en
+autos. Es decir, debe existir un umbral de acceso al principio precautorio ya que de lo contrario siempre se
+podrá argumentar que cualquier actividad podrá causar daños. El problema que ello acarrea es que se puede
+desnaturalizar la utilización del principio, prestándose a usos que sean negligentes u obedezcan en realidad a
+otras intenciones.
+Por otra parte, debe tenerse presente que la aplicación del principio es casuística y obliga a realizar un juicio
+de ponderación entre principios competitivos. Ello significa que deben identificarse los riesgos para los cuales
+se adoptan medidas y estas deben ser proporcionadas, debiendo considerarse los costos económicos y sociales,
+así como quien se beneficia y quien pierde.
+17) Que, como conclusión, la regulación municipal que se cuestiona en el caso establece normas restrictivas
+en materia de instalación de antenas de celulares que conspiran contra el normal desarrollo de la telefonía móvil
+desde que impone condiciones que se apartan de las establecidas por la autoridad nacional sin que se hayan
+identificado siquiera mínimamente los riesgos que lo justificarían, impidiendo así la existencia de un régimen de
+uniformidad. De admitirse su validez, podría configurarse el absurdo de que en cada ciudad exista una
+regulación distinta sobre el tópico en cuestión, imposibilitando no solo el referido normal desarrollo de la
+© Thomson Reuters Información Legal
+
+20
+
+Documento
+
+telefonía móvil sino también la integración y modernización de la Nación y afectando el comercio
+interprovincial y regional.
+Que, por las razones expuestas, cabe concluir que el artículo 17 de la norma municipal en cuanto ordena el
+traslado dentro del plazo de 60 días de las antenas de las actoras ya instaladas en zonas restringidas, es decir, a
+una distancia menor a los 500 metros del ejido urbano (conf. surge del artículo 6°) resulta inconstitucional, por
+cuanto invade un aspecto regulatorio que hace al funcionamiento y organización del servicio, competencias que,
+según surge de la Constitución Nacional, son propias de la autoridad federal, en tanto han sido delegadas por las
+provincias a la Nación (artículos 75, inciso 13 y 121 de la Constitución Nacional).
+Por todo ello, y habiendo dictaminado la señora Procuradora Fiscal, se declaran formalmente admisibles la
+queja y el recurso extraordinario y se deja sin efecto la sentencia apelada. Con costas. Vuelvan los autos al
+tribunal de origen a fin de que, por quien corresponda, se dicte un nuevo fallo. Agréguese la queja al principal.
+Reintégrese el depósito de fs. 2; notifíquese y, oportunamente, remítase. — Ricardo L. Lorenzetti.
+Disidencia de los doctores Maqueda y Rosatti
+Considerando:
+1°) Que el Concejo Deliberante del Municipio de General Güemes, Provincia de Salta, invocando
+atribuciones de regulación ambiental, de planeamiento territorial y de salud pública, sancionó en el año de 2010
+la ordenanza 299, por medio de la cual se reglamenta el emplazamiento, instalación y habilitación de antenas
+destinadas a la transmisión de datos, comunicaciones, telefonía celular y prestaciones de servicio de
+radiofrecuencia (artículo 1°).
+En síntesis, la norma local fija las siguientes reglas:
+i) Se instrumenta un Registro Municipal de Antenas de Telefonía en el cual se deben inscribir los titulares de
+las instalaciones, estableciendo un plazo para que las estructuras preexistentes se ajusten a las nuevas
+condiciones (arts. 4° y 5°). A fin de obtener la habilitación correspondiente, la ordenanza requiere el
+cumplimiento de la normativa nacional y provincial, como así también la previa realización de un Estudio de
+Impacto Ambiental (artículos 7°, 8°, y Anexos II y IV); y en línea con los aspectos ambientales y de
+planeamiento territorial, se privilegian las estructuras de menor tamaño y complejidad, que minimicen los
+efectos medioambientales, reduzcan el impacto visual, y disminuyan la densidad de potencia de las antenas
+(artículo 10).
+ii) Por motivos “arquitectónicos, infraestructurales, tecnológicos, paisajísticos, patrimoniales, morfológicos,
+urbanísticos, y ambientales, a fin de minimizar [...] al máximo el impacto visual, y lograr una adecuada
+integración con el entorno” se establece que: a) las antenas deben instalarse a una distancia superior a 500
+metros de la zona urbana y fuera de las proximidades de lugares donde se desarrollen actividades educativas,
+deportivas, sociales o de cualquier tipo que signifique la posibilidad de exposición continua de personas a las
+emisiones de dichas antenas; b) en todos los casos las alturas entre el nivel del suelo y el extremo de soporte de
+antenas no debe superar los 50 metros; c) si la localización de la antena es sobre edificaciones, la altura de los
+soportes no pueden superar el 30% de la altura de la masa edificada (artículo 6°).
+iii) El municipio se reserva la competencia para solicitar a las empresas las mediciones de campo que
+hubiesen presentado ante la Comisión Nacional de Comunicaciones, y a requerir nuevos controles y estudios
+técnicos sobre las radiaciones no ionizantes (artículo 14). Establece, asimismo, el desmantelamiento de las
+antenas que no se ajusten a las condiciones fijadas en un plazo de sesenta (60) días (artículo 17).
+2°) Que Telefónica Móviles Argentina SA y Telefónica de Argentina SA promovieron acción declarativa
+contra la Municipalidad de General Güemes en la que plantearon la inconstitucionalidad de la ordenanza
+reseñada (fs. 262/285 de las actuaciones principales a las que se hace referencia en lo sucesivo).
+Argumentaron que la norma municipal interfiere con la instalación y permanencia de las antenas existentes
+en dicha jurisdicción y afecta los servicios de telecomunicaciones a su cargo, sujetos a la regulación del
+Gobierno Nacional.
+Señalaron que el dispositivo instalado —y que dio origen al conflicto— cumple con la totalidad de los
+requisitos exigidos por las autoridades federales y que, en consecuencia, se encuentra legalmente habilitado.
+Específicamente, destacaron que la antena se ajusta a los estándares de emisión de radiaciones no ionizantes
+previstos en la resolución 202/1995 del Ministerio de Salud de la Nación y por ello no se encuentra en juego la
+salud pública.
+© Thomson Reuters Información Legal
+
+21
+
+Documento
+
+3°) Que el juzgado federal de primera instancia rechazó la acción promovida y esa decisión fue confirmada
+por la Cámara Federal de Apelaciones de Salta, quien además encomendó a las partes que coordinen acciones
+“...a fin de que el reemplazamiento de la antena [...] que no respeten la distancia mínima estipulada se efectúe en
+un [...] predio apto para la prestación eficiente del servicio” (fs. 1133/1144 vta. y 1255/1259).
+Para así decidir, el tribunal consideró que el Municipio de General Güemes cuenta con competencia para
+regular la materia urbanística y ambiental, y que la prueba producida en la causa no desvirtuaba el estado de
+incerteza existente acerca de la relación causal entre las emisiones de radiaciones no ionizantes y el daño a la
+salud de los pobladores. En esas condiciones, entendió que no se acreditó una afectación concreta al servicio
+que invalide la norma local.
+4°) Que a fs. 1264/1283, las actoras dedujeron recurso extraordinario federal cuya denegación motivó la
+articulación del recurso de queja en consideración.
+Tras calificar al fallo de arbitrario, las recurrentes se agravian por cuanto la sentencia de la Cámara dio
+prevalencia a la normativa local, apartándose de la superioridad jerárquica del derecho federal (artículo 31 de la
+Constitución Nacional). Argumentan que la materia medioambiental se encuentra reservada al legislador
+nacional y que los gobiernos locales únicamente cuentan con atribuciones complementarias.
+Postulan que el poder de policía municipal no habilita a interferir en las materias “...desarrolladas a nivel
+federal” y expresan que el Municipio debe actuar con observancia del principio de solidaridad, dando
+cumplimiento, por ejemplo, a los acuerdos firmados por las empresas telefónicas con la Federación Argentina
+de Municipios (fs. 1273 vta./1274 vta.).
+Cuestionan las conclusiones del fallo con relación a la aplicación del principio precautorio. Entienden que la
+prueba demuestra la inexistencia de riesgos para la salud de la población, toda vez que la antena instalada
+cumple con los estándares fijados por la autoridad nacional sobre emisiones de radiaciones no ionizantes.
+Señalan que el traslado de la antena fuera del ejido urbano del municipio no reducirá las emisiones de este tipo.
+5°) Que el recurso extraordinario es formalmente admisible, toda vez que la sentencia del superior tribunal
+de la causa se ha pronunciado por la validez de una ordenanza municipal que se reputa contraria, en forma
+directa, con preceptos de la Constitución Nacional (artículo 75, incisos 12, 14 y 18) y las leyes federales 19.798
+y 27.078 (artículo 14, inciso 2° de la ley 48).
+En cuanto a los agravios relativos a la arbitrariedad de sentencia resultan inadmisibles (artículo 280, Cód.
+Proc. Civ. y Com. de la Nación), en la medida en que el recurrente no demostró que constituya una
+“inconcebible [decisión] dentro de una racional administración de justicia” de acuerdo con el estándar que este
+Tribunal ha establecido sobre el punto (Fallos: 341:1869, entre muchos otros).
+6°) Que, en concreto, la cuestión que se trae a conocimiento consiste en determinar si el Municipio de
+General Güemes cuenta con atribuciones para regular el emplazamiento de antenas de telecomunicaciones por
+razones ambientales, de salud pública y planeamiento territorial. A lo largo del proceso, las actoras objetaron la
+ordenanza municipal al entender que importa una indebida interferencia en un servicio que se encuentra sujeto a
+regulación exclusiva de las autoridades federales (artículo 75, incisos 13, 14 y cctes. de la Constitución
+Nacional y el artículo 6° de la ley 19.798). El municipio, por su parte, argumentó que se limitó a reglamentar
+aspectos propios de su poder de policía (artículos 5°, 75, inc. 30, 123 de la Constitución Nacional).
+7°) Que la Constitución Nacional utiliza para la asignación de competencias entre el Estado Nacional y los
+Estados locales el criterio de regla y excepción: la “regla” es la competencia provincial o local, la “excepción”
+es la competencia federal, de tal modo que todo aquello que no está expresamente cedido por las provincias al
+gobierno federal, queda retenido en aquellas (artículo 121 de la Constitución Nacional).
+Sin perjuicio de lo anterior, y con mayor nivel de detalle, la Norma Fundamental especifica las
+competencias exclusivas de la Nación (vgr. artículos 75, 99, 116, entre otros), las exclusivas de los Estados
+miembros (vgr. artículo 122, entre otros), como consecuencia de lo anterior, las competencias prohibidas para
+ambos órdenes (vgr. artículos 126, 127 y cc. y 122 y cc., entre otros, respectivamente) y las concurrentes o
+convergentes, es decir aquellas en las que —de una u otra forma— pueden (o deben) intervenir tanto el Estado
+Nacional como los Estados miembros.
+Estos últimos casos de convergencia remiten a diferentes hipótesis que responden a los siguientes criterios:
+Una primera modalidad de convergencia de competencias es la que se verifica cuando cada escala de
+decisión (Estado Nacional o Estados miembros), cuenta con atribuciones para regular y controlar el tema o
+actividad concernido en paridad jerárquica, estableciéndose mecanismos de homogeneización y/o
+© Thomson Reuters Información Legal
+
+22
+
+Documento
+
+compatibilización para evitar duplicaciones y/o contradicciones. Este tipo de colaboración es el propio de las
+históricamente llamadas facultades concurrentes (artículo 75, incisos 18 y 19 de la Constitución Nacional,
+rotuladas como cláusulas del progreso y del desarrollo) y también de aquellas que requieren la participación
+obligatoria de todos los estamentos (artículo 75 inciso 2 sobre coparticipación federal de impuestos).
+Una segunda variante es la que se asienta sobre la diferenciación entre normas de fondo y normas
+procesales. Procura la coordinación en base al procedimiento delimitado por el constituyente en el artículo 75,
+inc. 12 de la Constitución Nacional, conforme el Estado Nacional dicta la legislación de fondo y las provincias
+la regulación procesal.
+Por último, una tercera alternativa se manifiesta cuando cada nivel de decisión tiene competencia para
+regular y controlar un sector o tramo específico del tema o actividad en cuestión. Tal es la instrumentada en
+materia ambiental por el artículo 41 de la Constitución Nacional, en virtud del cual el Estado Nacional regula
+los “niveles mínimos de protección” y los Estados miembros los “niveles complementarios”.
+8°) Que la reforma de 1994 introduce el concepto de autonomía municipal en el artículo 123; de este modo
+aparece el municipio en el diseño federal argentino como el orden de gobierno de mayor proximidad con la
+ciudadanía.
+Para fundar la pertinencia de la incorporación de los municipios como actores necesarios del federalismo, se
+señaló en la Convención constituyente reformadora que por su intermedio se intentaría fortalecer el federalismo,
+acentuar la expresión democrática de la ciudadanía, reconocer la tradición histórica de las instituciones más
+próximas a los vecinos y potenciar la aptitud de los municipios para lograr —en razón de esa cercanía— una
+mayor eficiencia en el ejercicio de la administración pública.
+Se dijo entonces que para evitar que “la interpretación futura pueda burlar el espíritu” de la autonomía
+resultaba necesario afirmar su alcance y contenido. De ahí derivaron los constituyentes la referencia al orden
+institucional, político, administrativo, económico y financiero como elementos distintivos que darían cuerpo a la
+autonomía municipal en el artículo 123 de la Constitución Nacional (confr. 24ª Reunión, 3ª Sesión Ordinaria del
+4 de agosto de 1994, páginas 3190 y 3207, y 26ª Reunión, 3ª Sesión Ordinaria del 8 de agosto de 1994, página
+3435).
+9°) Que en materia de distribución de competencias entre el Estado Nacional, las provincias y los
+municipios, las previsiones constitucionales —aun las más exactas— suelen verse desafiadas por la creciente
+complejidad de cuestiones originariamente previstas pero insuficientemente reguladas y/o por la generación de
+cuestiones imprevistas en el origen del texto. En tales ocasiones, la confluencia de competencias debe ser
+asumida buscando la armonización, evitando interferencias o roces susceptibles de acrecentar los poderes del
+gobierno central en desmedro de las facultades provinciales y viceversa. En efecto, la Constitución recepta el
+proyecto federal que reconoce que el Estado Nacional, las provincias y los municipios coordinan sus facultades
+“para ayudarse y nunca para destruirse” (Fallos: 342:509 “Bazán”, entre muchos otros).
+El sistema federal constitucional argentino se funda en el principio de “lealtad federal” o “buena fe federal”,
+conforme al cual en el juego armónico y dual de competencias debe evitarse que los estados “abusen en el
+ejercicio de esas competencias, tanto si son propias como si son compartidas o concurrentes” (Fallos: 340:1695
+“La Pampa, Provincia de c. Mendoza, Provincia de”).
+10) Que este Tribunal ha tenido ocasión de hacer mérito de las nuevas disposiciones que incorporan el
+municipio autónomo al orden federal argentino como sujeto político de existencia “necesaria” (Fallos: 342:509
+cit.).
+Para precisar las reglas de adecuación entre el orden nacional, provincial y el local ha dicho que el poder de
+autodeterminación municipal se inscribe en el de las provincias, que conservan su soberanía absoluta en todo lo
+relativo a los poderes no delegados a la Nación. A ellas sigue correspondiendo exclusivamente darse leyes de
+policía y en general todas las que juzguen conducentes a su bienestar y prosperidad sin más limitaciones que las
+enumeradas en el artículo 126 de la Constitución Nacional.
+Agregó que las provincias deben coordinar el ejercicio de los poderes que conservan de forma tal que se
+garantice “el mayor grado posible de atribuciones municipales” en los ámbitos de lo institucional, político,
+administrativo, económico y financiero (Fallos: 327:4103 “Cadegua”).
+También sostuvo que el aspecto institucional de la autonomía municipal se ve seriamente afectado cuando
+una provincia asume atribuciones que fueron asignadas exclusivamente a las municipalidades, como es, por
+ejemplo, la de convocar a la renovación de sus autoridades (Fallos: 328:175 “Ponce”). Respecto del aspecto
+© Thomson Reuters Información Legal
+
+23
+
+Documento
+
+financiero, señaló que el principio de autonomía queda condicionado a la capacidad financiera de los municipios
+para ejercerla. Por ello, las provincias están obligadas a cumplir con las normas de coparticipación municipal
+que ellas mismas dictan (Fallos: 337:1263 “Intendente Municipal”, criterio ratificado en Fallos: 341:939
+“Municipalidad de la Ciudad de La Banda”).
+11) Que la jurisprudencia reseñada debe inscribirse en la comprensión de las reglas más amplias que definen
+al federalismo a partir de la reforma de 1994.
+En ese sentido esta Corte Suprema ya ha advertido sobre la importancia de hacer cumplir los “mandatos de
+hacer” establecidos en normas constitucionales estructurantes del federalismo, referidas no solo a las que
+gobiernan la autonomía municipal, sino también a aquellas que hacen a la necesidad de avanzar en un nuevo
+sistema de coparticipación federal de impuestos a las provincias (Fallos: 338:1356 “Santa Fe”, “San Luis” y
+“Córdoba”) y al cumplimiento de la norma que establece la autonomía de la Ciudad de Buenos Aires (Fallos:
+342:509 cit. y 342:533 “Gobierno de la Ciudad Autónoma de Buenos Aires c. Córdoba, Provincia de”).
+12) Que en el conjunto de casos citados —si bien desde distintas perspectivas— se manifiesta la decisión de
+la jurisdicción constitucional de dar sentido al contenido de los acuerdos políticos constitucionales que emergen
+de la reforma de 1994. Se trata en suma de asegurar que esas reglas sean desarrolladas para fortalecer la vida
+federal de la Argentina. Aunque resulte evidente que estos procesos deben perfeccionarse, lo cierto es que todos
+ellos han sido debatidos en la arena política, e interpretados siempre partiendo de la premisa constitucional de su
+validez ante los jueces.
+13) Que precisados los principios que rigen el reparto de competencias constitucionales, corresponde
+delimitar los ámbitos de regulación concretos a los que refiere esta causa, a fin de determinar si la norma
+municipal impugnada constituye un legítimo ejercicio de potestades constitucionales, o si —por el contrario—
+contradice el criterio de reparto interpretado en base al principio de buena fe federal.
+Con esa finalidad, cabe destacar que en la instalación de estaciones radioeléctricas, antenas de telefonía y
+soportes de infraestructura de las redes de telecomunicaciones, inciden un conjunto de factores que
+necesariamente exceden el análisis jurídico. Estas estructuras, según su porte y características, responden a
+necesidades técnicas vinculadas con la prestación de un servicio signado por el desarrollo tecnológico y, al
+mismo tiempo, inciden sobre la calidad de vida cotidiana de los vecinos.
+Por esa razón, el régimen jurídico de las antenas y la ordenanza que dio origen a este caso, conjuga por lo
+menos tres ámbitos de regulación diferentes: i) lo relativo a una adecuada y eficiente prestación del servicio, de
+competencia federal; II) lo atinente al medio ambiente y la salud pública, atribución de carácter concurrente
+entre la federación, las provincias y los municipios; y iii) lo referido al planeamiento territorial, de incumbencia
+principalmente local.
+14) Que el servicio de telecomunicaciones interprovincial se encuentra comprendido en el vocablo
+“comercio” utilizado por nuestra Constitución Nacional, pues el mismo abarca, además del tráfico mercantil y la
+circulación de efectos visibles y tangibles para todo el territorio de la Nación, la transmisión por teléfono u otro
+medio, de ideas, órdenes, convenios, etcétera. Por esa razón, esta Corte ha justificado la jurisdicción federal en
+el artículo 75, incisos 13, 14 y 18 de la Constitución Nacional (arg. doct. Fallos: 257:159; 320:162; 333:296).
+15) Que la regulación federal, en lo que al caso interesa, contempla las condiciones y calidad del servicio de
+telecomunicaciones y tecnologías de la información (decretos 764/2000, 681/2013 y resolución del Ministerio
+de Modernización 580/2018, entre otros) y los estándares de seguridad ambiental y de salud pública vinculados
+con las radiaciones electromagnéticas (resoluciones 202/1995 y 1994/2015 del Ministerio de Salud, 530/2000 de
+la Secretaría de Comunicaciones y 3690/2004 de la Comisión Nacional de Comunicaciones, que se examinarán
+más adelante).
+Específicamente, para integrar el ordenamiento federal con las competencias locales, se establece que “[l]as
+provincias o municipalidades no podrán expropiar las instalaciones de telecomunicaciones, ni suspender,
+obstaculizar o paralizar las obras o los servicios de jurisdicción nacional” (artículo 6° de la ley 19.798 invocado
+por la recurrente, según artículo 89 de la ley 27.078). Esta norma se complementa con el actual artículo 17 de la
+citada ley 27.078, en cuanto ordena que “[l]as autoridades nacionales, provinciales, de la Ciudad Autónoma de
+Buenos Aires y municipales, coordinarán las acciones necesarias para lograr el despliegue de las redes de
+telecomunicaciones utilizadas en los Servicios de TIC. La Autoridad de Aplicación invitará a las provincias, a la
+Ciudad Autónoma de Buenos Aires y a los municipios a suscribir los respectivos convenios de cooperación”.
+Definida la competencia federal en las telecomunicaciones, corresponde verificar las atribuciones
+municipales en materia ambiental, de salud pública y planeamiento territorial.
+© Thomson Reuters Información Legal
+
+24
+
+Documento
+
+16) Que la Constitución Nacional consagra en su artículo 41 el derecho a gozar de “un ambiente sano,
+equilibrado, apto para el desarrollo humano y para que las actividades productivas satisfagan las necesidades
+presentes sin comprometer las de las generaciones futuras”, imponiendo asimismo “el deber de preservarlo”.
+La citada cláusula incorpora el concepto de “desarrollo humano sostenible o sustentable”, conforme el cual
+no solo las actividades productivas tienen el deber de preservar el ambiente, sino que el derecho al desarrollo
+debe ejercerse en forma tal que responda equitativamente a las necesidades de las generaciones presentes sin
+descuidar a las futuras. En base al principio señalado, la Constitución reclama un adecuado balance, en miras a
+armonizar la tutela del ambiente y el desarrollo mediante un juicio de ponderación razonable,. no debiendo
+buscarse oposición entre ambos, sino complementariedad, ya que su tutela no significa detener el progreso sino
+hacerlo más perdurable en el tiempo de manera que puedan disfrutarlo las generaciones futuras (arg. doct.
+Fallos: 332:663).
+A partir de esta concepción, la Constitución ordena a las autoridades proveer “...a la protección de este
+derecho, a la utilización racional de los recursos naturales, a la preservación del patrimonio natural y cultural y
+de la diversidad biológica, y a la información y educación ambientales”.
+17) Que en la regulación de la materia ambiental nuestro federalismo impone una sinergia entre la labor de
+la autoridad federal y la provincial.
+En cuanto a la distribución de competencias en esta materia, la Constitución Nacional asigna a la Nación la
+de dictar las normas que contengan los presupuestos mínimos de protección, y a las provincias, las necesarias
+para complementarlas, sin que aquellas alteren las jurisdicciones locales” (artículo 41, tercer párrafo).
+Esta norma diseña un tipo de complementación que —conforme a la tipología descripta en el considerando
+7°— en función de la cual corresponde al Estado Nacional la regulación del “nivel básico”, es decir, la
+reglamentación de los contenidos fundamentales en la materia, respecto de los cuales tiene una competencia
+insustituible. Por su lado, la regulación del nivel complementario se encuentra a cargo de las autoridades
+locales, a quienes corresponde reconocer la facultad de aplicar los criterios de protección ambiental que
+consideren conducentes para el bienestar de la comunidad para la que gobiernan, como asimismo valorar y
+juzgar si los actos que llevan a cabo sus autoridades, en ejercicio de poderes propios, afectan el bienestar
+perseguido (Fallos: 318:992; 329:2212 y 330:549).
+18) Que este esquema incluye a los municipios, quienes —al interior de las provincias— ejercen
+primariamente la regulación y control de las cuestiones ambientales (artículos 5°, 41, 123, Constitución
+Nacional, arg. doct. Fallos: 318:992).
+Ahora bien, el ejercicio de esa competencia municipal —que surge de su reconocimiento como institución
+fundamental dentro del concierto federal de la República— reconoce límites precisos, a saber:
+i) La vigencia “directa” de las leyes del Congreso Nacional que establezcan los presupuestos mínimos de
+protección; específicamente los previstos en la ley 25.675;
+ii) Lo dispuesto por la Constitución y las leyes provinciales en lo referente a cuestiones ambientales de
+escala supramunicipal o a aquellas que —aunque “locales” en el sentido de comprendidas en la jurisdicción
+municipal— se consideren estratégicas;
+iii) Los límites que surgen de la capacidad técnica y económica para asumir y resolver problemas
+ambientales complejos o de resolución sofisticada o costosa.
+Con tal comprensión, el municipio es una escala constitucionalmente adecuada para regular y controlar los
+problemas ambientales locales, es decir, aquellos que puedan circunscribirse dentro del ámbito geográfico
+municipal. Y en similar sentido, los problemas ambientales interjurisdiccionales susceptibles de ser abordados
+eficazmente por medio de la colaboración intermunicipal.
+19) Que corresponde también recordar sus atribuciones en lo atinente a la tutela de la salud pública dentro
+de las previsiones del régimen provincial respectivo.
+Desde el precedente “Saladeristas Podestá”, este Tribunal reconoció que las jurisdicciones locales cuentan
+con competencia en esta materia. Efectivamente, en ese caso, en el que se cuestionaba la constitucionalidad de
+una ley de la Provincia de Buenos Aires que reglamentaba la actividad de los saladeros por razones de
+salubridad, se consideró que no puede invocarse un permiso o autorización gubernamental para sostener —en
+cualquier circunstancia— derechos en el tiempo, por cuanto tales autorizaciones se conceden “...bajo la
+condición implícita de no ser nocivos a los intereses generales de la comunidad [...] porque ninguno puede tener
+© Thomson Reuters Información Legal
+
+25
+
+Documento
+
+un derecho adquirido de comprometer la salud pública, y esparcir en la vecindad la muerte y el duelo con el uso
+que haga de su propiedad, y especialmente con el ejercicio de una profesión o de una industria” (Fallos:
+31:273).
+En las condiciones concretas de autos, tanto la Nación como las provincias y aun los municipios —de
+acuerdo, en este último caso, al régimen provincial respectivo— están llamados a proteger la salud de forma
+concurrente (cf. artículos 75 incisos 18 y 19, 123, 125 de la Constitución Nacional). Y en tal escenario, como se
+ha visto, cada escala de decisión (Estado Nacional o Estados miembros) tiene competencia para regular y
+controlar el tema o actividad concernido en paridad jerárquica, estableciéndose mecanismos de
+homogeneización y/o compatibilización para evitar duplicaciones y/o contradicciones. Desde luego que ni las
+provincias ni los municipios pueden reglamentar la actividad sometida, en forma exclusiva, a regulación federal,
+pero ello no quita las competencias locales en el ejercicio de su poder de policía dentro de los límites trazados
+por la Constitución Nacional.
+20) Que el planeamiento constituye el proceso que permite reducir racionalmente el número de alternativas
+de acción a aquellas más congruentes con las necesidades a satisfacer y los medios disponibles.
+En su proyección espacial (planeamiento territorial) la planificación se expresa en actividades tales como la
+clasificación del territorio (urbano-suburbano-rural), su zonificación según usos, el régimen de edificación con
+la determinación del factor de ocupación, los planes de expansión, el régimen de loteos y urbanizaciones, la
+programación vial, etc.
+En este ámbito de regulación se procura dar satisfacción, con el menor costo económico y social posible, a
+los requerimientos de la comunidad en materia de vivienda, industria, comercio, recreación, infraestructura,
+equipamiento y servicios especiales, teniendo en cuenta los medios de vida, el clima y los recursos técnicos
+apropiados a la realidad local y regional incidida. También se comprende la preservación y mejoramiento del
+ambiente, la tutela de la estética urbana y del paisaje, entre otras variantes.
+Al ser la instancia de decisión local la que mejor conoce las modalidades de la convivencia vecinal, como
+así también las fortalezas, carencias y potencialidades de su territorio, es lógico que tenga una competencia
+primaria para diseñar la política pública sobre la materia, debidamente coordinada con las autoridades
+provinciales. De igual modo, la jurisprudencia de esta Corte ha reconocido a lo largo de los años que, por regla,
+los gobiernos locales cuentan con atribuciones para dictar normas de policía que reglamenten de modo
+razonable el desarrollo urbano y planeamiento, de manera de satisfacer el interés general (arg. doct. Fallos:
+277:313; 305:321; 308:2626; 320:222).
+21) Que en ese sentido la Constitución de Salta, al reglamentar las competencias municipales, señala en su
+artículo 176 que “[c]ompete a los Municipios sin perjuicio de las facultades provinciales, con arreglo a las
+Cartas Orgánicas y Leyes de Municipalidades: Darse su propia organización normativa, económica,
+administrativa y financiera [...] La preservación del patrimonio histórico y arquitectónico local. Lo relativo a
+urbanismo, higiene, salubridad y moralidad; como así también a la protección y promoción del medio ambiente,
+paisaje, equilibrio ecológico y polución ambiental, tendiendo al desarrollo sostenible...”. Y añade “[l]a
+cooperación con la Provincia o la Nación en asistencia social, salud pública, preservación del medio ambiente y
+recursos naturales”.
+A su vez, el legislador provincial —a través de la ley 7070, de protección del medio ambiente— reconoce a
+los municipios atribuciones concretas en dicha materia, como así también la relevancia de la actuación
+coordinada con la provincia (arts. 6°, 18, 20, inc. f, 32, inc. 5, 39, 105 y 110, ver asimismo fs. 809).
+En sintonía con ello, el artículo 7° de la Carta Orgánica municipal establece entre las atribuciones locales la
+de “[c]ooperar con la Provincia o la Nación en la asistencia social, la salud pública, la preservación del medio
+ambiente y de los recursos naturales” (inc. c, y en el mismo sentido, el artículo 90 referido al urbanismo, medio
+ambiente y recursos naturales).
+22) Que de lo dicho se extrae que todos los niveles de jerarquía normativa aplicables al caso (Constitución
+Nacional, leyes federales, Constitución de Salta, leyes provinciales y Carta Orgánica municipal) reconocen a la
+Municipalidad de General Güemes competencia para regular sobre materias ambientales, de salud pública y de
+planeamiento territorial.
+Frente a ellos, las empresas recurrentes no acreditaron debidamente que la normativa municipal se aparte o
+contradiga la legislación nacional en cuestión. Al respecto, corresponde tener en cuenta que:
+i) En materia de salud pública la autoridad federal, recogiendo una preocupación global sobre “los efectos
+© Thomson Reuters Información Legal
+
+26
+
+Documento
+
+biológicos de las radiaciones no ionizantes, radiofrecuencias y microondas con frecuencias entre los 100 KHz y
+los 300 GHz”, dictó la resolución 202/1995 (Ministerio de Salud de la Nación), que aprueba el “Estándar
+Nacional de Seguridad para la exposición a radiofrecuencias comprendidas entre 100 KHz y 300 GHz [...] de
+radiación electromagnética ambiental no ionizante” (artículo 1°).
+El estándar se impuso de forma obligatoria a todos los sistemas de telecomunicaciones que irradian en esas
+frecuencias en el territorio nacional por la resolución 530/2000 de la Secretaría de Comunicaciones. Entre la
+motivación que se extrae de esta norma, se destacó que “las autoridades de distintos municipios han hecho
+presentaciones ante la CNC solicitando conocer los antecedentes regulatorios sobre instalación de estaciones
+radioeléctricas con sus correspondientes antenas y valores máximos de irradiación permisibles a fin de no
+afectar la salud de la población”. Y en ejercicio de esas competencias, en el año 2004 la Comisión Nacional de
+Comunicaciones, por resolución 3690/2004, basándose en protocolos internacionales en la materia, ha dispuesto
+que “[l]os titulares de autorizaciones de estaciones radioeléctricas de radiocomunicaciones y los licenciatarios
+de estaciones de radiodifusión, deberán demostrar que las radiaciones generadas por las antenas de sus
+estaciones no afectan la población en el espacio circundante a las mismas” (artículo 1°).
+Específicamente sobre este punto, la ordenanza 299/10 no entra en conflicto con la regulación federal: en
+primer lugar, porque no tiene por objeto regular aspectos técnicos que se vinculen con el núcleo del servicio de
+telecomunicaciones; en segundo término, porque dicho precepto hace expreso mérito de la resolución federal
+202/1995; y por lo demás, sujeta la habilitación municipal de las antenas al cumplimiento de la normativa
+nacional y provincial (artículos 8°, 10 y 14).
+En materia estrictamente ambiental, y de modo coincidente con el anterior, los recurrentes tampoco logran
+comprobar que la normativa local desvirtúe la ley 25.675 —u otras disposiciones federales—, o la norma
+provincial de protección ambiental.
+ii) Finalmente, en lo atinente a los aspectos urbanísticos y de planificación territorial, la apelación federal de
+las actoras no expone ninguna crítica concreta para objetar las atribuciones del Municipio de General Güemes.
+Al respecto, corresponde tener en cuenta que el traslado de las antenas, principal aspecto cuestionado de la
+ordenanza, se adoptó respondiendo a motivos arquitectónicos, paisajísticos, morfológicos y urbanísticos “...a fin
+de minimizar al máximo el impacto visual, y lograr una adecuada integración con el entorno”. Este objetivo no
+fue eficazmente objetado y se encuentra fuera de discusión la razonabilidad en su ejercicio.
+Más aún, en este aspecto, corresponde recordar que esta Corte, en el caso registrado en Fallos: 329:976
+(“Cablevisión c. Municipalidad de Pilar”), reconoció la validez de la normativa municipal que reglamentaba el
+tendido de cables del sistema de prestación de ese servicio. Para ello clasificó la regulación según recayera
+sobre el servicio técnico en sí mismo o sobre otro punto de vista respecto de ese mismo objeto, como podría ser
+el aspecto ambiental o urbanístico. Sostuvo entonces que la regulación municipal sobre el tendido de cables de
+sistemas de comunicación, telefonía, televisión por cable, iluminación y energía eléctrica, entre otras, fundada
+en razones de seguridad pública y de paisaje y estética urbana correspondía a una materia propia del gobierno
+municipal y no resultaba lesiva de la competencia federal sobre las comunicaciones.
+De este modo, no existen razones para contraponer la solución normativa dispuesta por la autoridad
+municipal con la normativa federal cuando cada una de ellas —en función de las circunstancias aquí
+debatidas— encuentra sustento en competencias propias o concurrentes que, lejos de excluirse, apuntan a
+resguardar principios, reglas y valores constitucionales que deben tener similar vigencia para concretar, en
+forma armónica, el orden social diseñado por los constituyentes (artículos 5°, 41, 75 incisos 13, 14, 18 y 30, 123
+de la Constitución Nacional). En efecto, si la población de General Güemes —para generar el ordenamiento
+territorial de corte paisajístico, urbanístico y ambiental— ha dispuesto establecer un área urbana con ciertas
+características especiales en cuanto a la ubicación de antenas telefónicas —sin perjuicio del límite de la
+interferencia que se refiere en los próximos considerandos— no resulta admisible la tacha que cuestiona la
+oportunidad o la conveniencia de tal decisión.
+23) Que descartados los agravios que discutían la competencia del municipio, resta analizar si su ejercicio
+interfiere la actividad sujeta a regulación federal.
+Para ello, debe recordarse que este Tribunal ha establecido la existencia de las necesarias atribuciones
+nacionales para la reglamentación de los servicios que excedan el ámbito local (Fallos: 257:159, ya citado)
+incluso de aquellos “aspectos de las actividades interiores” de las provincias en la medida en que sean
+susceptibles de menoscabar u obstruir el servicio (Fallos: 326:4718 entre otros). La regulación local debe
+encontrar como límite la imposibilidad de desvirtuar el objetivo que tienen la legislación federal en la materia o
+la obstaculización del comercio, el servicio o la comunicación interjurisdiccional (Fallos: 329:3459).
+© Thomson Reuters Información Legal
+
+27
+
+Documento
+
+Como se ha visto, una percepción cooperativa del federalismo procura superar decisiones disyuntivas,
+maximizar las órbitas de competencias y resolver los conflictos por la vía del consenso. Sin embargo, en última
+instancia, en cualquiera de los niveles de regulación señalados, el municipio conservará sus atribuciones
+primarias en la medida que no interfiera en los objetivos de la legislación nacional.
+Ello no supone desconocer las competencias federales que la cláusula del comercio (artículo 75, inciso 13 de
+la Constitución Nacional), la fijación de los correos generales (artículo 75, inc. 14) o la cláusula del progreso
+(artículo 75, inciso 18) atribuyen al Congreso de la Nación, sino interpretar tales delegaciones efectuadas por las
+provincias en línea con la directriz trazada por el artículo 75, inciso 30 luego de la reforma de 1994 que ha
+reconocido —incluso dentro de los establecimientos de utilidad nacional— el ejercicio de los poderes de policía
+locales en tanto no interfieran con el cumplimiento de los fines nacionales.
+Se trata de una potestad que los entes locales deben ejercitar con razonabilidad y prudencia para no
+constituir un obstáculo real y efectivo que interfiera en la prestación del servicio habilitado por la autoridad
+nacional, menoscabando o impidiendo los fines propios por los que debe velar el Estado Nacional.
+Dado que el ejercicio de una atribución local en los enclaves de jurisdicción federal siempre incide en ellos,
+el criterio para dirimir la existencia de una interferencia en ámbitos sometidos a la jurisdicción federal por
+interés nacional es la compatibilidad con lo inherente a esa utilidad nacional y no la mera incidencia. La
+regulación local no se transforma en un obstáculo real y efectivo a la actividad de jurisdicción nacional en tanto
+sea periférica o extrínseca respecto a la utilidad pública del establecimiento nacional y no menoscabe o impida
+las operaciones de jurisdicción federal.
+Lo dicho supone, como principio, que no constituyen por sí mismos obstáculos reales y efectivos para el
+logro de los fines de utilidad nacional invalidantes de las normas locales: i) la mera incidencia económica,
+ponderada de forma aislada, que acarrean las normas locales sobre los operadores nacionales; ii) las
+regulaciones que resulten periféricas y extrínsecas al núcleo o la sustancia de la regulación federal en cuestión;
+iii) las disposiciones que no impliquen una interrupción sine die o conlleven la degradación de la actividad de
+jurisdicción nacional, esto es —en lo que respecta al presente conflicto— la prestación del servicio de
+telecomunicaciones.
+24) Que, a la luz de lo expuesto se colige que la parte actora no ha podido probar que la modificación de la
+ubicación de sus antenas vaya en desmedro de la prestación del servicio. En efecto, al explicar “la envergadura
+de las consecuencias” que implicaría el cumplimiento de dicha ordenanza, la empresa —más allá de considerar
+su dictado “irrazonable” y la postura del tribunal a quo “ambientalmente incorrecta”— se limita a sostener que
+“el traslado de las antenas fuera del ejido urbano municipal solo implicaría el funcionamiento forzado del
+sistema al cual pertenecen para poder brindar la misma calidad en el servicio” (fs. 1279 vta., énfasis propio). Es
+significativo también recordar que el a quo consideró que no se había acreditado que la ordenanza conllevara la
+obstaculización de las comunicaciones. Sin embargo, los recurrentes se han limitado a sostener que “en vista al
+inmediato cumplimiento de la ordenanza (...) va a verse imposibilitado de cumplir eficientemente su prestación
+para con los usuarios” (fs. 1272) sin generar precisión sobre las razones que explicarían la imposibilidad de una
+prestación eficiente.
+La pericia de fs. 1099/1105, al referirse a las consecuencias del traslado de la antena, se ha limitado a
+señalar que “[t]oda relocalización implica un período durante el cual los servicios en el área cubierta por la
+antena a reubicar [...] se vean afectados sea por un servicio de mala calidad o directamente por falta del mismo”
+(fs. 1101). De esta conclusión se advierte que la afectación del servicio sería meramente transitoria, esto es,
+mientras se realizan las tareas de relocalización; mas ello no resulta prueba concluyente de una afectación
+permanente o que perdure luego de reestructurada o rediseñada la arquitectura de la red, que es precisamente el
+punto dirimente para configurar una interferencia de carácter funcional.
+Ante esta evidencia, la mera invocación de una interferencia no alcanza para acreditarla, pues quien alega un
+hecho tiene la carga de probarlo (artículo 377 del Cód. Proc. Civ. y Com. de la Nación).
+En consecuencia, el único gravamen subyacente en el recurso extraordinario quedó configurado por los
+trastornos económicos y/u operativos que podría acarrear la reubicación de los soportes. Esta afectación no ha
+sido cuantificada por las prestadoras del servicio y —como se expuso— resulta, por sí, insuficiente para tener
+por acreditada una interferencia funcional en el establecimiento de utilidad nacional, toda vez que la cláusula de
+artículo 75, inc. 30, apunta a resguardar el adecuado funcionamiento del servicio de jurisdicción nacional, de un
+modo compatible con las atribuciones locales.
+En efecto, aun cuando resulte evidente que la reglamentación municipal genera la necesidad de realizar
+© Thomson Reuters Información Legal
+
+28
+
+Documento
+
+nuevos ajustes a la actividad de las empresas recurrentes, de los principios federales señalados anteriormente se
+deriva que las alegaciones genéricas respecto de que una ordenanza afectaría un servicio regulado por el Estado
+Nacional no bastan para neutralizar el ejercicio de atribuciones constitucionales reconocidas a las
+municipalidades.
+En resumidas cuentas, es propio del federalismo que ciertas cuestiones estén reguladas al mismo tiempo por
+normas provenientes de diferentes niveles de autoridad, cada una con sus correspondientes preocupaciones. Pero
+la yuxtaposición normativa no significa necesariamente una invasión de competencias.
+25) Que, para finalizar, y tal como se lo ha señalado con anterioridad, ningún sistema de distribución de
+competencias puede funcionar al margen de la buena fe y la concertación. Va de suyo que, en un país federal,
+las regulaciones locales sobre aspectos vinculados a una actividad sujeta— a jurisdicción federal centralizada
+pueden demandar mayores esfuerzos a las prestadoras de los servicios. Sin embargo, descartada la violación del
+derecho federal (artículo 31 de la Constitución Nacional) y la existencia de una interferencia (artículo 75, inciso
+30), la única vía para evitar conflictos derivados del ejercicio del poder de policía local es que este se concrete
+de forma prudente, moderada y respetuosa de las garantías consagradas en la Constitución. Algunas de las
+circunstancias posteriores a la sentencia aquí analizada, como el dictado de nuevas ordenanzas municipales (vgr.
+ordenanzas 540/17 y 560/17), la intervención del Juzgado de Faltas local y el reconocimiento de la competencia
+municipal en la materia, bajo ciertas condiciones, por parte de normas nacionales, son evidencia clara de ello
+(cfr. artículos 10 y 17 del decreto 798/2016).
+En ese orden, los recurrentes han presentado propuestas de ubicación de las antenas y solicitado la
+aplicación del “Acuerdo de colaboración entre la Federación Argentina de Municipios (FAM) y los operadores
+de servicios de comunicaciones móviles”, firmado el 3 de noviembre de 2008 bajo el auspicio del Estado
+Nacional en cuyo nombre firmó el Secretario de Comunicaciones de la Nación. La importancia de ese acuerdo
+ha sido resaltada ante esta Corte, incluso afirmando que su cumplimiento efectivo es exigible (fs. 1269 vta.). El
+acuerdo originó a su vez el “Código de buenas prácticas para el Despliegue de Redes de Comunicaciones
+Móviles” —que los recurrentes acompañaron en estos autos—, en el cual se aconseja a las empresas prestadoras
+convenir en conjunto con los municipios los emplazamientos adecuados para la instalación de comunicaciones
+móviles. Asimismo, el texto insiste en diversos criterios para la elección del lugar de las antenas, sin limitarlos a
+los meramente “técnicos” que la empresa ha invocado al demandar la inconstitucionalidad de la ordenanza (fs.
+273).
+Desde esa óptica, la decisión de la Cámara, en cuanto encomendó a las partes que coordinen acciones a fin
+de que el cumplimiento de la Ordenanza respete la prestación eficiente del servicio, no luce arbitraria ni resulta
+incongruente con la declaración de validez de la norma municipal en cuestión y, asimismo, es consistente con el
+principio constitucional de desarrollo humano sustentable.
+Lo dicho, aun cuando supone confirmar la validez de la Ordenanza en este momento y bajo las
+circunstancias descriptas, no implica conceder a la Municipalidad de General Güemes, ni a otros municipios que
+se encuentren en idéntica situación, una autorización genérica o sine die para el ejercicio irrazonable o abusivo
+de sus competencias constitucionales primarias.
+Por ello, oída la señora Procuradora Fiscal, se resuelve: I. Declarar admisible la queja, formalmente
+procedente el recurso extraordinario y confirmar, por los motivos expuestos, la sentencia cuestionada. II.
+Exhortar a las partes para que actúen en lo sucesivo de conformidad con los términos del considerando 25
+precedente. III. Costas por su orden por no mediar contestación de traslado del recurso extraordinario.
+Reintégrese el depósito. Notifíquese, agréguese la queja al expediente principal y, oportunamente, devuélvase.
+— Juan C. Maqueda. — Horacio Rosatti.
+
+© Thomson Reuters Información Legal
+
+29
+
+

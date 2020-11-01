@@ -1,0 +1,143 @@
+Documento
+
+Voces:
+CABLE ELECTRICO ~ EMPRESA TELEFONICA ~ FUERO FEDERAL ~ SERVICIO DE TELEFONIA ~
+SERVICIO PUBLICO
+Tribunal: Corte Suprema de Justicia de la Nación(CS)
+Fecha: 10/09/2019
+Partes: Telefónica de Argentina SA c. EDELAP SA s/ medida autosatisfactiva
+Publicado en: LA LEY 28/11/2019 , 11, P.m.-S; LA LEY 28/11/2019 , 11, P.m.-S;
+Cita Online: AR/JUR/27541/2019
+Sumarios:
+1 . Si la empresa responsable de la prestación del servicio telefónico en el territorio de La Plata demandó a la
+responsable de la distribución de energía eléctrica en esa jurisdicción para que remueva y readecúe el cableado
+eléctrico que generaría riesgo de electrocución para los usuarios o para los operarios, porque no estaría
+respetando las distancias reglamentarias, la competencia para entender en la acción corresponde a la justicia
+federal, pues se advierte acerca de la existencia de un daño concreto de tramos de la red de propiedad de la
+actora y se encuentra en juego la prestación misma del servicio de telefonía (del dictamen de la procuradora
+fiscal que la Corte hace suyo).
+Texto Completo:
+FLP 77181/2017/CSI-CA1. (RECURSO EXTRAORDINARIO)
+Suprema Corte:
+—I—
+A fs. 38/39, la Cámara Federal de Apelaciones de La Plata (sala I) confirmó la decisión del juez de primera
+instancia que había rechazado la competencia de la justicia federal para entender en la presente causa, iniciada
+por Telefónica de Argentina SA contra Edelap SA con el objeto de solicitar el dictado de una medida
+autosatisfactiva a fin de que se proceda a la readecuación de cableado eléctrico apoyado sobre ramales de cables
+telefónicos y postes de apoyo de propiedad de la actora, lo cual —según se afirma en la demanda— generaría un
+riesgo eléctrico que pone en peligro a vecinos, transeúntes y operarios que trabajan en la zona.
+Para así resolver, el a quo rechazó la competencia federal en razón de la materia, al descartar la existencia de
+interjurisdiccionalidad tanto respecto de las características del servicio público en juego como del tipo de
+afectación que recae sobre él. Afirmó en tal sentido que en el caso no se encontraba comprometida ni la
+estructura ni las instalaciones del servicio público de telecomunicaciones regido por las leyes 19.798 y 27.018.
+A su entender, “quien deberá remover y readecuar el tendido de calles será, en todo caso, la empresa prestataria
+del servicio público de electricidad, quien material y territorialmente e encuentra bajo la órbita de la jurisdicción
+local”.
+En tal sentido, recordó que en el año 2011 el Estado Nacional había transferido a la Provincia de Buenos
+Aires la jurisdicción sobre el servicio de distribución de energía eléctrica prestado por la demandada Edelap SA,
+servicio circunscripto únicamente al ámbito de dicha provincia. En razón de ello es que concluyó que “no se
+advierte que la pretensión de autos pueda afectar cierta y concretamente un servicio público interjurisdiccional o
+que exista un interés federal cuestionado”.
+— II —
+Contra esa decisión, la actora dedujo el recurso extraordinario de fs. 40/57 vta., que fue concedido a fs. 59,
+dada la denegación del fuero federal planteada, en cuanto supuesto de sentencia equiparable a definitiva.
+La presentación recursiva se basa fundamentalmente en lo dispuesto por las leyes que regulan los servicios
+de telecomunicaciones en punto a la sujeción de dichas actividades al ámbito de la jurisdicción federal (arts. 3°,
+4° y 18, entre otros de la ley 19.798 y art. 4° de la ley 27.078).
+Al respecto, se agravia porque la sentencia apelada concluyó —a su entender erróneamente— que la citada
+normativa se limita a regular las “instalaciones” que hacen a la prestación del servicio, cuando, en rigor, al hacer
+mención de las “actividades reguladas” (v.g. art. 4° de la ley 27.078), las leyes en cuestión “se refieren
+concretamente a las comunicaciones y a las telecomunicaciones con un enfoque global, lo que la propia ley
+busca garantizar”.
+Cuestiona asimismo que el fallo en crisis haya descartado que se encuentre comprometida la estructura e
+instalaciones del servicio público de telecomunicaciones por ser la empresa prestadora del servicio público de
+© Thomson Reuters Información Legal
+
+1
+
+Documento
+
+electricidad quien eventualmente estaría a cargo de remover y readecuar el tendido de cables. Considera en tal
+sentido que la Cámara ha incurrido en un error de apreciación respecto de las tareas que debería realizar la
+demandada, al desconocer que a partir del entrecruzamiento de los ramales de las dos empresas fruto de la mala
+instalación de esta última, “inevitablemente la prestación del servicio público de telefonía deberá verse
+interrumpida durante el tiempo que las labores se lleven a cabo, además de que [éstas] indefectiblemente
+deberán realizarse sobre las instalaciones que hacen a la prestación de este servicio público”.
+Al continuación, la recurrente advierte que el conjunto de ramales y postes afectados por la instalación
+defectuosa de la demandada no son instalaciones aisladas, sino que forman parte de su “estructura global”,
+“diseñada estratégicamente y con activo control del Estado a fines de garantizar una prestación acorde a las
+exigencias de los clientes de todo el país, conforme lo dispuesto por el art. 27 de la ley 19.798.”
+Por último, afirma que la correcta decisión de la cuestión planteada exige precisar el sentido y alcance de las
+referidas normas federales sobre las que funda su posición, así como discernir la posible compatibilidad entre
+ese marco normativo y las normas provinciales que regulan la prestación del suministro eléctrico en la ciudad de
+La Plata, cometidos que —a su entender— exceden los encomendados a los tribunales locales.
+— III —
+En primer lugar, cabe recordar que V.E. ha sostenido que los pronunciamientos sobre cuestiones de
+competencia no autorizan la apertura de la instancia extraordinaria del art. 14 de la ley 48, pues dichas
+decisiones no constituyen sentencia definitiva, salvo que medien determinadas circunstancias excepcionales que
+permitan equipararlas a tales, entre ellas, cuando existe denegación del fuero federal (Fallos: 326:4352;
+327:4650), tal como ocurre en el sub lite.
+— IV —
+Ello sentado, corresponde señalar ante todo que, a los fines de dilucidar cuestiones de competencia ha de
+estarse, en primer término, a los hechos que se relatan en el escrito de demanda y después, y sólo en la medida
+en que se adecue a ellas, al derecho que se invoca como fundamento de la pretensión, así como a la naturaleza
+jurídica de la relación existente entre las partes (Fallos: 328:73; 329:5514).
+De tal exposición en el caso se desprende que la empresa Telefónica de Argentina SA —en su carácter de
+poseedora, propietaria de acometidas y responsable de la correcta prestación del servicio público telefónico en
+el territorio del partido de La Plata— inició la presente medida autosatisfactiva contra Edelap SA, en cuanto
+responsable de la distribución de energía eléctrica en esa misma jurisdicción, “a fin de que proceda a la
+remoción y readecuación del cableado eléctrico que genera un inminente riesgo de electrocución para los
+usuarios de nuestro servicio u operarios que realizan trabajos sobre el ramal instalado sobre postes de líneas
+telefónicas preexistentes”. Afirmó en tal sentido que dicho cableado eléctrico “ha sido instalado sin respetarse
+las distancias reglamentarias respecto del tendido telefónico preexistente en la calle 516 bis entre calles 161 y
+167 de Melchor Romero, partido de La Plata” (fs. 12 vta.). Según explica, ello provocó que se haya quemado
+todo el ramal de propiedad de la actora a lo largo de esa intersección de calles, “lo que ha generado la necesidad
+de iniciar de manera urgente obras de instalación de nuevos cables de telefonía bajo tierra, dado que resulta
+imposible instalarlos de la forma convencional” (fs. 17).
+Al respecto advirtió que se han registrado varios reclamos de los usuarios que denunciaron descargas
+eléctricas en los domicilios ubicados en la zona especificada, varios de los cuales actualmente tienen el servicio
+totalmente interrumpido por estas anomalías. Según manifestó, el excesivo riesgo eléctrico que dio lugar a la
+presentación “imposibilita llevar a cabo cualquier tipo de obra de saneamiento y reparación por parte del
+personal técnico” (fs. 15).
+Al fundar la competencia de la justicia federal, la actora afirmó que la mencionada interferencia del
+cableado eléctrico colocado sobre el tendido del servicio telefónico afecta la normal prestación de este último,
+además de generar una situación de potencial daño a las personas, en apoyo de lo cual citó lo dispuesto en el art.
+26 de la citada ley 19.798. Continuó afirmando que dicha ley conforma, junto con la ley 27.078, diversos
+decretos del Poder Ejecutivo Nacional, resoluciones de la Secretaría Nacional de Telecomunicaciones y de la
+Comisión Nacional de Telecomunicaciones o Enacom, el entramado normativo que regula lo relativo al servicio
+público telefónico, de naturaleza estrictamente federal, en tanto regula una materia que la propia Constitución
+Nacional ha reservado por su carácter interprovincial a la autoridad nacional (arts. 75, inc. 13 y 14); tales
+normas —concluye— son las que establecen la jurisdicción federal en la materia, en particular, los arts. 3° y 4°
+de la ley 19.798 y 4° de la ley 27.078.
+Habida cuenta, pues, de los términos de la demanda, en la que se advierte acerca de la existencia de un daño
+© Thomson Reuters Información Legal
+
+2
+
+Documento
+
+concreto en los tramos identificados dentro de la red de propiedad de la actora (y. fs. 12 vta., 15/15 vta., 17),
+entiendo que lo que se encuentra en juego en el caso es la prestación misma del servicio de telefonía, asunto que
+da lugar a la intervención de la justicia federal (conf. leyes 19.798 y 27.078; Fallos: 328:863).
+—V—
+En función de lo hasta aquí expuesto, considero que corresponde declarar procedente el recurso
+extraordinario y revocar a sentencia apelada y disponer que esta causa continúe su trámite ante la justicia
+federal, por intermedio del Juzgado Nacional en lo Civil, Comercial y Contencioso Administrativo Federal N° 4
+de La Plata que intervino en autos. Buenos Aires, 3 de agosto de 2018. — Laura M. Monti.
+FLP 77181/2017/CS1-CA1
+Buenos Aires, septiembre 10 de 2019.
+Considerando:
+Que esta Corte comparte y hace suyos los fundamentos y conclusiones del dictamen de la señora
+Procuradora Fiscal a los que cabe remitir por razones de brevedad.
+Por ello, de conformidad con lo dictaminado, se hace lugar al recurso extraordinario, se revoca la sentencia
+apelada y se declara que resulta competente para conocer en las actuaciones la justicia federal, por intermedio
+del Juzgado en lo Civil, Comercial y Contencioso Administrativo Federal N° 4 de La Plata que intervino en
+autos. Notifíquese y, oportunamente, devuélvase el expediente al tribunal de procedencia. — Carlos F.
+Rosenkrantz. — Ricardo L. Lorenzetti. — Elena I. Highton de Nolasco. — Juan C. Maqueda. — Horacio
+Rosatti.
+
+© Thomson Reuters Información Legal
+
+3
+
+

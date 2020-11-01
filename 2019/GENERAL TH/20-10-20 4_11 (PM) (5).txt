@@ -1,0 +1,617 @@
+Documento
+
+Voces:
+CONSOLIDACION DE DEUDA ~ DESERCION DEL RECURSO ~ ESTADO NACIONAL ~ EXEQUATUR
+~ FUNDAMENTO DEL RECURSO ~ LAUDO ARBITRAL ~ LEY DE CONSOLIDACION DE DEUDA
+INTERNA ~ RECURSO ORDINARIO DE APELACION ANTE LA CORTE SUPREMA ~ SENTENCIA
+EXTRANJERA
+Tribunal: Corte Suprema de Justicia de la Nación(CS)
+Fecha: 24/09/2019
+Partes: Deutsche Rückversicherung AG c. Caja Nacional de Ahorro y Seguro en liquidac. y otros s/ proceso de
+ejecución
+Publicado en: LA LEY 09/12/2019 , 5, con nota de Hernán M. Oriolo; LA LEY 2019-F , 367, con nota de
+Hernán M. Oriolo; RDCO 300 , 173, con nota de Hernán M. Oriolo; SJA 12/02/2020, 12/02/2020, 71 Cita Online: AR/JUR/28966/2019
+Sumarios:
+1 . Los planteos del Estado Nacional, en oposición al reconocimiento de un laudo arbitral, relativos al
+desconocimiento del derecho argentino en materia de poderes de representación y del plazo de prescripción
+aplicable a los contratos celebrados entre las partes, deben ser desestimados, pues no fueron propuestos a
+decisión de la Cámara, siendo insuficiente la genérica afirmación de “reiterar todas las defensas que fueron
+esgrimidas en la contestación de demanda”.
+2 . El recurso ordinario interpuesto por el Estado Nacional contra la sentencia que admitió el reconocimiento y
+ejecución de un laudo arbitral, de acuerdo con el régimen de consolidación de deuda, debe ser declarado
+desierto, pues no formuló una crítica concreta y razonada de los fundamentos de la decisión.
+3 . El recurso ordinario interpuesto por el Estado Nacional contra la sentencia que admitió el reconocimiento y
+ejecución de un laudo arbitral de acuerdo con el régimen de consolidación de deuda debe ser rechazado, pues el
+Estado Nacional, primero, alegó que la decisión extranjera violaba el orden público argentino, pues omitía
+considerar las normas de emergencia que regulan el pago de las deudas estatales, argumento que hizo que la
+Cámara sujete la ejecución a lo previsto en esa normativa, para luego oponerse esta última decisión. (Del voto
+del Dr. Rosenkrantz).
+4 . El art. 517, inc. 5 del Cód. Proc. Civ. y Com., que establece que es requisito para la ejecución de una
+sentencia extranjera que esta no sea incompatible con otra pronunciada, con anterioridad o simultáneamente, por
+un tribunal argentino, se refiere a decisiones judiciales de tribunales locales referidas a la controversia resuelta
+por el tribunal extranjero y no con precedentes jurisprudenciales nacionales dictados en otros casos. (Del voto
+del Dr. Rosenkrantz).
+5 . El examen de compatibilidad del exequátur no puede llegar al extremo de reeditar las cuestiones que ya
+fueron sometidas a decisión arbitral, así como tampoco es lógico equiparar ese control al que se lleva a cabo en
+la etapa de revisión judicial del laudo, pues la comprobación de los recaudos exigidos por la ley 23.619 para la
+ejecución de aquel no autoriza a revisar o alterar las decisiones de fondo adoptadas en el pronunciamiento,
+debiendo circunscribirse el tribunal a la verificación de la concurrencia de los requisitos, máxime si no se
+demuestra una violación al debido proceso. (Del voto del Dr. Rosatti).
+Texto Completo:
+Buenos Aires, 24 de septiembre de 2019.
+Considerando:
+1°) Que Deutsche Rückversicherung AG inició las presentes actuaciones a fin de obtener el reconocimiento
+y ejecución del laudo arbitral emitido el 26 de abril de 2006 en la Ciudad de Nueva York, Estados Unidos de
+América y de su fallo confirmatorio del 1° de agosto de 2007 —dictado por un Tribunal de Distrito de esa
+ciudad—, ampliado el 16 de noviembre, por los cuales se había condenado a la Caja Nacional de Ahorro y
+Seguro —en liquidación—, y/o el Instituto Nacional de Reaseguros y/o el Estado Nacional a pagarle la suma de
+U$S 7.390.044 con más U$S 8.642.622,50 en concepto de intereses a la tasa del 6% anual hasta el 31 de julio de
+2007. Asimismo, requirió el cálculo de los intereses devengados sobre la sumatoria de ambos montos, a partir
+de dicha fecha y hasta el efectivo pago, de conformidad con lo resuelto en el laudo.
+2°) Que la Sala III de la Cámara Nacional de Apelaciones en lo Civil y Comercial Federal, al revocar el fallo
+de primera instancia, admitió el reconocimiento y la ejecución del laudo arbitral y de la sentencia extranjera, de
+acuerdo con el régimen de consolidación de deudas aplicable al caso (leyes 23.982 y 25.565), por el monto que
+surgiera de la liquidación, que se debía practicar y aprobar en la anterior instancia (fs. 493/505).
+3°) Que contra tal pronunciamiento el Estado Nacional dedujo recurso ordinario de apelación (fs. 507/509
+© Thomson Reuters Información Legal
+
+1
+
+Documento
+
+vta.), que fue concedido a fs. 512/512 vta. El memorial de agravios obra a fs. 557/569 vta. y su contestación por
+la parte actora a fs. 572/592.
+Asimismo, dedujo el recurso extraordinario federal que fue declarado inadmisible por la Cámara, debido a la
+concesión del recurso ordinario deducido por la misma recurrente (fs. 551).
+4°) Que al expedirse en la causa “Anadon, Tomás Salvador” (Fallos: 338:724), esta Corte declaró la
+inconstitucionalidad del artículo 24, inciso 6°, apartado a, del decreto-ley 1285/1958, que instituyó la “apelación
+ordinaria de las sentencias definitivas de las cámaras nacionales de apelaciones” para dos supuestos allí
+individualizados. En su pronunciamiento, el Tribunal aclaró que las causas en las que hubiera sido notificada la
+sentencia de cámara con anterioridad a que aquel quedase firme continuarían con su tramitación con arreglo a la
+norma declarada inconstitucional. Dado que esta última situación es la que se presenta en el sub lite,
+corresponde examinar las condiciones de admisibilidad de la apelación interpuesta a la luz de la referida
+normativa y de conformidad con los criterios interpretativos que fueron elaborados por esta Corte a su respecto.
+5°) Que el recurso interpuesto es formalmente admisible, pues se dirige contra una sentencia definitiva,
+dictada en una causa en la que la Nación es parte, y el valor disputado en último término, supera el monto
+mínimo previsto por el artículo 24, inciso 6°, apartado a, del decreto-ley 1285/1958, modificado por la ley
+21.708, y adecuado por la acordada 28/2014, vigente al momento de la notificación de la sentencia de cámara.
+Al presentar el memorial previsto en el segundo párrafo del artículo 280 del Cód. Proc. Civ. y Com. de la
+Nación el recurrente manifiesta:
+a) Que el laudo y la sentencia confirmatoria carecen de fuerza ejecutoria y no cumplen con lo dispuesto en
+los incisos 4° y 5° del artículo 517 del Cód. Proc. Civ. y Com. de la Nación, porque afectan el orden público
+interno y resultan incompatibles con pronunciamientos dictados por tribunales argentinos. En tal sentido, el
+Estado Nacional sostiene que no se ha respetado la legislación nacional en materia de poderes de representación,
+ya que el laudo arbitral reconoció efecto interruptivo de la prescripción a una carta suscripta por quien no era
+apoderado de la parte actora; que el laudo aplicó el plazo quinquenal de prescripción previsto en el Cód. Civil
+de Holanda, en contradicción con el plazo de un año previsto en el artículo 58 de la ley 17.418 y de la doctrina
+de fallos dictados por distintos tribunales de nuestro país que reconocen su aplicación a los contratos de
+reaseguro y retrocesión; y que el laudo viola el carácter meramente declarativo de las sentencias dictadas contra
+la Nación y las condiciones de pago establecidas en el régimen de consolidación (artículos 1°, 3° y 6° de la ley
+23.982, artículo 17 de la ley 24.624 y artículos 61 y 62 de la ley 25.565).
+b) Que la aplicación al caso de la ley 23.982 implica una modificación sustancial del laudo y de la sentencia
+extranjera que no es jurídicamente viable, puesto que el exequátur debe limitarse a reconocerlos y a disponer o
+no su ejecución.
+6°) Que los agravios atinentes al desconocimiento del derecho argentino en materia de poderes de
+representación y del plazo de prescripción aplicable a los contratos celebrados entre las partes, no fueron
+propuestos a decisión de la cámara toda vez que a tal fin resulta palmariamente insuficiente la genérica
+afirmación —inserta al final del escrito de contestación del Estado Nacional a la expresión de agravios de su
+contraria— según la cual no obstante lo manifestado respecto a la violación del régimen de consolidación,
+“reiteramos todas las defensas que fueron esgrimidas en la contestación de demanda (...). A ella nos remitimos a
+fin de no efectuar idénticas manifestaciones en orden a la economía procesal” (fs. 470). Ello es así, con mayor
+razón, si se tiene en cuenta que dichas defensas habían sido desestimadas de manera expresa y fundada en la
+sentencia de primera instancia (conf. considerando IV; fs. 444/444 vta.).
+7°) Que la recurrente no formula, como es imprescindible, una crítica concreta y razonada de los
+fundamentos desarrollados por el a quo en punto a la aplicación en el caso del régimen de consolidación,
+circunstancia que conduce a declarar la deserción del recurso, desde que las razones expuestas en el memorial
+respectivo deben ser suficientes para refutar los argumentos de hecho y de derecho dados en la sentencia para
+llegar a la decisión impugnada (conf. artículo 280, párrafo segundo, del Cód. Proc. Civ. y Com. de la Nación y
+doctrina de Fallos: 310:2914; 312:1819; 315:689; 316:157; 322:2683; 329:3542 y 330:1336, entre muchos
+otros).
+8°) Que tales defectos de fundamentación se advierten en tanto los argumentos recursivos solo constituyen
+simples discrepancias con el criterio del a quo, pero distan de contener una crítica puntual de los fundamentos
+que informan la sentencia. En este sentido, cabe señalar que el recurrente se agravia al sostener que si bien la
+aplicación del régimen de consolidación a todo laudo arbitral —nacional o extranjero—, es ineludible por su
+carácter de orden público, la decisión del juez del exequátur no puede introducir una modificación sustancial del
+© Thomson Reuters Información Legal
+
+2
+
+Documento
+
+laudo y de la sentencia extranjera, sino que únicamente debe limitarse a reconocerlos y a disponer o no su
+ejecución. Tales alegaciones no controvierten el fundamento central de la sentencia de cámara consistente en
+que el artículo III de la Convención sobre Reconocimiento y Ejecución de las Sentencias Arbitrales Extranjeras,
+aprobada por la ley 23.619, dispone que los Estados contratantes no impondrán condiciones apreciablemente
+más rigurosas que las aplicables al reconocimiento o a la ejecución de las sentencias arbitrales nacionales; y
+que, en consecuencia, de la misma manera que si una sentencia nacional es dictada en violación a las normas de
+consolidación de deudas la solución no es la nulidad del pronunciamiento emitido en dichas condiciones, sino
+su adecuación a ese régimen legal, en el caso de un laudo arbitral extranjero, su ejecución debe ser realizada de
+acuerdo con las disposiciones de orden público que conforman el régimen de consolidación de deudas, sin que
+la omisión en la aplicación de ese régimen por parte del tribunal arbitral conduzca inexorablemente a impedir su
+reconocimiento y ejecución.
+9°) Que, asimismo, es inadmisible el agravio del recurrente según el cual no es posible aplicar en el caso el
+régimen de consolidación de deudas, puesto que —según señala— en el laudo no se ha individualizado la fecha
+desde la cual corresponde calcular intereses. El agravio no es atendible, toda vez que no ha demostrado que
+resulte imposible determinar las fechas de vencimiento de los montos adeudados (anteriores al 1° de abril de
+1991), que el tribunal arbitral adoptó como dies a quo del cómputo de los intereses, de acuerdo a las constancias
+obrantes en autos.
+Por todo lo expuesto, se rechaza el recurso ordinario de apelación interpuesto por el Estado Nacional. Con
+costas. Notifíquese y, oportunamente, devuélvase. — Carlos F. Rosenkrantz (por su voto). — Ricardo L.
+Lorenzetti. — Elena I. Highton de Nolasco. — Juan C. Maqueda. — Horacio Rosatti (por su voto).
+Voto del doctor Rosenkrantz
+Considerando que:
+1°) La firma Deutsche Rückversicherung AG promovió las presentes actuaciones a fin de obtener el
+reconocimiento y la ejecución del laudo arbitral emitido el 26 de abril de 2006 en la ciudad de Nueva York y de
+su fallo confirmatorio del 1° de agosto de 2007 dictado por la Corte de Distrito de los Estados Unidos para el
+Distrito Sur de dicha ciudad —ampliado el 16 de noviembre—, por los cuales se condenó a la Caja Nacional de
+Ahorro y Seguro, en liquidación y/o al Instituto Nacional de Reaseguros y/o al Estado Nacional —en adelante el
+“Estado Nacional”— a pagarle la suma de U$S 7.390.044 más U$S 8.642.622,50 en concepto de intereses
+calculados a la tasa del 6% anual hasta el 31 de julio de 2007. Asimismo, requirió los intereses devengados
+sobre la sumatoria de ambos montos, hasta el efectivo pago, de conformidad con lo resuelto en el laudo.
+2°) La Sala III de la Cámara Nacional de Apelaciones en lo Civil y Comercial Federal, al revocar el fallo de
+primera instancia, admitió el reconocimiento y la ejecución del laudo arbitral y de la sentencia extranjera, pero
+lo adecuó al régimen de consolidación de deudas aplicable al caso (leyes 23.982 y 25.565), y obligó a la
+demandada al pago del monto que surgiera de la liquidación que se debía practicar y aprobar en la instancia
+inferior (fs. 493/505).
+Para así decidir, el tribunal de alzada entendió que la omisión de aplicar las reglas sobre consolidación en
+que incurrieron el laudo y su fallo confirmatorio implicaba una afectación del orden público local pero que ello
+no impedía el reconocimiento parcial del laudo arbitral y la sentencia extranjera. Fundó esta decisión en lo
+previsto en los artículos III y V, incisos 1, apartado c, y 2, apartado b, de la Convención sobre el
+Reconocimiento y Ejecución de las Sentencias Arbitrales Extranjeras celebrada en la ciudad de Nueva York,
+aprobada mediante ley 23.619 y ratificada el 14 de marzo de 1989 —en adelante la “Convención de Nueva
+York”—, y en los artículos 517, inciso 4 y 518 in fine del Cód. Proc. Civ. y Com. de la Nación.
+3°) El Estado Nacional cuestionó el pronunciamiento mediante recurso ordinario de apelación (fs. 507/509
+vta.), que fue concedido a fs. 512/512 vta. A fs. 557/569 vta. el Estado Nacional expresó agravios, que fueron
+contestados por la parte actora a fs. 572/592.
+Asimismo, la demandada interpuso el recurso extraordinario federal que fue declarado inadmisible por la
+cámara debido a la concesión del recurso ordinario deducido por la misma recurrente (fs. 551).
+4°) El recurso interpuesto por la representación estatal es formalmente admisible pues se dirige contra una
+sentencia definitiva, dictada en una causa en la que la Nación es parte y el valor disputado en último término
+supera el monto mínimo previsto por el artículo 24, inciso 6°, apartado a, del decreto-ley 1285/1958, modificado
+por la ley 21.708, y adecuado por la acordada 28/2014. Cabe aclarar que no es aplicable al caso lo resuelto por
+la Corte en el expediente “Anadon, Tomás Salvador” (Fallos: 338:724), en el que se declaró la
+inconstitucionalidad de la citada previsión del decreto-ley 1285/1958, toda vez que la resolución apelada fue
+© Thomson Reuters Información Legal
+
+3
+
+Documento
+
+notificada a la recurrente el 9 de octubre de 2014 (ver nota de fs. 505 vta.).
+5°) Los agravios de la recurrente pueden sintetizarse de la siguiente forma:
+a) La sentencia de cámara afectó su derecho de defensa pues omitió expedirse respecto del desconocimiento
+del derecho argentino en materia de poderes de representación y del plazo de prescripción aplicable a los
+contratos celebrados entre las partes, cuestiones planteadas por la recurrente en primera instancia y mantenidas
+al contestar agravios ante la cámara.
+b) La sentencia de cámara, al aplicar las normas sobre consolidación, realizó una modificación sustancial del
+laudo que no resulta jurídicamente viable en función de lo previsto en los artículos 517 a 519 del Cód. Proc.
+Civ. y Com. de la Nación y III y V de la Convención de Nueva York.
+c) No es posible realizar la liquidación de las sumas debidas en los términos de las normas sobre
+consolidación aplicables. En este punto, la recurrente señala que deberían tenerse en cuenta diversas
+disposiciones sobre consolidación, como así también precedentes de esta Corte sobre la materia. Por tales
+motivos, sostiene que la decisión atacada implica una modificación sustancial del laudo, lo cual debería dar
+lugar al rechazo del pedido de reconocimiento y ejecución.
+6°) En lo que concierne al agravio vinculado con las defensas cuyo tratamiento omitió la cámara, cabe
+recordar que es jurisprudencia constante de esta Corte que las cuestiones planteadas en la instancia anterior por
+la parte que venció en el pleito y que por ende no pudo recurrir la sentencia deben ser resueltas por el tribunal
+superior en caso de que fueran mantenidas al contestar agravios (doctrina de Fallos: 247:111; 265:201; 276:261;
+311:696 y 332:1571).
+En dichos precedentes no se exigió forma sacramental alguna para abrir la jurisdicción del tribunal de alzada
+o de esta Corte respecto de planteos efectuados en primera instancia por quien luego resultó vencedor. A tales
+efectos, fue determinante el mantenimiento o reiteración al contestar agravios, carga que, tal como lo destaca el
+doctor Rosatti en su voto, el Estado Nacional cumplió en este caso (ver escrito de fs. 465/470, en especial punto
+11.2, fs. 466 y punto V, fs. 470).
+Por tales motivos, en este punto lleva razón la recurrente y corresponde admitir el cuestionamiento
+formulado por el Estado Nacional y expedirse sobre la procedencia de los planteos defensivos vinculados con
+los poderes de representación del apoderado de la actora y con el plazo de prescripción aplicable. Ello es así, en
+la medida en que el Estado Nacional mantuvo en forma expresa dichos planteos al contestar el traslado del
+recurso de apelación de su contraria y sin embargo no fueron tratados por la sentencia del superior tribunal de la
+causa (conf. artículo 277 del Cód. Proc. Civ. y Com. de la Nación).
+7°) Puntualmente, al contestar el pedido de reconocimiento y ejecución, y con sustento en el artículo 517,
+incisos 4 y 5, del Cód. Proc. Civ. y Com. de la Nación, el Estado Nacional había argumentado que el laudo
+arbitral: (i) no respetó la legislación nacional en materia de poderes de representación pues otorgó efecto
+interruptivo de la prescripción a una carta suscripta en el año 1992 por quien por ese entonces no era apoderado
+de la actora, documento que además carecía de constancia de recepción por parte de los organismos argentinos y
+había sido presentado ante el tribunal arbitral en forma extemporánea; y (ii) aplicó el plazo quinquenal de
+prescripción previsto en el Cód. Civil holandés, en contradicción con el plazo de un año del artículo 58 de la ley
+17.418, aplicable a contratos de reaseguro y retrocesión de acuerdo con la doctrina de fallos dictados por
+distintos tribunales de nuestro país.
+Tales planteos defensivos deben ser rechazados por tres motivos sustanciales: a) descansan en normas
+inaplicables al caso; b) no se configuran ninguna de las causales previstas en el artículo V de la Convención de
+Nueva York para la denegatoria del reconocimiento y ejecución de un laudo arbitral extranjero y,
+adicionalmente, c) suponen reeditar cuestiones propuestas ante los tribunales extranjeros y resueltas en forma
+expresa tanto en el laudo como en la sentencia de revisión.
+8°) En cuanto al primer argumento, el artículo 517 del Cód. Proc. Civ. y Com. de la Nación solo aplica ante
+la ausencia de tratado celebrado con el país en el que se haya dictado el laudo arbitral o la sentencia extranjera,
+tal como surge del segundo párrafo de la norma procesal citada.
+Tal extremo no se verifica aquí dado que este caso se encuentra regido por la Convención de Nueva York.
+Ello es así por cuanto el laudo cuyo reconocimiento y ejecución se pretende en autos fue dictado en Nueva
+York; Estados Unidos adhirió a la Convención de Nueva York el 30 de septiembre de 1970 (información
+obtenida en el sitio de la Comisión de las Naciones Unidas para el Derecho Mercantil Internacional:
+https://goo.gl/7Qs5Ho, última visita 29 de marzo de 2019) y el laudo resuelve una disputa surgida de una
+© Thomson Reuters Información Legal
+
+4
+
+Documento
+
+relación jurídica contractual que tiene carácter comercial bajo el derecho argentino (artículo 2, ley 23.619). La
+aplicación en este caso de la Convención de Nueva York, por otro lado, es reconocida por la propia recurrente
+pues invoca sus previsiones como fundamento de su apelación.
+En ese contexto, resulta improcedente la invocación del supuesto del inciso 5 del artículo 517 del Cód. Proc.
+Civ. y Com. de la Nación, según el cual es requisito para la ejecución que una sentencia extranjera no sea
+incompatible con otra pronunciada, con anterioridad o simultáneamente, por un tribunal argentino. Es claro que
+la incompatibilidad a la que se refiere la norma citada tiene que ver con decisiones judiciales de tribunales de
+nuestro país referidas a la controversia resuelta por el tribunal extranjero y no, como lo pretende el Estado
+Nacional, con precedentes jurisprudenciales nacionales dictados en otros casos.
+9°) En cuanto al segundo argumento, no se configura ninguna de las causales previstas en el artículo V de la
+Convención de Nueva York y en particular, no se presenta una violación de normas de orden público de nuestro
+país.
+La Convención de Nueva York obliga a los estados parte a reconocer y ejecutar los laudos arbitrales regidos
+por ella autorizando al tribunal del lugar en el que se solicita el reconocimiento o la ejecución de un laudo
+arbitral solo a denegar su reconocimiento y ejecución cuando se halle presente alguna de las circunstancias
+previstas en su artículo V. En particular, de acuerdo con la Convención de Nueva York, los jueces nacionales
+pueden denegar dicho pedido si resulta contrario al orden público del país donde se solicita el reconocimiento y
+ejecución (artículo V, inciso 2.b). Similar previsión se encuentra contenida en el inciso 4 del artículo 517 del
+Cód. Proc. Civ. y Com. de la Nación, invocado por el Estado Nacional.
+Ahora bien, no se advierte de qué forma lo resuelto por el tribunal arbitral, que estimó aplicable al caso las
+reglas holandesas sobre prescripción y poderes de representación para interrumpir su curso, conlleva una
+afectación al orden público. El Estado Nacional tampoco ha dado argumentos a tales fines, siendo harto
+insuficiente la mención de las normas civiles argentinas que estima aplicables en materia de poderes de
+representación, recepción de documentos por oficinas estatales o plazo de prescripción para justificar la
+pretendida existencia de la afectación del orden público.
+En este sentido, en nuestro derecho la prescripción no es aplicable de oficio y el acreedor puede renunciar a
+la prescripción ganada (artículos 3964 y 3965 del Cód. Civil; artículos 2535 y 2552 del Cód. Civ. y Com. de la
+Nación), lo que constituye un síntoma contundente de que, en principio, la prescripción no es una cuestión en la
+que el orden público se encuentre comprometido.
+10) En cuanto al tercer motivo mencionado, como bien lo destaca el doctor Rosatti en su voto, tanto en el
+laudo arbitral como en la sentencia de la Corte de Distrito de la ciudad de Nueva York se examinó lo atinente a
+los poderes de representación y al plazo de prescripción aplicable. Concretamente, se resolvió que la carta de
+fecha 29 de julio de 1992 tenía eficacia interruptiva sobre la prescripción, había sido remitida por el apoderado
+de la actora y recibida por un funcionario de la Caja Nacional de Ahorro y Seguro. Tal decisión se fundó en el
+derecho civil holandés, cuya aplicación en lo referente a la prescripción había sido decidida en el laudo
+preliminar dictado el 24 de noviembre de 2004 a petición del propio Estado Nacional (conf. fs. 51/64 —laudo
+definitivo—, fs. 66/84 —disidencia parcial del árbitro propuesto por la Caja—, y fs. 125/140 —sentencia de la
+Corte de Distrito—, fs. 363/365, en especial 363 vta.).
+El Estado Nacional pretende que se vuelvan a juzgar cuestiones que ya fueron resueltas con carácter
+definitivo por los tribunales extranjeros sin fundamento suficiente, tal como se expresó en el punto anterior. En
+estas circunstancias, la aptitud de esta Corte para comprobar la concurrencia de las causales de la Convención
+de Nueva York que habilitan a denegar el reconocimiento y ejecución de un laudo arbitral dictado en el
+extranjero no autoriza a revisar los méritos de las decisiones adoptadas en dicho pronunciamiento. A similar
+conclusión llegó esta Corte al momento de verificar la concurrencia de los requisitos formales para solicitar el
+reconocimiento y ejecución de un laudo arbitral en la causa “Armada Holland BV Schiedam Denmark” (Fallos:
+334:552).
+11) En lo que se refiere al reconocimiento del laudo bajo las condiciones impuestas por las reglas sobre
+consolidación, la recurrente se agravia al sostener que, si bien la aplicación del régimen de consolidación a todo
+laudo arbitral —nacional o extranjero— es ineludible por su carácter de orden público, la decisión del juez del
+exequátur no puede introducir una modificación sustancial al laudo y la sentencia confirmatoria, como sostiene
+la recurrente que sucedió en este caso, sino que únicamente debe limitarse a reconocerlos y a disponer o no su
+ejecución.
+Las alegaciones de la recurrente no controvierten el fundamento central de la sentencia recurrida, sustentado
+© Thomson Reuters Información Legal
+
+5
+
+Documento
+
+en los artículos III y V de la Convención de Nueva York que, es bueno recordarlo, ha sido aprobada por la ley
+23.619 y ratificada el 14 de marzo de 1989. De acuerdo con la cámara si una sentencia nacional es dictada en
+violación a las normas de consolidación de deudas la solución no es decretar la nulidad de todo el
+pronunciamiento emitido, sino que es jurídicamente posible, en cambio, adecuarlo a ese régimen legal.
+Consecuentemente, tratándose en el caso de un laudo arbitral extranjero, y tal como sucedería con una sentencia
+nacional, su reconocimiento debe ser admitido con las adecuaciones necesarias en materia de intereses a los
+efectos de que se honren las disposiciones de orden público que integran el régimen de consolidación de deudas
+(fs. 497/505).
+Tampoco la recurrente ha logrado una demostración cabal del agravio que le ocasiona la decisión apelada en
+tanto que los tribunales de grado han hecho lugar a la aplicación de la normativa sobre consolidación invocada
+en su presentación inicial.
+12) Pero aun obviando las deficiencias técnicas que presenta su recurso, la postura del Estado Nacional
+resulta improcedente.
+Es necesario comenzar destacando ciertas particularidades procesales que son relevantes para la resolución
+de esta causa. Si bien en su escrito inicial la actora solicitó el reconocimiento y ejecución del laudo arbitral
+extranjero en los términos en los que fue dictado por el tribunal arbitral (fs. 186/189), con posterioridad pidió
+subsidiariamente el reconocimiento y la ejecución parcial del laudo conforme ello resultaría de aplicarse el
+régimen de consolidación de deudas del Estado Nacional. Fundó su pedido en el artículo V.1 c de la
+Convención de Nueva York y en ciertas disposiciones del Cód. Proc. Civ. y Com. de la Nación (fs. 447 vta. y
+461/463). La cámara rechazó la petición principal e hizo lugar al planteo subsidiario, lo cual no fue motivo de
+recurso por parte de la actora. En otras palabras, la actora ha consentido el carácter de orden público de la
+normativa de la consolidación en los términos de la Convención de Nueva York y ha manifestado su disposición
+a que la sentencia arbitral sea ejecutada de modo que no despierte ningún agravio al orden público local.
+Por lo anterior, esta Corte carece de jurisdicción para revisar
+normativa de consolidación pues la actora no se ha agraviado
+jurisdicción para reconocer y ordenar la ejecución del laudo y
+planteados originariamente por la actora —pago de la condena
+calculados a una tasa del 6%—.
+
+el atribuido carácter de orden público de la
+al respecto. Esta Corte también carece de
+su sentencia confirmatoria en los términos
+en dólares estadounidenses y con intereses
+
+13) Teniendo en cuenta las particularidades antes reseñadas, la cuestión a resolver es si procede el
+reconocimiento y ejecución del laudo arbitral extranjero de acuerdo con las leyes de consolidación de deudas
+—como sostiene la actora— o si solo es posible reconocer y ejecutar los laudos extranjeros sin modificar su
+sustancia —como sostiene el Estado Nacional—, lo que llevaría a denegar el pedido subsidiario efectuado por la
+actora.
+La respuesta a favor de la actora se impone por las razones que se expondrán a continuación.
+14) El artículo VII de la Convención de Nueva York determina que siempre debe estarse a favor de la
+ejecución de los laudos arbitrales extranjeros. Así, al disponer que “Las disposiciones de la presente convención
+no (...) privarán a ninguna de las partes interesadas de cualquier derecho que pudiera tener a hacer valer una
+sentencia arbitral en la forma y medida admitidas por la legislación o los tratados del país donde dicha sentencia
+se invoque” (la bastardilla me pertenece). Así, si hay una ley local más favorable al ejecutante y la parte quiere
+valerse de ella, la corte del lugar de reconocimiento y ejecución no tiene discreción para determinar si esa
+disposición más favorable debe aplicarse o no (Mistelis y Di Pietro, Concise International Arbitration, editado
+por Loukas A. Mistelis, Kluwer Law International 2010, p. 24).
+15) En este caso la actora, con sustento en los artículos 511 y 518 del Cód. Proc. Civ. y Com. de la Nación y
+habilitada a hacerlo por el artículo VII.1 de la Convención de Nueva York, solicitó que se ordenara la ejecución
+del laudo arbitral extranjero en la forma y medida admitida por la legislación argentina, esto es, adaptándolo a la
+normativa de orden público en materia de consolidación de deudas del Estado Nacional (fs. 461/463).
+De acuerdo con el artículo 518 del Cód. Proc. Civ. y Com. de la Nación si se dispusiere la ejecución de una
+sentencia extranjera “se procederá en la forma establecida para las sentencias pronunciadas por tribunales
+argentinos”. Ahora bien, tal como lo expuso la cámara, en el supuesto en que una sentencia nacional se hubiese
+dictado en violación de las normas que rigen la consolidación de deudas del Estado Nacional, la solución no
+sería la nulidad del pronunciamiento dictado en dichas condiciones, sino su adecuación a ese régimen legal, aun
+cuando la sentencia hubiera quedado firme (doctrina de Fallos: 327:5313; 331:2231 y 332:979).
+En este contexto, hacer lugar al pedido de ejecución de la actora no importa sostener que los tribunales
+© Thomson Reuters Información Legal
+
+6
+
+Documento
+
+nacionales han modificado la sustancia de dicho laudo, sino, por el contrario, que han reconocido el derecho de
+quien obtiene una sentencia arbitral de hacer valer las normas del lugar donde pretende hacerla cumplir (las que
+necesariamente van a estar de acuerdo con el orden público de dicho lugar de ejecución) que sean más
+favorables para su reconocimiento y ejecución.
+16) Los motivos expuestos anteriormente demuestran, por otro lado, que la interpretación que propone el
+Estado Nacional es improcedente por su inconsistencia con la Convención de Nueva York, que, es preciso
+recalcarlo nuevamente, ha sido aprobada mediante ley 23.619 y ratificada el 14 de marzo de 1989.
+En efecto, el Estado Nacional alegó primero que el laudo arbitral violaba el orden público argentino pues
+omitía considerar las normas de emergencia que regulan el pago de las deudas estatales. Este argumento fue
+aceptado por la cámara, cuya sentencia firme en este aspecto consideró que la consolidación integraba el orden
+público argentino, por lo que sujetó la ejecución de la sentencia arbitral a lo previsto en dicha normativa.
+Consecuentemente, habiéndose aceptado la aplicación al caso de la normativa de consolidación invocada por el
+Estado Nacional, resulta improcedente que este se oponga a la ejecución del laudo arbitral adaptado a dicha
+normativa. Ello, pues se trata de un derecho libremente disponible del acreedor del laudo arbitral que el Estado
+Nacional no puede desconocer.
+17) Finalmente, resultan inconducentes en esta etapa del pleito las alegaciones sobre la forma en que deberá
+ajustarse el monto de condena pues se trata de cuestiones sobre las que no se pronunció la cámara (artículo 277
+del Cód. Proc. Civ. y Com. de la Nación) y que pueden ser resueltas en el trámite de liquidación. Ello descarta
+la existencia de gravamen actual del Estado Nacional sobre esta cuestión.
+Por ello, se confirma la sentencia apelada con el alcance indicado, con costas (artículo 68 del Cód. Proc.
+Civ. y Com. de la Nación). Notifíquese y, oportunamente, devuélvase. — Carlos F. Rosenkrantz.
+Voto del doctor Rosatti
+Considerando:
+1°) Que Deutsche Rückversicherung AG (en adelante, D.R.) inició las presentes actuaciones a fin de obtener
+el reconocimiento y ejecución del laudo arbitral emitido el 26 de abril de 2006 en la Ciudad de Nueva York,
+Estados Unidos de América y de su fallo confirmatorio, dictado por el Tribunal del Distrito Sur de esa ciudad el
+1° de agosto de 2007 y ampliado el 16 de noviembre, por los cuales se condenó a la Caja Nacional de Ahorro y
+Seguros (La Caja) —en liquidación—, al Instituto Nacional de Reaseguros y al Estado Nacional a pagarle la
+suma de U$S 7.390.044 más U$S 8.642.622,50 en concepto de intereses a la tasa del 6% anual hasta el 31 de
+julio de 2007. Asimismo, solicitó el cálculo de los intereses devengados sobre la sumatoria de ambos montos, a
+partir de esa fecha y hasta el efectivo pago, de conformidad con lo resuelto en el laudo.
+2°) Que el Juzgado Nacional de Primera Instancia en lo Civil y Comercial Federal N° 2 tuvo por acreditados
+los recaudos de admisibilidad formal del exequátur y denegó la ejecución formulada por afectar el orden público
+del derecho argentino, en la medida que dispuso el pago en efectivo y aplicó una tasa de interés diferente a la
+prevista en la consolidación de deudas estatales (artículos 519 bis y 517, inciso 4° del Cód. Proc. Civ. y Com. de
+la Nación; artículo 17 de la ley 24.624; y leyes 23.982 y 25.565). En sus fundamentos, el juez de primera
+instancia también rechazó las defensas esgrimidas por el Estado Nacional referidas al fondo de la controversia
+resuelta por el tribunal arbitral (fs. 443/445).
+3°) Que la Sala III de la Cámara Nacional de Apelaciones en lo Civil y Comercial Federal, revocó esa
+sentencia, reconoció el laudo arbitral y admitió su ejecución de acuerdo con el régimen de consolidación de
+deudas aplicable al caso, difiriendo la liquidación del monto a la decisión del juez de primera instancia (fs.
+493/505).
+4°) Que contra tal pronunciamiento el Estado Nacional dedujo recurso ordinario de apelación (fs. 507/509
+vta.), el cual fue concedido a fs. 512/512 vta. A fs. 557/569 vta. obra el memorial de sus agravios, y a fs.
+572/592 la contestación del traslado de la parte actora. Asimismo, la demandada también dedujo recurso
+extraordinario federal, que fue declarado inadmisible por la Cámara, debido a la concesión del recurso ordinario
+(fs. 551).
+5°) Que no resulta aplicable al caso la declaración de inconstitucionalidad del artículo 24, inciso 6°, apartado
+a, del decreto-ley 1285/1958, resuelta por esta Corte en la causa “Anadon, Tomás Salvador” (Fallos: 338:724),
+toda vez que la sentencia de la cámara de apelaciones fue notificada con anterioridad a ese pronunciamiento (fs.
+505 vta. y considerando 3° de dicha sentencia).
+6°) Que el recurso interpuesto es formalmente admisible, pues se dirige contra una sentencia definitiva,
+© Thomson Reuters Información Legal
+
+7
+
+Documento
+
+dictada en una causa en la que la Nación es parte, y el valor disputado en último término, supera el monto
+mínimo previsto por el artículo 24, inciso 6°, apartado a, del decreto-ley 1285/1958, modificado por la ley
+21.708, y adecuado por la acordada 28/2014, vigente al momento de la notificación de la sentencia de Cámara.
+7°) Que al presentar el memorial previsto en el segundo párrafo del artículo 280 del Cód. Proc. Civ. y Com.
+de la Nación el recurrente expone los siguientes agravios contra el pronunciamiento apelado:
+a) En el caso, la ejecución del laudo arbitral afecta el orden público del derecho argentino, ya que ordena el
+pago de importes en efectivo y a una tasa de interés distinta a la que prevé el régimen de consolidación de
+deudas estatales.
+b) El trámite del exequátur no permite la modificación, adecuación o ejecución parcial de un laudo
+extranjero. Invoca, en ese sentido, los artículos 517 a 519 del Cód. Proc. Civ. y Com. de la Nación, los artículos
+III y V de la Convención de Nueva York sobre el Reconocimiento y la Ejecución de Sentencias Arbitrales
+Extranjeras de 1958, aprobada por la ley 23.619, así como también doctrina nacional y extranjera que considera
+aplicable al caso.
+c) La consolidación es una medida adoptada en el marco de la emergencia económica que no se limita a
+disponer un cálculo de intereses específico, sino que también alcanza al capital de la condena en distintos
+aspectos. Entre ellos, en lo relativo a la expresión del importe de condena a una fecha de corte determinada, lo
+cual impediría la aplicación de este mecanismo a las sumas reconocidas en el laudo arbitral y sus sentencias
+confirmatorias. En esa línea, entiende que la consolidación del crédito implicaría una modificación sustancial
+del laudo y, por ende, es imposible una ejecución acorde al derecho argentino.
+d) La sentencia de Cámara ha incurrido en una lesión al derecho de defensa, ya que al revocar la decisión de
+primera instancia debió abordar los planteos de fondo que el Estado Nacional esgrimió contra el laudo arbitral al
+contestar la demanda. A saber: i) que el tribunal arbitral tuvo por configurada una causal de interrupción de la
+prescripción de la deuda reclamada, en base a una carta presentada por el señor Lazzati a nombre de la actora,
+pese a que: 1) este carecía de poderes suficientes para cursar la misiva de acuerdo a la legislación argentina, 2)
+el documento fue presentado como prueba de forma extemporánea en el proceso arbitral, y 3) no contiene un
+sello o constancia de presentación ante La Caja, el INDER o alguna otra repartición estatal que permita
+determinar la fecha cierta de recepción; y ii) que el laudo aplicó el plazo quinquenal de prescripción previsto en
+el Código Civil de Holanda, en contra de la doctrina de fallos dictados por distintos tribunales de nuestro país
+referidas a los contratos de reaseguro y retrocesión.
+8°) Que, en esas condiciones, a fin de delimitar el alcance de la competencia apelada de esta Corte, deben
+tenerse en cuenta tres cuestiones preliminares:
+i) En primer lugar, ambas partes han consentido la decisión de primera instancia en cuanto declaró
+cumplidos los recaudos formales del exequátur solicitado (artículo 517, incisos 1, 2 y 3; y artículos IV y V,
+incisos a y b de la Convención de Nueva York sobre el Reconocimiento y la Ejecución de Sentencias Arbitrales
+Extranjeras de 1958).
+ii) En segundo término, la parte actora, al recurrir esa sentencia, solicitó subsidiariamente el reconocimiento
+parcial del laudo conforme al régimen de consolidación. Y adoptada esta decisión por la cámara de apelaciones,
+no interpuso recurso ante esta Corte, de manera que consintió la consolidación de las sumas reclamadas. En
+consecuencia, este Tribunal carece de jurisdicción para reconocer y ordenar la ejecución del laudo y sus
+sentencias confirmatorias en los términos planteados en la demanda —esto es, en tanto dispuso una condena en
+dólares estadounidenses y con intereses calculados a una tasa del 6%—, ya que la propia accionante ha
+peticionado y consentido la aplicación del régimen de consolidación.
+iii) Por último, si bien la sentencia de primera instancia denegó el reconocimiento y ejecución del laudo,
+también rechazó los argumentos de fondo esgrimidos por la demandada, quien al contestar el memorial de
+agravios presentado por D.R. los mantuvo en los siguientes términos: “no obstante lo manifestado, reiteramos
+todas las defensas que fueron esgrimidas en la contestación de demanda juntamente con la acogida por el juez
+de grado. A ella nos remitimos a fin de no efectuar idénticas manifestaciones en orden a la economía procesal”
+(cfr. fs. 470).
+Sobre el punto, debe recordarse que no puede exigirse a quien obtuvo una sentencia favorable en primera
+instancia que apele tal decisión para que la alzada revise determinados fundamentos o capítulos examinados en
+el pronunciamiento en sentido opuesto al pretendido por el litigante —pues habría ausencia de gravamen, desde
+el punto de vista procesal, que hiciera viable al recurso—, razón por la cual se ha resuelto que pueden
+plantearse, al contestar el memorial, los argumentos o defensas desechados en la instancia anterior (doctrina de
+© Thomson Reuters Información Legal
+
+8
+
+Documento
+
+Fallos: 253:463; 258:7; 300:1117; 311:696; 315:2125, entre otros).
+Esta fue, precisamente, la conducta que adoptó el Estado Nacional, quien, al remitir a las defensas
+articuladas en la contestación de demanda, demostró interés suficiente en mantenerlas ante la cámara de
+apelaciones. Por lo cual, corresponde a esta Corte resolver esos planteos de fondo, ya que al conocer en los
+recursos ordinarios tiene, con respecto a las pretensiones y oposiciones oportunamente interpuestas, la misma
+competencia que corresponde al juez de primera instancia, con excepción de las cuestiones expresa o
+implícitamente excluidas —en el caso, las reseñadas en los puntos i) y ii) de este considerando— (Fallos:
+332:1147; 334:95).
+9°) Que en esos términos, los agravios propuestos por el Estado Nacional llevan a decidir las siguientes
+cuestiones: i) la posibilidad de revisar, en el marco de este exequátur, los asuntos resueltos por el tribunal
+arbitral extranjero que la cámara omitió en su sentencia, y, en su caso, con qué alcance procede esa revisión; ii)
+la existencia de una violación al orden público internacional argentino por el laudo arbitral del 26 de abril de
+2006 y los fallos confirmatorios del 1° de agosto y 16 de noviembre de 2007; iii) en caso de que esa violación
+existiere, si ello acarrea el rechazo del laudo o puede admitirse su ejecución parcial; y iv) si, en definitiva, es
+viable la ejecución parcial consolidando los importes del laudo, tal como ordenó la cámara de apelaciones.
+10) Que el alcance del control que los tribunales pueden realizar en el marco de un exequátur exige una
+comprensión de la finalidad y sentido de este singular procedimiento, consecuencia —en este caso— del
+instituto de la prórroga de jurisdicción hacia tribunales extranjeros.
+La prórroga de la función jurisdiccional debe entenderse como una decisión estatal voluntaria, avalada por
+las leyes del país en función de la naturaleza de los actos involucrados (artículos 1° y cc. del Cód. Proc. Civ. y
+Com. de la Nación), por medio de la cual el Estado asume la posibilidad de ingresar en un sistema jurisdiccional
+extranjero previsible y funcionalmente regular. Así comprendida, esta prórroga supone un relacionamiento de
+ordenamientos jurídicos (el local que lo permite y el extranjero que lo habilita) en términos de reciprocidad e
+igualdad de los Estados, y no un sometimiento unilateral sin reencuentro del ordenamiento jurídico del estado
+prorrogante consigo mismo al final del camino (conf. artículo XIV de la Convención de Nueva York y reserva
+de reciprocidad prevista en el artículo 2 de la ley 23.619; artículo 519 bis, punto 1, del Cód. Proc. Civ. y Com.
+de la Nación, en cuanto remite al artículo 1° de ese código; norma derogada por el artículo 107 de la ley 27.449,
+cuyas disposiciones no impactan sustancialmente en la decisión de este pleito).
+Dicho de otro modo: el relacionamiento que supone la prórroga de jurisdicción no se extingue con la
+habilitación al tribunal foráneo, sino que continúa con la ejecución de lo decidido en extraña jurisdicción, por
+vía del exequátur o autorización para la ejecución (v.gr.: artículos 517 a 519 bis del Cód. Proc. Civ. y Com. de
+la Nación).
+11) Que el exequátur tiene por objeto convertir la sentencia extranjera en un título ejecutorio local, para lo
+cual se exige —entre otros recaudos— su compatibilidad con los principios de orden público del derecho
+argentino.
+En efecto, el artículo 517 del Cód. Proc. Civ. y Com. de la Nación sujeta el reconocimiento de la fuerza
+ejecutoria de una sentencia extranjera a que esta “no afecte los principios de orden público del derecho
+argentino”; norma que no solo encuentra un correlato en la citada Convención de Nueva York de 1958, sino
+también “en una abrumadora cantidad de convenios bilaterales e internacionales suscriptos por nuestro país, en
+concordancia con la gran mayoría de las legislaciones internas que supeditan el reconocimiento y la ejecución
+de las decisiones foráneas a la condición de que no afecten el orden público o las políticas públicas
+fundamentales de los respectivos países” (Fallos: 337:133).
+Ese control supone, cuando el Estado es parte del proceso, examinar la adecuación del laudo emitido en el
+extranjero a los principios de derecho público establecidos en esta Constitución Nacional a los cuales alude su
+artículo 27 y entre los cuales se encuentra: a) la forma representativa, republicana y federal de gobierno (artículo
+1° de la Ley Fundamental); b) el principio de juridicidad y el de reserva (artículo 19); c) el principio de igualdad
+(artículos 15, 16, 75 inciso 23 y concordantes); d) el carácter no absoluto de los derechos y la pauta de
+razonabilidad para su reglamentación (artículos 14, 28, 99 inciso 2 y concordantes, Constitución Nacional); e) el
+debido proceso legal (artículo 18 y concordantes y Fallos: 319:2411; 328:3193; 336:503); y f) las medidas de
+emergencia adoptadas para garantizar la existencia misma de la Nación (Fallos: 337:133, citado).
+La cláusula en cita, originaria de la Constitución de 1853/60, establece una esfera de reserva soberana
+(denominada margen de apreciación nacional) en función de la cual no es posible hacer prevalecer
+automáticamente, sin escrutinio alguno, el derecho internacional —sea de fuente normativa o jurisprudencial—
+© Thomson Reuters Información Legal
+
+9
+
+Documento
+
+sobre el ordenamiento constitucional (cfr. in re “Ministerio de Relaciones Exteriores y Culto s/ informe
+sentencia dictada en el caso "Fontevecchia y D'Amico c. Argentina" por la Corte Interamericana de Derechos
+Humanos”, Fallos: 340:47, voto del doctor Rosatti, considerando 5°).
+Naturalmente, como principio, el examen de compatibilidad propio del exequátur no puede llegar al extremo
+de reeditar las cuestiones que ya fueron sometidas a decisión arbitral y tampoco es lógico equiparar ese control
+al que se lleva a cabo en la etapa de revisión judicial del laudo. En efecto “la comprobación de los recaudos
+exigidos por la ley 23.619 [y, en el caso, el Cód. Proc. Civ. y Com. de la Nación] para la ejecución del laudo
+arbitral no autoriza a revisar o alterar las decisiones de fondo adoptadas en el pronunciamiento, debiendo
+circunscribirse el tribunal a la verificación de la concurrencia de los requisitos indicados” (Fallos: 334:552).
+12) Que, en tales condiciones, no es posible reiterar en esta oportunidad la ponderación de los elementos
+fácticos del caso que llevaron a cabo los tribunales extranjeros —el tribunal arbitral y el juez del Distrito Sur de
+Nueva York—, ya que ello implicaría reabrir una nueva instancia de revisión ajena a la finalidad y sentido del
+exequátur.
+En ese orden, el apelante no ha demostrado una violación al debido proceso legal durante el trámite del
+arbitraje ni en la etapa de revisión judicial. Las cuestiones articuladas por el Estado Nacional al contestar la
+demanda fueron planteadas oportunamente en idénticos términos ante el tribunal arbitral y merecieron expreso
+debate y tratamiento en el laudo definitivo (cfr. específicamente fs. 56/59 y 92/97; y voto en disidencia, a fs.
+77/78 y 111), y en la sentencia de revisión del 1° de agosto de 2007 (cfr. fs. 133 y 136, 148, 150). En ambas
+oportunidades los árbitros y el juez revisor valoraron y debatieron sobre la aplicación de la ley holandesa o
+argentina en materia de prescripción y poderes, y resolvieron los cuestionamientos referidos a la carta cursada
+por el señor Lazzati el 29 de julio de 1992, descartando la inexistencia de poder suficiente para interpelar a La
+Caja, la ausencia de constancia de recepción y la extemporaneidad de la presentación de la misiva como prueba
+ante el tribunal arbitral.
+13) Que este Tribunal ha resuelto que las sentencias extranjeras contrarias al proceso de reestructuración de
+la deuda pública dispuesto mediante normas de emergencia violan el orden público nacional en los términos del
+artículo 517, inciso 4°, del Cód. Proc. Civ. y Com. de la Nación (Fallos: 337:133, citado, considerando 8°).
+Razonamiento que deviene igualmente aplicable a la consolidación de deudas prevista por la ley 23.982 y
+siguientes, en tanto importa una medida de emergencia consistente en la novación de las obligaciones
+originarias del Estado Nacional y sus accesorios, por la cual solo subsisten para el acreedor los derechos
+derivados de ella, en orden a la cancelación de los, créditos sujetos a consolidación (Fallos: 331:2231; 333:138;
+entre otros). En particular, no puede perderse de vista que el artículo 1°, inciso c, de la ley 23.982 incluye
+expresamente dentro de su ámbito de aplicación a los laudos arbitrales.
+En el caso, la sentencia arbitral cuyo reconocimiento se pretende, ordenó el pago de U$S 7.390.044 más un
+6% de interés anual desde la fecha de vencimiento de los montos reclamados; accesorios que fueron
+cuantificados al 31 de julio de 2007 en la sentencia judicial rectificatoria del 16 de noviembre de 2007 en la
+suma de U$S 8.642.622,50 (fs. 159). Lo dicho entra en conflicto directo con la consolidación que dispuso el
+artículo 17 de la ley 24.624 y, por lo tanto, configura una decisión contraria al orden público nacional no solo
+por colisionar con una norma de emergencia, sino también debido a que su ejecución directa implicaría
+conceder mejores condiciones de cobro frente al Estado a la parte actora por el solo hecho de haber obtenido un
+laudo arbitral extranjero favorable, quebrando el principio constitucional de igualdad.
+14) Que las consideraciones anteriores no conducen, en el caso, al absoluto desconocimiento del laudo ni al
+rechazo del exequátur, ya que —como se ha visto— tanto la letra de las normas que regulan este procedimiento
+como el espíritu que lo informa, lo erigen como un medio para compatibilizar ordenamientos jurídicos y
+convertir —en cuanto sea posible— al laudo extranjero en un título ejecutorio local.
+Por esa razón, la Convención de Nueva York, a la cual remite el artículo 517, primera parte, del Cód. Proc.
+Civ. y Com. de la Nación, reconoce el derecho de las partes interesadas a “hacer valer una sentencia arbitral en
+la forma y medida admitidas por la legislación o los tratados del país donde dicha sentencia se invoque”. De
+manera que, en la medida en que la afectación al orden público internacional pueda individualizarse y
+escindirse, resultará viable la ejecución parcial de las disposiciones que no entren en conflicto con el
+ordenamiento jurídico nacional.
+En el caso, la decisión que se pretende ejecutar recepta una pretensión de condena a pagar una suma de
+dinero, precedida de una pretensión declarativa del derecho de D.R. a obtener el cobro de las sumas derivadas
+de los contratos de retrocesión celebrados en 1975 y 1977, cuantificadas en U$S 7.390.044 en concepto de
+capital. En esos términos, el supuesto de hecho difiere sustancialmente del precedente de Fallos: 337:133, en
+© Thomson Reuters Información Legal
+
+10
+
+Documento
+
+donde la sentencia extranjera tenía por objeto, precisamente, no aplicar la normativa de emergencia de
+reestructuración de la deuda pública y determinar una modalidad de pago distinta a la allí prevista. En aquella
+oportunidad, reconocer y ejecutar la sentencia, implicaba violar la normativa de pesificación de los títulos
+públicos y el diferimiento de pago de la deuda soberana; mientras que, en el presente, la aplicación del régimen
+de consolidación permite —como sus propios términos lo indican— el cumplimiento parcial del laudo.
+15) Que, en tales condiciones, la sentencia apelada, en la medida en que admitió el reconocimiento y la
+ejecución de la decisión arbitral y consolidó los importes reclamados, no ha limitado la aplicación de ese
+régimen de orden público a los intereses devengados ni a la tasa de interés fijada. Por el contrario, difirió la
+determinación de la totalidad del monto de la condena a la etapa de ejecución de sentencia, lo cual resulta
+acorde al artículo 518, último párrafo, del Cód. Proc. Civ. y Com. de la Nación, y permite resolver en el
+momento oportuno lo atinente a la expresión del capital a la fecha de corte, y todos los demás planteos
+postulados por el Estado Nacional.
+Por ello, se confirma la sentencia apelada. Con costas por su orden, en atención a las particularidades de la
+cuestión debatida. Notifíquese y, oportunamente, devuélvase. — Horacio Rosatti.
+
+© Thomson Reuters Información Legal
+
+11
+
+

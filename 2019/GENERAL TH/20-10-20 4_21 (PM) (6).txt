@@ -1,0 +1,193 @@
+Documento
+
+Voces:
+COMPETENCIA ORIGINARIA DE LA CORTE SUPREMA DE JUSTICIA DE LA NACION ~ CUESTION
+FEDERAL ~ ENERGIA ELECTRICA ~ MEDIDAS CAUTELARES ~ PROCEDENCIA DE LA MEDIDA
+CAUTELAR ~ PROVINCIA ~ PROVINCIA DE BUENOS AIRES
+Tribunal: Corte Suprema de Justicia de la Nación(CS)
+Fecha: 25/06/2019
+Partes: Transportadora Mar del Plata S.A. c. Provincia de Buenos Aires s/ acción declarativa de certeza
+Cita Online: AR/JUR/24271/2019
+Sumarios:
+1 . La medida cautelar tendiente a que la Provincia de Buenos Aires se abstenga de cobrar el Impuesto sobre los
+Ingresos Brutos a una empresa, con respecto a una obra de interconexión eléctrica, es procedente, pues la
+circunstancia de que el gravamen no es susceptible de traslación, y por ende no puede ser incorporado a la tarifa,
+así como la posibilidad de una doble imposición lleva a apartarse del criterio restrictivo en materia de cautelares
+frente a la actividad fiscal local (de la doctrina de la Corte sentada en “Centrales Térmicas Patagónicas S.A.”
+—Fallos: 336:1415; AR/JUR/58082/2013— a la cual remite).
+2 . La acción declarativa por la que se pretende hacer cesar la incertidumbre respecto a la pretensión de la
+Provincia de Buenos Aires de gravar con el Impuesto sobre los Ingresos Brutos la actividad exenta que realiza
+una empresa, esto es la construcción, operación y mantenimiento de la obra de interconexión eléctrica,
+corresponde a la competencia originaria de la Corte Suprema de Justicia de la Nación, pues existe cuestión
+constitucional atinente a la alegada afectación que el tributo local podría producir en la regulación del sistema
+de energía eléctrica, que es materia reservada al gobierno central (del dictamen de la Procuradora Fiscal que la
+Corte hace suyo).
+Texto Completo:
+CSJ 1425/2016
+(JUICIOS ORIGINARIOS)
+Suprema Corte:
+-IA fs. 144/163 Transportadora Mar del Plata SA promueve acción declarativa en los términos del art. 322 del
+Cód. Proc. Civ. y Com. de la Nación, contra la Provincia de Buenos Aires y su Agencia de Recaudación
+(ARBA), a fin de hacer cesar el estado de incertidumbre en que dice hallarse frente a la pretensión de las
+demandadas de gravar la actividad que realiza con el impuesto sobre los ingresos brutos aun cuando, según
+afirma, dicha actividad, según surge del marco federal regulatorio de la energía eléctrica (leyes 15.336 y 24.065
+y el decreto 1398, entre otras), que la rige, está exenta del pago del tributo.
+Añade que las demandadas exteriorizaron la referida pretensión fiscal al practicarle —con sustento en la
+disposición normativa serie “B” 1/04 y sus modificatorias— percepciones en el impuesto a través de distintos
+agentes de recaudación y al incluirlo —y mantenerlo pese a las presentaciones que efectuó ante ARBA— en el
+padrón de contribuyentes sujetos a las percepciones.
+Señala que es una empresa constituida con el objeto único y exclusivo de dar ejecución y cumplimiento a
+todas las obligaciones —principales y accesorias— establecidas en el contrato COM (es decir, de construcción,
+operación y mantenimiento) de la obra de “Interconexión eléctrica en 500 kw denominada Bahía Blanca-Mar
+del Plata, vinculación en 132 kv a Villa Gesell y obras complementarias tramo norte”, de la que resultó
+adjudicataria en virtud de un proceso licitatorio correspondiente al Plan Federal de Transporte de Energía
+Eléctrica en 500 kv.
+Puntualiza que en el aludido contrato COM se previó expresamente la prohibición de gravar el canon anual
+que, destaca, es la única contraprestación que recibe del Estado, por entenderse que todo impuesto provincial
+“y/o” municipal que incida sobre dicho canon dificulta la libre circulación de la energía eléctrica. Expresa que, a
+pesar de ello, ARBA no le reconoció la referida exención y continuó percibiendo el impuesto.
+Considera que la pretensión de la provincia de practicarle percepciones por un tributo del cual se encuentra
+exenta: a) vulnera el principio de jerarquía normativa (art. 31 de la CN); b) constituye un avance sobre las
+facultades delegadas al Gobierno Nacional (art. 75, incs. 13, 14, 18 y 32, también de la CN), c) viola expresas
+disposiciones del marco regulatorio del sistema eléctrico nacional (leyes 15.336 y 24.065 y del Pacto Federal
+para el Empleo, la Producción y el Crecimiento que, sostiene, lo integra), así como da las establecidas en el
+© Thomson Reuters Información Legal
+
+1
+
+Documento
+
+pliego de licitación y el contrato COM, y d) es una violación palmaria a la doctrina que el Tribunal dejó sentada
+en distintos precedentes.
+Asimismo, sostiene que los actos administrativos por los que la Provincia de Buenos Aires le exige el pago
+del aludido impuesto resultan contrarios a los derechos de propiedad, seguridad jurídica, legalidad y
+razonabilidad, todos ellos consagrados, afirma, en nuestro texto constitucional.
+Finalmente, requiere el dictado de una medida cautelar, por la que, hasta tanto se dicte sentencia definitiva
+en esta causa, se ordene a la Provincia de Buenos Aires y a ARBA que se abstengan de aplicarle las
+percepciones que aquí cuestiona así como de reclamarle el pago del tributo por cualquier otra vía o forma de
+liquidación.
+A fs. 164, se corre vista, por la competencia, a este Ministerio Público.
+- II Ante todo, corresponde señalar que, a los fines de dilucidar cuestiones de competencia, ha de estarse, en
+primer lugar a los hechos que se relatan en el escrito de demanda y después, y sólo en la medida en que se
+adecue a ellos, al derecho que se invoca como fundamento de la pretensión, así como también a la naturaleza
+jurídica de la relación existente entre las partes (Fallos: 328:73; 329:5514).
+Desde mi punto de vista, más allá de que la acción declarativa de certeza que inició la actora tenga su origen
+en actos de naturaleza local —y es del caso aclarar que ella no cuestiona aquí el régimen de percepciones en
+sí— lo medular de la cuestión planteada se encuentra dirigido a determinar si la pretensión de la Provincia de
+Buenos Aires de gravar a Transportadora Mar del Plata SA por la actividad que desarrolla en el marco de un
+contrato COM con el impuesto sobre los ingresos brutos local, viola no sólo lo establecido en el régimen federal
+regulatorio de la energía eléctrica sino si ella también constituye un avance de la provincia sobre las facultades
+delegadas al Gobierno Nacional.
+Tal circunstancia implica que la causa se encuentra entre las especialmente regidas por la Constitución
+Nacional, a las que alude el art. 2°, inc. 1°) de la ley 48, ya que versa sobre la preservación de las órbitas de
+competencia entre las jurisdicciones locales y el Gobierno Federal que determina nuestra Ley Fundamental, lo
+que torna competente a la justicia nacional para entender en ella (Fallos: 314:508; 315:1479; 322:2624, entre
+muchos otros).
+En este sentido, el núcleo del planteamiento que se efectúa en autos remite necesariamente a desentrañar el
+sentido y los alcances de las leyes 15.336 y 24.065 —que integran el marco regulatorio eléctrico— y de los arts.
+31 y 75, incs. 13, 14, 18 y 32 de la Constitución Nacional) que revisten inequívoco carácter federal, cuya
+adecuada hermenéutica resultará esencial para la solución del caso y permitirá apreciar si existe la violación
+constitucional que se alega (Fallos: 311:2154, cons. 4°, 322:2624; 327:1211; 330:542, y C.349, L.XLIV,
+“Compañía Administradora del Mercado Mayorista Eléctrico SA c. Chubut, Provincia del s/ medida cautelar”,
+sentencia del 7 de diciembre de 2010, entre otros), por lo que cabe asignar manifiesto contenido de igual
+naturaleza a la materia del pleito.
+De lo expuesto se desprende, con claridad, que lo que determina la competencia federal en el sub iudice es la
+cuestión constitucional atinente a la alegada afectación que la pretensión tributaria local podría producir en la
+regulación del sistema de energía eléctrica, que es —como se dijo— materia reservada al ejercicio de los
+poderes del gobierno central.
+- III Por todo ello y, de conformidad con lo resuelto por V.E., en las causas: C.253. L.XLIX., “Central Puerto SA
+c. Buenos Aires, Provincia de s/ medida cautelar”, sentencia del 28 de noviembre de 2013, e I.2, LA LEY
+“Integración Eléctrica Sur Argentina SA c. Buenos Aires, provincia de y otros s/ acción declarativa de certeza”,
+sentencia del 4 de noviembre de 2014, sustancialmente análogas a la presente —en las que compartió el criterio
+sustentado por este Ministerio Público en sus dictámenes del 17 de abril de 2013 y del 23 de abril de 2014—,
+opino que, al ser parte una provincia en una causa de manifiesto contenido federal —cualquiera sea la vecindad
+o nacionalidad de la actora (Fallos: 317:473; 318:30 y sus citas y 323:1716, entre otros)— el proceso
+corresponde a la competencia originaria de la Corte. Buenos Aires, diciembre 21 de 2016. — Laura M. Monti.
+CSJ 1425/2016
+ORIGINARIO
+Buenos Aires, junio 25 de 2019.
+© Thomson Reuters Información Legal
+
+2
+
+Documento
+
+Considerando: 1°) Que a fs. 144/163 Transportadora Mar del Plata SA promueve acción declarativa en los
+términos del artículo 322 del Cód. Proc. Civ. y Com. de la Nación, contra la Provincia de Buenos Aires y su
+Agencia de Recaudación (ARBA), a fin dé hacer cesar el estado de incertidumbre en que dice hallarse frente a
+la pretensión de la demandada de gravar la actividad que realiza con el impuesto sobre los ingresos brutos aun
+cuando, según afirma, dicha actividad se encuentra exenta del pago del tributo, de acuerdo a lo establecido en el
+marco federal regulatorio de la energía eléctrica que la rige (leyes 15.336 y 24.065 y el decreto 1398/1992, entre
+otras).
+Añade que la demandada exteriorizó la referida pretensión fiscal al practicarle —con sustento en la
+disposición normativa serie “B” 1/04 y sus modificatorias— percepciones en el impuesto a través de distintos
+agentes de recaudación y al incluirla —y mantenerla pese a las presentaciones que efectuó ante ARBA— en el
+padrón de contribuyentes sujetos a las percepciones.
+Señala que es una empresa constituida con el objeto único y exclusivo de dar ejecución y cumplimiento a
+todas las obligaciones —principales y accesorias— establecidas en el contrato COM (es decir, de construcción,
+operación y mantenimiento) de la obra de “Interconexión eléctrica en 500 Kv denominada Bahía Blanca-Mar
+del Plata, vinculación en 132 Kv a Villa Gesell y obras complementarias tramo norte”, de la que resultó
+adjudicataria en virtud de un proceso licitatorio correspondiente al Plan Federal de Transporte de Energía
+Eléctrica en 500 Kv.
+Puntualiza que en el aludido contrato COM se previó expresamente la prohibición de gravar el canon anual
+que, destaca, es la única contraprestación que recibe del Estado, por entenderse que todo impuesto provincial
+“y/o” municipal que incida sobre dicho canon dificulta la libre circulación de la energía eléctrica. Expresa que, a
+pesar de ello, ARBA no le reconoció la referida exención y continuó percibiendo el impuesto.
+Considera que la pretensión de la demandada de practicarle percepciones por un tributo del cual se
+encuentra exenta: a) vulnera el principio de jerarquía normativa (artículo 31 de la Constitución Nacional); b)
+constituye un avance sobre las facultades delegadas al Gobierno Nacional (artículo 75, incisos 13, 14, 18 y 32,
+también de la Constitución Nacional), c) viola expresas disposiciones del marco regulatorio del sistema
+eléctrico nacional (leyes 15.336 y 24.065 y del Pacto Federal para el Empleo, la Producción y el Crecimiento
+que, sostiene, lo integra), así como de las establecidas en el pliego de licitación y el contrato COM, y d) es una
+violación palmaria a la doctrina que el Tribunal dejó sentada en distintos precedentes.
+Asimismo, sostiene que los actos administrativos por los que la demandada le exige el pago del aludido
+impuesto resultan contrarios a los derechos de propiedad, seguridad jurídica, legalidad y razonabilidad,
+consagrados en nuestro texto constitucional.
+Finalmente, requiere el dictado de una medida cautelar, por la que, hasta tanto se dicte sentencia definitiva
+en esta causa, se ordene a la Provincia de Buenos Aires y a ARBA que se abstengan de aplicarle las
+percepciones que aquí cuestiona así como de reclamarle el pago del tributo por cualquier otra vía o forma de
+liquidación.
+2°) Que, asimismo, con el escrito de demanda y la presentación de fs. 279 —resultado del requerimiento de
+fs. 173—, la parte actora acompañó documentación con relación a los proveedores a los que se refiere en el
+párrafo cuarto del apartado 4.1.4 de fs. 149 vta., y a fs. 285 manifestó que la totalidad de ellos proveen bienes y
+servicios que hacen a la actividad específica realizada por Transportadora Mar del Plata SA.
+3°) Que la presente demanda es de la competencia originaria de esta Corte, de acuerdo con los fundamentos
+y la conclusión expuestos en el dictamen de la señora Procuradora Fiscal de fs. 166/168, a los que cabe remitir
+en razón de brevedad.
+4°) Que esta Corte ha establecido que si bien por vía de principio medidas cautelares como las requeridas,
+no proceden respecto de actos administrativos o legislativos, habida cuenta de la presunción de validez que
+ostentan, tal doctrina debe ceder cuando se los impugna sobre bases prima facie verosímiles (Fallos: 251:336;
+307:1702; 314:695).
+5°) Que en el presente caso el Tribunal considera que se configuran los presupuestos necesarios para acceder
+a la solicitud de la actora y, en el limitado marco de conocimiento propio del instituto en examen, no puede
+dejar de ponderar que la situación resulta prima facie análoga a la resuelta por esta Corte en las causas CSJ
+147/2008 (44-I)/CS1 “Intesar SA c. Chubut, Provincia del y otro s/ acción declarativa de certeza”, sentencia del
+18 de diciembre de 2012 y “Transportadora Cuyana SA” (Fallos: 339:569), circunstancia que torna procedente
+apartarse del criterio restrictivo con que deben considerarse este tipo de medidas cautelares frente al ejercicio de
+la actividad fiscal provincial (causa CSJ 1553/2016 “Transportadora del Norte SA y otra c. Mendoza, Provincia
+© Thomson Reuters Información Legal
+
+3
+
+Documento
+
+de s/ acción declarativa de certeza”, pronunciamiento del 12 de diciembre de 2017, y sus citas en cons. 4°, entre
+otros).
+Por ello, y de conformidad con lo dictaminado por la señora Procuradora Fiscal, se resuelve: I. Declarar que
+la presente causa corresponde a la competencia originaria de esta Corte. II. Correr traslado de la demanda a la
+Provincia de Buenos Aires por el plazo de sesenta días, la que tramitará por las normas del proceso ordinario.
+Líbrese oficio al juez federal en turno de la ciudad de La Plata a efectos de que notifique a la señora
+Gobernadora y al señor Fiscal de Estado el traslado dispuesto (artículo 341 del Cód. Proc. Civ. y Com. de la
+Nación). III. Decretar la medida cautelar pedida y, en consecuencia, ordenar a la demandada que se abstenga de
+cobrar el impuesto sobre los ingresos brutos a la empresa actora, con respecto a la actividad concerniente a la
+obra de “Interconexión eléctrica en 500 Kv denominada Bahía Blanca-Mar del Plata, vinculación en 132 Kv a
+Villa Gesell y obras complementarias tramo norte”. Notifíquese a la señora Gobernadora por oficio.
+Comuníquese a la Procuración General de la Nación y notifíquese a la actora por Secretaría. — Carlos F.
+Rosenkrantz. — Ricardo L. Lorenzetti. — Elena I. Highton de Nolasco. — Juan C. Maqueda. — Horacio
+Rosatti.
+
+© Thomson Reuters Información Legal
+
+4
+
+
